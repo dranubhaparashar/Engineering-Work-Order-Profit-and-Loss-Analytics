@@ -168,7 +168,7 @@ Risk bands also consider rework and travel:
 - **Medium:** margin below the medium-risk threshold, rework of at least 3 hours, or travel of at least 5 hours
 - **Low:** none of the configured risk conditions are met
 
-See [docs/financial-calculations.md](docs/financial-calculations.md) for definitions and examples.
+See [financial-calculations.md](financial-calculations.md) for definitions and examples.
 
 ## Regenerate the synthetic data
 
