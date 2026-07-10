@@ -243,6 +243,3 @@ Before connecting the project to real systems:
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening an issue or pull request. Please report security concerns according to [SECURITY.md](SECURITY.md).
 
-## License
-
-Released under the [MIT License](LICENSE). The license applies to the source code and documentation, not to any third-party or proprietary datasets that a user may connect separately.
