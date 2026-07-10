@@ -218,8 +218,6 @@ Start with:
 - [Developer Guide](developer-guide.md)
 - [GitHub Wiki Home](https://github.com/dranubhaparashar/Engineering-Work-Order-Profit-and-Loss-Analytics/wiki)
 
-To publish the included Wiki pages to an enabled GitHub Wiki, see [wiki-publishing.md](wiki-publishing.md).
-
 ## Limitations
 
 - Financial logic is a demonstration and is not an accounting standard or audited financial model.
