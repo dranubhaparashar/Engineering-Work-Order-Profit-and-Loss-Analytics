@@ -213,9 +213,9 @@ Start with:
 - [Project Structure](PROJECT_STRUCTURE.md)
 - [GitHub Repository Setup](GITHUB_REPOSITORY_SETUP.md)
 - [A–Z File Guide](A-Z_FILE_GUIDE.md)
-- [Installation](docs/installation.md)
-- [User Guide](docs/user-guide.md)
-- [Developer Guide](docs/developer-guide.md)
+- [Installation](installation.md)
+- [User Guide](user-guide.md)
+- [Developer Guide](developer-guide.md)
 - [GitHub Wiki Home](wiki/Home.md)
 
 To publish the included Wiki pages to an enabled GitHub Wiki, see [docs/wiki-publishing.md](docs/wiki-publishing.md).
