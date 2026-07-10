@@ -1,0 +1,17 @@
+milestone_order,milestone,dummy_unit
+1,Intake,Intake
+2,Pre-field,Pre-field
+3,Fielding,Field Travel
+3,Fielding,Site Visit
+3,Fielding,Fielding
+3,Fielding,Field QC
+4,OCALC,Pole loading
+5,Design,Design
+5,Design,Design QC
+5,Design,Rework - Design
+6,Permitting,Permit Admin
+6,Permitting,Unscaled Permit
+6,Permitting,Quality Control - Permit
+7,Final Delivery,Final Delivery
+7,Final Delivery,Rework - Final Delivery
+8,Billing,Revenue true-up

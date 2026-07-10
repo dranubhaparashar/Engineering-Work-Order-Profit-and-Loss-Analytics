@@ -1,0 +1,601 @@
+work_order_number,customer,account,budgeted_program,job_category,bid_region,intake_date,planned_close_date,actual_close_date,status,target_margin_pct,medium_risk_threshold_pct,high_risk_threshold_pct
+WO-35000000,Telecom Alpha,Central Engineering,Fiber Modernization,Mixed Plant,LA,2025-10-14,2025-11-05,,On Hold,0.28,0.22,0.12
+WO-35000001,Telecom Beta,Southeast Engineering,BAU Engineering,Buried Design,AL,2026-03-24,2026-04-15,2026-04-15,Closed,0.35,0.22,0.12
+WO-35000002,FiberLink,Southeast Engineering,ASE Expansion,Buried Design,MS,2025-10-21,2025-11-17,2025-11-09,Closed,0.35,0.22,0.12
+WO-35000003,FiberLink,Southeast Engineering,Fiber Modernization,Mixed Plant,FL,2026-03-22,2026-04-25,,Billing Pending,0.35,0.22,0.12
+WO-35000004,FiberLink,Central Engineering,BAU Engineering,Mixed Plant,GA,2025-02-12,2025-02-24,,On Hold,0.28,0.22,0.12
+WO-35000005,MetroNet Demo,Southeast Engineering,ASE Expansion,Mixed Plant,LA,2025-06-09,2025-07-18,2025-07-10,Closed,0.28,0.22,0.12
+WO-35000006,Telecom Alpha,Central Engineering,BAU Engineering,Mixed Plant,GA,2025-05-18,2025-05-26,,On Hold,0.28,0.22,0.12
+WO-35000007,FiberLink,Central Engineering,ASE Expansion,Mixed Plant,MS,2025-10-24,2025-11-06,2025-11-05,Closed,0.35,0.22,0.12
+WO-35000008,Telecom Beta,Central Engineering,BAU Engineering,Buried Design,MS,2026-04-06,2026-05-12,,Billing Pending,0.3,0.22,0.12
+WO-35000009,Telecom Beta,Southeast Engineering,BAU Engineering,Aerial Design,GA,2025-01-14,2025-03-03,2025-03-04,Closed,0.28,0.22,0.12
+WO-35000010,Telecom Beta,Gulf Engineering,ASE Expansion,Permit Only,TX,2025-08-09,2025-09-14,,In Progress,0.32,0.22,0.12
+WO-35000011,Telecom Beta,Gulf Engineering,ASE Expansion,Aerial Design,FL,2025-12-20,2026-01-31,,In Progress,0.3,0.22,0.12
+WO-35000012,MetroNet Demo,Southeast Engineering,Fiber Modernization,Aerial Design,AL,2025-03-19,2025-05-01,2025-05-10,Closed,0.35,0.22,0.12
+WO-35000013,Telecom Beta,Gulf Engineering,Fiber Modernization,Mixed Plant,MS,2025-04-17,2025-05-09,,In Progress,0.3,0.22,0.12
+WO-35000014,Telecom Beta,Gulf Engineering,Fiber Modernization,Buried Design,AL,2026-04-28,2026-05-19,,In Progress,0.3,0.22,0.12
+WO-35000015,Telecom Alpha,Central Engineering,BAU Engineering,Mixed Plant,GA,2025-04-27,2025-05-31,,In Progress,0.32,0.22,0.12
+WO-35000016,FiberLink,Southeast Engineering,Fiber Modernization,Permit Only,FL,2025-10-04,2025-10-22,,In Progress,0.3,0.22,0.12
+WO-35000017,MetroNet Demo,Central Engineering,BAU Engineering,Mixed Plant,AL,2026-04-29,2026-05-10,,In Progress,0.28,0.22,0.12
+WO-35000018,Telecom Beta,Gulf Engineering,ASE Expansion,Buried Design,AL,2026-03-23,2026-04-11,2026-04-04,Closed,0.35,0.22,0.12
+WO-35000019,Telecom Beta,Southeast Engineering,Fiber Modernization,Buried Design,TX,2025-05-07,2025-05-22,2025-05-27,Closed,0.3,0.22,0.12
+WO-35000020,Telecom Beta,Gulf Engineering,BAU Engineering,Buried Design,GA,2025-11-22,2025-12-18,2025-12-19,Closed,0.3,0.22,0.12
+WO-35000021,Telecom Beta,Gulf Engineering,Fiber Modernization,Buried Design,AL,2026-02-22,2026-04-02,2026-04-03,Closed,0.3,0.22,0.12
+WO-35000022,MetroNet Demo,Central Engineering,BAU Engineering,Mixed Plant,GA,2025-12-16,2026-01-01,2026-01-06,Closed,0.32,0.22,0.12
+WO-35000023,MetroNet Demo,Gulf Engineering,Fiber Modernization,Mixed Plant,FL,2025-02-06,2025-03-13,2025-03-05,Closed,0.28,0.22,0.12
+WO-35000024,MetroNet Demo,Central Engineering,ASE Expansion,Mixed Plant,FL,2025-05-24,2025-06-13,,In Progress,0.28,0.22,0.12
+WO-35000025,FiberLink,Central Engineering,BAU Engineering,Buried Design,TX,2025-05-04,2025-06-04,2025-06-03,Closed,0.35,0.22,0.12
+WO-35000026,FiberLink,Central Engineering,ASE Expansion,Aerial Design,AL,2025-12-16,2026-01-11,2026-01-19,Closed,0.32,0.22,0.12
+WO-35000027,FiberLink,Central Engineering,BAU Engineering,Permit Only,GA,2025-03-05,2025-03-21,,In Progress,0.35,0.22,0.12
+WO-35000028,Telecom Beta,Southeast Engineering,BAU Engineering,Buried Design,LA,2025-05-18,2025-06-09,,On Hold,0.28,0.22,0.12
+WO-35000029,Telecom Beta,Central Engineering,BAU Engineering,Aerial Design,GA,2025-05-10,2025-05-22,,Billing Pending,0.28,0.22,0.12
+WO-35000030,FiberLink,Central Engineering,Fiber Modernization,Buried Design,AL,2025-06-16,2025-07-13,2025-07-22,Closed,0.35,0.22,0.12
+WO-35000031,FiberLink,Gulf Engineering,ASE Expansion,Buried Design,AL,2026-05-27,2026-06-14,2026-06-14,Closed,0.28,0.22,0.12
+WO-35000032,MetroNet Demo,Central Engineering,Fiber Modernization,Aerial Design,MS,2026-05-11,2026-06-12,,In Progress,0.32,0.22,0.12
+WO-35000033,MetroNet Demo,Gulf Engineering,BAU Engineering,Mixed Plant,TX,2025-04-15,2025-05-18,,Billing Pending,0.28,0.22,0.12
+WO-35000034,Telecom Alpha,Gulf Engineering,BAU Engineering,Mixed Plant,MS,2025-01-27,2025-02-21,2025-03-04,Closed,0.3,0.22,0.12
+WO-35000035,FiberLink,Gulf Engineering,Fiber Modernization,Mixed Plant,LA,2025-03-25,2025-04-09,2025-04-22,Closed,0.32,0.22,0.12
+WO-35000036,MetroNet Demo,Gulf Engineering,Fiber Modernization,Aerial Design,LA,2025-01-04,2025-02-04,,On Hold,0.32,0.22,0.12
+WO-35000037,MetroNet Demo,Central Engineering,ASE Expansion,Permit Only,FL,2025-07-29,2025-08-25,,On Hold,0.35,0.22,0.12
+WO-35000038,Telecom Alpha,Central Engineering,BAU Engineering,Aerial Design,AL,2025-06-03,2025-07-12,,On Hold,0.35,0.22,0.12
+WO-35000039,Telecom Alpha,Southeast Engineering,Fiber Modernization,Aerial Design,GA,2025-12-17,2025-12-30,,On Hold,0.28,0.22,0.12
+WO-35000040,FiberLink,Central Engineering,Fiber Modernization,Mixed Plant,MS,2025-10-19,2025-10-31,,On Hold,0.35,0.22,0.12
+WO-35000041,MetroNet Demo,Southeast Engineering,ASE Expansion,Aerial Design,AL,2026-02-21,2026-03-17,2026-03-25,Closed,0.35,0.22,0.12
+WO-35000042,Telecom Alpha,Central Engineering,Fiber Modernization,Permit Only,LA,2025-07-04,2025-07-12,,In Progress,0.3,0.22,0.12
+WO-35000043,FiberLink,Gulf Engineering,ASE Expansion,Aerial Design,AL,2025-06-12,2025-06-21,,In Progress,0.35,0.22,0.12
+WO-35000044,MetroNet Demo,Central Engineering,BAU Engineering,Aerial Design,TX,2025-12-29,2026-02-09,2026-02-01,Closed,0.3,0.22,0.12
+WO-35000045,Telecom Beta,Southeast Engineering,Fiber Modernization,Mixed Plant,LA,2025-10-22,2025-11-18,,Billing Pending,0.35,0.22,0.12
+WO-35000046,MetroNet Demo,Southeast Engineering,Fiber Modernization,Aerial Design,GA,2025-05-05,2025-06-02,,In Progress,0.3,0.22,0.12
+WO-35000047,MetroNet Demo,Gulf Engineering,ASE Expansion,Aerial Design,AL,2025-06-07,2025-06-26,2025-06-26,Closed,0.32,0.22,0.12
+WO-35000048,FiberLink,Gulf Engineering,Fiber Modernization,Mixed Plant,TX,2025-03-07,2025-03-18,,On Hold,0.28,0.22,0.12
+WO-35000049,Telecom Alpha,Central Engineering,Fiber Modernization,Aerial Design,FL,2025-04-30,2025-06-01,,On Hold,0.28,0.22,0.12
+WO-35000050,Telecom Alpha,Central Engineering,ASE Expansion,Mixed Plant,TX,2025-02-24,2025-03-25,2025-04-06,Closed,0.35,0.22,0.12
+WO-35000051,MetroNet Demo,Southeast Engineering,Fiber Modernization,Buried Design,FL,2026-05-25,2026-06-19,2026-06-11,Closed,0.32,0.22,0.12
+WO-35000052,MetroNet Demo,Southeast Engineering,ASE Expansion,Permit Only,TX,2025-12-23,2026-01-29,,In Progress,0.28,0.22,0.12
+WO-35000053,MetroNet Demo,Southeast Engineering,BAU Engineering,Aerial Design,FL,2026-03-27,2026-04-17,2026-04-17,Closed,0.3,0.22,0.12
+WO-35000054,MetroNet Demo,Central Engineering,BAU Engineering,Aerial Design,LA,2025-11-28,2026-01-13,,On Hold,0.32,0.22,0.12
+WO-35000055,Telecom Beta,Central Engineering,BAU Engineering,Buried Design,AL,2025-10-02,2025-11-11,2025-11-13,Closed,0.28,0.22,0.12
+WO-35000056,MetroNet Demo,Central Engineering,ASE Expansion,Aerial Design,FL,2025-04-21,2025-05-14,,In Progress,0.35,0.22,0.12
+WO-35000057,Telecom Alpha,Central Engineering,ASE Expansion,Mixed Plant,MS,2026-02-04,2026-03-03,2026-02-23,Closed,0.32,0.22,0.12
+WO-35000058,Telecom Beta,Gulf Engineering,Fiber Modernization,Buried Design,GA,2026-02-25,2026-03-26,2026-04-10,Closed,0.28,0.22,0.12
+WO-35000059,FiberLink,Central Engineering,Fiber Modernization,Buried Design,LA,2025-08-10,2025-09-07,2025-09-15,Closed,0.28,0.22,0.12
+WO-35000060,Telecom Beta,Central Engineering,BAU Engineering,Permit Only,GA,2026-05-08,2026-06-17,,Billing Pending,0.3,0.22,0.12
+WO-35000061,MetroNet Demo,Central Engineering,ASE Expansion,Aerial Design,GA,2025-04-26,2025-06-13,2025-07-02,Closed,0.32,0.22,0.12
+WO-35000062,FiberLink,Southeast Engineering,Fiber Modernization,Buried Design,FL,2025-01-17,2025-01-25,,In Progress,0.35,0.22,0.12
+WO-35000063,FiberLink,Central Engineering,ASE Expansion,Permit Only,LA,2025-06-07,2025-07-01,,Billing Pending,0.28,0.22,0.12
+WO-35000064,FiberLink,Gulf Engineering,BAU Engineering,Mixed Plant,LA,2025-10-27,2025-11-25,2025-12-02,Closed,0.35,0.22,0.12
+WO-35000065,Telecom Alpha,Southeast Engineering,ASE Expansion,Buried Design,TX,2025-03-21,2025-04-09,,In Progress,0.32,0.22,0.12
+WO-35000066,Telecom Alpha,Central Engineering,ASE Expansion,Aerial Design,LA,2025-03-31,2025-04-25,,In Progress,0.35,0.22,0.12
+WO-35000067,FiberLink,Central Engineering,Fiber Modernization,Buried Design,FL,2025-03-09,2025-04-20,2025-04-21,Closed,0.35,0.22,0.12
+WO-35000068,MetroNet Demo,Southeast Engineering,BAU Engineering,Buried Design,FL,2026-05-17,2026-06-12,,Billing Pending,0.32,0.22,0.12
+WO-35000069,FiberLink,Southeast Engineering,BAU Engineering,Aerial Design,FL,2025-02-22,2025-03-25,,Billing Pending,0.35,0.22,0.12
+WO-35000070,Telecom Beta,Southeast Engineering,ASE Expansion,Buried Design,AL,2026-03-07,2026-04-26,2026-04-18,Closed,0.28,0.22,0.12
+WO-35000071,Telecom Beta,Southeast Engineering,Fiber Modernization,Aerial Design,TX,2026-05-24,2026-06-30,,On Hold,0.28,0.22,0.12
+WO-35000072,FiberLink,Southeast Engineering,ASE Expansion,Buried Design,FL,2025-01-26,2025-02-14,,In Progress,0.32,0.22,0.12
+WO-35000073,Telecom Alpha,Southeast Engineering,Fiber Modernization,Buried Design,FL,2025-12-19,2026-01-05,2026-01-05,Closed,0.28,0.22,0.12
+WO-35000074,MetroNet Demo,Southeast Engineering,ASE Expansion,Mixed Plant,TX,2025-08-17,2025-08-26,,In Progress,0.35,0.22,0.12
+WO-35000075,FiberLink,Gulf Engineering,ASE Expansion,Mixed Plant,LA,2025-05-11,2025-06-10,,Billing Pending,0.32,0.22,0.12
+WO-35000076,Telecom Alpha,Gulf Engineering,Fiber Modernization,Mixed Plant,FL,2025-01-22,2025-02-12,2025-02-13,Closed,0.28,0.22,0.12
+WO-35000077,MetroNet Demo,Southeast Engineering,BAU Engineering,Mixed Plant,TX,2025-05-13,2025-06-26,,Billing Pending,0.32,0.22,0.12
+WO-35000078,Telecom Beta,Gulf Engineering,BAU Engineering,Aerial Design,MS,2025-04-21,2025-05-26,2025-05-27,Closed,0.28,0.22,0.12
+WO-35000079,MetroNet Demo,Southeast Engineering,Fiber Modernization,Mixed Plant,AL,2025-06-25,2025-07-08,,Billing Pending,0.3,0.22,0.12
+WO-35000080,MetroNet Demo,Gulf Engineering,ASE Expansion,Buried Design,TX,2025-08-14,2025-09-25,2025-09-24,Closed,0.28,0.22,0.12
+WO-35000081,FiberLink,Central Engineering,Fiber Modernization,Mixed Plant,LA,2025-01-28,2025-02-16,2025-02-26,Closed,0.32,0.22,0.12
+WO-35000082,Telecom Beta,Gulf Engineering,Fiber Modernization,Permit Only,GA,2025-04-14,2025-05-07,,On Hold,0.28,0.22,0.12
+WO-35000083,Telecom Alpha,Southeast Engineering,Fiber Modernization,Aerial Design,MS,2026-04-26,2026-05-16,,In Progress,0.35,0.22,0.12
+WO-35000084,Telecom Beta,Central Engineering,BAU Engineering,Aerial Design,LA,2025-01-17,2025-01-22,,On Hold,0.28,0.22,0.12
+WO-35000085,Telecom Alpha,Southeast Engineering,BAU Engineering,Mixed Plant,GA,2025-12-07,2025-12-31,,On Hold,0.32,0.22,0.12
+WO-35000086,MetroNet Demo,Central Engineering,ASE Expansion,Mixed Plant,FL,2025-06-03,2025-07-03,2025-07-04,Closed,0.32,0.22,0.12
+WO-35000087,Telecom Alpha,Gulf Engineering,ASE Expansion,Permit Only,GA,2025-05-19,2025-06-29,2025-06-22,Closed,0.3,0.22,0.12
+WO-35000088,MetroNet Demo,Central Engineering,ASE Expansion,Mixed Plant,AL,2026-02-12,2026-03-13,2026-03-14,Closed,0.3,0.22,0.12
+WO-35000089,Telecom Alpha,Gulf Engineering,ASE Expansion,Aerial Design,FL,2025-09-26,2025-10-21,,On Hold,0.28,0.22,0.12
+WO-35000090,MetroNet Demo,Central Engineering,ASE Expansion,Mixed Plant,LA,2026-05-24,2026-06-22,,Billing Pending,0.28,0.22,0.12
+WO-35000091,MetroNet Demo,Southeast Engineering,Fiber Modernization,Buried Design,FL,2025-04-25,2025-05-27,,On Hold,0.35,0.22,0.12
+WO-35000092,Telecom Beta,Southeast Engineering,BAU Engineering,Buried Design,LA,2025-12-23,2026-02-10,2026-02-25,Closed,0.35,0.22,0.12
+WO-35000093,FiberLink,Southeast Engineering,ASE Expansion,Aerial Design,LA,2025-12-26,2026-02-12,2026-02-12,Closed,0.28,0.22,0.12
+WO-35000094,Telecom Beta,Gulf Engineering,ASE Expansion,Aerial Design,AL,2025-06-12,2025-06-27,2025-06-28,Closed,0.3,0.22,0.12
+WO-35000095,Telecom Alpha,Central Engineering,ASE Expansion,Mixed Plant,MS,2025-04-17,2025-05-19,,In Progress,0.35,0.22,0.12
+WO-35000096,FiberLink,Gulf Engineering,ASE Expansion,Aerial Design,TX,2025-11-22,2025-12-23,,On Hold,0.28,0.22,0.12
+WO-35000097,Telecom Beta,Gulf Engineering,BAU Engineering,Permit Only,TX,2025-03-26,2025-03-31,,On Hold,0.32,0.22,0.12
+WO-35000098,Telecom Alpha,Gulf Engineering,BAU Engineering,Buried Design,LA,2025-10-01,2025-11-15,,Billing Pending,0.32,0.22,0.12
+WO-35000099,Telecom Beta,Gulf Engineering,BAU Engineering,Buried Design,MS,2025-08-21,2025-09-07,2025-09-03,Closed,0.32,0.22,0.12
+WO-35000100,FiberLink,Southeast Engineering,BAU Engineering,Aerial Design,MS,2025-02-09,2025-03-16,2025-03-16,Closed,0.28,0.22,0.12
+WO-35000101,Telecom Beta,Central Engineering,Fiber Modernization,Aerial Design,GA,2025-04-03,2025-04-25,2025-04-25,Closed,0.3,0.22,0.12
+WO-35000102,Telecom Beta,Central Engineering,Fiber Modernization,Aerial Design,GA,2025-03-05,2025-04-17,2025-04-22,Closed,0.3,0.22,0.12
+WO-35000103,MetroNet Demo,Central Engineering,BAU Engineering,Mixed Plant,FL,2025-12-20,2026-01-02,2026-01-08,Closed,0.35,0.22,0.12
+WO-35000104,FiberLink,Central Engineering,Fiber Modernization,Mixed Plant,FL,2026-05-17,2026-06-18,,Billing Pending,0.32,0.22,0.12
+WO-35000105,FiberLink,Central Engineering,ASE Expansion,Buried Design,FL,2026-04-29,2026-05-26,,On Hold,0.3,0.22,0.12
+WO-35000106,FiberLink,Central Engineering,Fiber Modernization,Mixed Plant,TX,2025-10-06,2025-11-09,,In Progress,0.28,0.22,0.12
+WO-35000107,MetroNet Demo,Southeast Engineering,ASE Expansion,Buried Design,LA,2025-04-09,2025-05-12,,On Hold,0.32,0.22,0.12
+WO-35000108,MetroNet Demo,Southeast Engineering,BAU Engineering,Mixed Plant,FL,2026-03-23,2026-04-28,,In Progress,0.32,0.22,0.12
+WO-35000109,FiberLink,Gulf Engineering,Fiber Modernization,Buried Design,LA,2026-03-12,2026-04-17,,On Hold,0.32,0.22,0.12
+WO-35000110,FiberLink,Gulf Engineering,BAU Engineering,Aerial Design,AL,2025-12-05,2025-12-31,,On Hold,0.28,0.22,0.12
+WO-35000111,FiberLink,Southeast Engineering,Fiber Modernization,Permit Only,FL,2025-01-23,2025-02-06,,On Hold,0.28,0.22,0.12
+WO-35000112,FiberLink,Southeast Engineering,Fiber Modernization,Permit Only,TX,2026-01-06,2026-02-16,,On Hold,0.32,0.22,0.12
+WO-35000113,FiberLink,Gulf Engineering,BAU Engineering,Buried Design,MS,2026-02-17,2026-03-13,,On Hold,0.32,0.22,0.12
+WO-35000114,Telecom Alpha,Central Engineering,Fiber Modernization,Aerial Design,LA,2025-07-07,2025-07-16,,On Hold,0.28,0.22,0.12
+WO-35000115,Telecom Beta,Central Engineering,Fiber Modernization,Mixed Plant,AL,2025-09-07,2025-09-29,,In Progress,0.35,0.22,0.12
+WO-35000116,MetroNet Demo,Central Engineering,ASE Expansion,Aerial Design,LA,2025-04-17,2025-05-21,,In Progress,0.28,0.22,0.12
+WO-35000117,Telecom Alpha,Gulf Engineering,Fiber Modernization,Buried Design,MS,2025-08-30,2025-09-04,2025-09-04,Closed,0.32,0.22,0.12
+WO-35000118,MetroNet Demo,Gulf Engineering,ASE Expansion,Buried Design,GA,2026-01-18,2026-03-01,2026-03-06,Closed,0.3,0.22,0.12
+WO-35000119,FiberLink,Southeast Engineering,ASE Expansion,Aerial Design,AL,2026-01-27,2026-02-28,2026-02-27,Closed,0.35,0.22,0.12
+WO-35000120,Telecom Beta,Southeast Engineering,BAU Engineering,Mixed Plant,AL,2025-09-01,2025-09-24,2025-09-20,Closed,0.28,0.22,0.12
+WO-35000121,FiberLink,Southeast Engineering,ASE Expansion,Permit Only,MS,2025-03-02,2025-03-26,2025-04-11,Closed,0.35,0.22,0.12
+WO-35000122,FiberLink,Central Engineering,ASE Expansion,Mixed Plant,TX,2025-10-28,2025-11-16,,On Hold,0.35,0.22,0.12
+WO-35000123,Telecom Alpha,Gulf Engineering,BAU Engineering,Aerial Design,TX,2026-03-03,2026-03-31,2026-04-08,Closed,0.35,0.22,0.12
+WO-35000124,Telecom Beta,Southeast Engineering,ASE Expansion,Permit Only,TX,2025-02-14,2025-03-03,,In Progress,0.28,0.22,0.12
+WO-35000125,MetroNet Demo,Southeast Engineering,Fiber Modernization,Mixed Plant,TX,2026-01-30,2026-02-04,,On Hold,0.32,0.22,0.12
+WO-35000126,FiberLink,Southeast Engineering,Fiber Modernization,Buried Design,LA,2025-08-14,2025-09-25,,On Hold,0.28,0.22,0.12
+WO-35000127,MetroNet Demo,Central Engineering,Fiber Modernization,Buried Design,MS,2025-08-10,2025-08-22,2025-08-20,Closed,0.35,0.22,0.12
+WO-35000128,FiberLink,Southeast Engineering,ASE Expansion,Aerial Design,TX,2025-06-11,2025-07-17,,In Progress,0.3,0.22,0.12
+WO-35000129,Telecom Beta,Gulf Engineering,ASE Expansion,Aerial Design,GA,2025-03-22,2025-04-10,2025-04-16,Closed,0.32,0.22,0.12
+WO-35000130,Telecom Beta,Gulf Engineering,BAU Engineering,Aerial Design,LA,2025-12-11,2026-01-05,,In Progress,0.3,0.22,0.12
+WO-35000131,Telecom Beta,Central Engineering,BAU Engineering,Aerial Design,FL,2025-10-12,2025-11-28,,Billing Pending,0.35,0.22,0.12
+WO-35000132,Telecom Beta,Southeast Engineering,BAU Engineering,Mixed Plant,FL,2025-11-08,2025-11-24,2025-12-05,Closed,0.3,0.22,0.12
+WO-35000133,MetroNet Demo,Gulf Engineering,Fiber Modernization,Buried Design,TX,2025-03-01,2025-04-01,,Billing Pending,0.32,0.22,0.12
+WO-35000134,Telecom Beta,Southeast Engineering,BAU Engineering,Mixed Plant,TX,2025-04-05,2025-04-27,,Billing Pending,0.32,0.22,0.12
+WO-35000135,MetroNet Demo,Gulf Engineering,Fiber Modernization,Buried Design,FL,2025-07-02,2025-07-16,2025-07-08,Closed,0.35,0.22,0.12
+WO-35000136,Telecom Beta,Southeast Engineering,BAU Engineering,Buried Design,TX,2025-06-08,2025-07-13,,On Hold,0.32,0.22,0.12
+WO-35000137,Telecom Beta,Southeast Engineering,ASE Expansion,Mixed Plant,TX,2025-08-30,2025-09-27,2025-09-27,Closed,0.35,0.22,0.12
+WO-35000138,MetroNet Demo,Southeast Engineering,BAU Engineering,Aerial Design,AL,2025-06-17,2025-07-19,2025-08-03,Closed,0.3,0.22,0.12
+WO-35000139,MetroNet Demo,Gulf Engineering,Fiber Modernization,Mixed Plant,TX,2026-04-14,2026-05-04,2026-05-03,Closed,0.3,0.22,0.12
+WO-35000140,FiberLink,Southeast Engineering,Fiber Modernization,Mixed Plant,LA,2025-12-19,2026-01-21,2026-01-20,Closed,0.3,0.22,0.12
+WO-35000141,Telecom Beta,Southeast Engineering,Fiber Modernization,Buried Design,TX,2025-06-07,2025-06-26,2025-07-03,Closed,0.32,0.22,0.12
+WO-35000142,Telecom Beta,Gulf Engineering,BAU Engineering,Aerial Design,AL,2025-02-13,2025-03-04,2025-03-23,Closed,0.32,0.22,0.12
+WO-35000143,MetroNet Demo,Southeast Engineering,Fiber Modernization,Aerial Design,AL,2026-05-25,2026-07-06,,In Progress,0.28,0.22,0.12
+WO-35000144,Telecom Beta,Southeast Engineering,Fiber Modernization,Aerial Design,GA,2025-04-03,2025-05-24,2025-06-08,Closed,0.3,0.22,0.12
+WO-35000145,FiberLink,Central Engineering,Fiber Modernization,Mixed Plant,GA,2026-02-19,2026-03-25,2026-03-25,Closed,0.32,0.22,0.12
+WO-35000146,Telecom Alpha,Central Engineering,ASE Expansion,Mixed Plant,LA,2026-05-25,2026-07-01,,On Hold,0.28,0.22,0.12
+WO-35000147,FiberLink,Southeast Engineering,Fiber Modernization,Aerial Design,FL,2025-06-24,2025-07-22,,In Progress,0.32,0.22,0.12
+WO-35000148,Telecom Alpha,Southeast Engineering,ASE Expansion,Aerial Design,AL,2025-02-07,2025-02-22,,Billing Pending,0.28,0.22,0.12
+WO-35000149,Telecom Alpha,Gulf Engineering,ASE Expansion,Buried Design,AL,2025-01-03,2025-02-12,,On Hold,0.28,0.22,0.12
+WO-35000150,Telecom Alpha,Gulf Engineering,Fiber Modernization,Aerial Design,FL,2025-09-03,2025-09-30,2025-09-30,Closed,0.28,0.22,0.12
+WO-35000151,Telecom Alpha,Southeast Engineering,Fiber Modernization,Mixed Plant,LA,2025-07-27,2025-08-09,,Billing Pending,0.28,0.22,0.12
+WO-35000152,Telecom Alpha,Gulf Engineering,ASE Expansion,Aerial Design,FL,2025-04-25,2025-05-11,2025-05-15,Closed,0.35,0.22,0.12
+WO-35000153,MetroNet Demo,Gulf Engineering,Fiber Modernization,Aerial Design,AL,2025-04-08,2025-05-18,,Billing Pending,0.35,0.22,0.12
+WO-35000154,Telecom Beta,Central Engineering,BAU Engineering,Aerial Design,FL,2025-11-28,2025-12-10,2025-12-02,Closed,0.28,0.22,0.12
+WO-35000155,Telecom Beta,Southeast Engineering,BAU Engineering,Aerial Design,TX,2026-04-18,2026-05-13,2026-05-18,Closed,0.3,0.22,0.12
+WO-35000156,Telecom Alpha,Central Engineering,Fiber Modernization,Aerial Design,AL,2025-08-05,2025-08-17,2025-09-01,Closed,0.3,0.22,0.12
+WO-35000157,FiberLink,Central Engineering,BAU Engineering,Mixed Plant,AL,2026-03-20,2026-04-29,,On Hold,0.35,0.22,0.12
+WO-35000158,FiberLink,Southeast Engineering,ASE Expansion,Mixed Plant,AL,2026-03-09,2026-03-31,2026-04-05,Closed,0.35,0.22,0.12
+WO-35000159,MetroNet Demo,Southeast Engineering,BAU Engineering,Aerial Design,FL,2026-04-05,2026-05-15,,In Progress,0.28,0.22,0.12
+WO-35000160,Telecom Alpha,Central Engineering,ASE Expansion,Mixed Plant,LA,2025-06-14,2025-06-27,2025-06-22,Closed,0.32,0.22,0.12
+WO-35000161,Telecom Beta,Central Engineering,BAU Engineering,Aerial Design,GA,2025-05-28,2025-06-11,2025-06-08,Closed,0.3,0.22,0.12
+WO-35000162,MetroNet Demo,Gulf Engineering,Fiber Modernization,Aerial Design,GA,2026-04-13,2026-05-21,,On Hold,0.32,0.22,0.12
+WO-35000163,FiberLink,Central Engineering,ASE Expansion,Aerial Design,AL,2025-09-25,2025-10-12,2025-10-20,Closed,0.28,0.22,0.12
+WO-35000164,Telecom Alpha,Gulf Engineering,Fiber Modernization,Aerial Design,MS,2026-02-06,2026-02-27,,Billing Pending,0.3,0.22,0.12
+WO-35000165,Telecom Alpha,Southeast Engineering,ASE Expansion,Aerial Design,LA,2025-12-29,2026-02-04,2026-01-27,Closed,0.35,0.22,0.12
+WO-35000166,Telecom Beta,Southeast Engineering,BAU Engineering,Aerial Design,MS,2026-03-07,2026-04-13,,On Hold,0.35,0.22,0.12
+WO-35000167,Telecom Alpha,Central Engineering,Fiber Modernization,Mixed Plant,LA,2026-02-25,2026-03-12,2026-03-19,Closed,0.3,0.22,0.12
+WO-35000168,MetroNet Demo,Gulf Engineering,Fiber Modernization,Aerial Design,GA,2025-10-18,2025-10-23,2025-10-22,Closed,0.32,0.22,0.12
+WO-35000169,Telecom Alpha,Gulf Engineering,Fiber Modernization,Aerial Design,AL,2025-07-18,2025-08-07,,In Progress,0.3,0.22,0.12
+WO-35000170,MetroNet Demo,Central Engineering,ASE Expansion,Buried Design,LA,2025-03-15,2025-03-28,2025-03-22,Closed,0.3,0.22,0.12
+WO-35000171,MetroNet Demo,Gulf Engineering,ASE Expansion,Mixed Plant,MS,2025-09-04,2025-09-28,,In Progress,0.28,0.22,0.12
+WO-35000172,Telecom Alpha,Southeast Engineering,Fiber Modernization,Aerial Design,GA,2026-02-23,2026-03-12,,On Hold,0.28,0.22,0.12
+WO-35000173,MetroNet Demo,Gulf Engineering,ASE Expansion,Mixed Plant,MS,2025-08-28,2025-09-28,,In Progress,0.32,0.22,0.12
+WO-35000174,Telecom Beta,Central Engineering,BAU Engineering,Buried Design,GA,2025-04-15,2025-04-20,2025-04-18,Closed,0.28,0.22,0.12
+WO-35000175,FiberLink,Central Engineering,Fiber Modernization,Buried Design,GA,2025-03-31,2025-04-05,2025-04-16,Closed,0.32,0.22,0.12
+WO-35000176,MetroNet Demo,Central Engineering,ASE Expansion,Mixed Plant,GA,2026-03-06,2026-04-16,2026-04-17,Closed,0.3,0.22,0.12
+WO-35000177,MetroNet Demo,Southeast Engineering,BAU Engineering,Mixed Plant,AL,2025-10-22,2025-11-19,2025-11-18,Closed,0.35,0.22,0.12
+WO-35000178,Telecom Beta,Gulf Engineering,BAU Engineering,Buried Design,GA,2025-11-26,2025-12-21,,On Hold,0.28,0.22,0.12
+WO-35000179,Telecom Alpha,Gulf Engineering,Fiber Modernization,Aerial Design,FL,2025-08-17,2025-09-16,2025-09-16,Closed,0.3,0.22,0.12
+WO-35000180,MetroNet Demo,Gulf Engineering,BAU Engineering,Mixed Plant,MS,2025-06-07,2025-07-06,,On Hold,0.32,0.22,0.12
+WO-35000181,Telecom Alpha,Southeast Engineering,Fiber Modernization,Aerial Design,LA,2025-11-29,2025-12-20,2025-12-23,Closed,0.35,0.22,0.12
+WO-35000182,Telecom Beta,Central Engineering,Fiber Modernization,Permit Only,GA,2025-02-22,2025-03-07,2025-03-16,Closed,0.28,0.22,0.12
+WO-35000183,MetroNet Demo,Gulf Engineering,BAU Engineering,Aerial Design,TX,2026-03-18,2026-04-03,2026-04-05,Closed,0.28,0.22,0.12
+WO-35000184,FiberLink,Central Engineering,BAU Engineering,Aerial Design,AL,2025-12-22,2026-01-01,2026-01-14,Closed,0.28,0.22,0.12
+WO-35000185,MetroNet Demo,Central Engineering,BAU Engineering,Mixed Plant,LA,2025-05-20,2025-06-08,2025-06-13,Closed,0.32,0.22,0.12
+WO-35000186,Telecom Alpha,Central Engineering,ASE Expansion,Aerial Design,TX,2026-01-20,2026-01-25,,On Hold,0.35,0.22,0.12
+WO-35000187,FiberLink,Southeast Engineering,BAU Engineering,Buried Design,MS,2026-01-15,2026-02-03,2026-02-09,Closed,0.28,0.22,0.12
+WO-35000188,Telecom Alpha,Gulf Engineering,Fiber Modernization,Mixed Plant,TX,2025-10-06,2025-11-01,2025-11-18,Closed,0.32,0.22,0.12
+WO-35000189,FiberLink,Central Engineering,Fiber Modernization,Aerial Design,AL,2025-10-08,2025-11-05,,Billing Pending,0.3,0.22,0.12
+WO-35000190,Telecom Beta,Gulf Engineering,BAU Engineering,Buried Design,LA,2025-07-11,2025-08-20,,In Progress,0.35,0.22,0.12
+WO-35000191,MetroNet Demo,Central Engineering,Fiber Modernization,Mixed Plant,LA,2026-03-17,2026-04-03,2026-04-04,Closed,0.32,0.22,0.12
+WO-35000192,FiberLink,Central Engineering,Fiber Modernization,Aerial Design,AL,2025-10-16,2025-12-01,,On Hold,0.3,0.22,0.12
+WO-35000193,Telecom Beta,Southeast Engineering,Fiber Modernization,Aerial Design,TX,2025-03-20,2025-04-19,2025-05-03,Closed,0.3,0.22,0.12
+WO-35000194,Telecom Beta,Southeast Engineering,ASE Expansion,Buried Design,FL,2025-10-31,2025-11-24,2025-11-16,Closed,0.32,0.22,0.12
+WO-35000195,Telecom Beta,Southeast Engineering,BAU Engineering,Aerial Design,FL,2025-09-13,2025-10-21,2025-10-13,Closed,0.28,0.22,0.12
+WO-35000196,FiberLink,Gulf Engineering,Fiber Modernization,Buried Design,MS,2025-09-02,2025-09-24,2025-10-09,Closed,0.3,0.22,0.12
+WO-35000197,Telecom Alpha,Southeast Engineering,Fiber Modernization,Aerial Design,LA,2026-05-06,2026-05-26,,Billing Pending,0.32,0.22,0.12
+WO-35000198,Telecom Alpha,Gulf Engineering,BAU Engineering,Aerial Design,MS,2025-01-18,2025-02-18,,Billing Pending,0.35,0.22,0.12
+WO-35000199,Telecom Alpha,Central Engineering,ASE Expansion,Buried Design,TX,2025-11-14,2025-12-05,,On Hold,0.28,0.22,0.12
+WO-35000200,FiberLink,Central Engineering,Fiber Modernization,Buried Design,AL,2025-01-28,2025-02-14,,Billing Pending,0.28,0.22,0.12
+WO-35000201,FiberLink,Central Engineering,BAU Engineering,Aerial Design,LA,2025-08-20,2025-09-06,2025-09-12,Closed,0.35,0.22,0.12
+WO-35000202,Telecom Alpha,Central Engineering,Fiber Modernization,Mixed Plant,GA,2025-04-20,2025-05-02,,In Progress,0.3,0.22,0.12
+WO-35000203,FiberLink,Gulf Engineering,BAU Engineering,Aerial Design,MS,2026-01-19,2026-02-13,2026-02-24,Closed,0.3,0.22,0.12
+WO-35000204,FiberLink,Southeast Engineering,BAU Engineering,Mixed Plant,MS,2025-02-23,2025-03-14,2025-03-25,Closed,0.35,0.22,0.12
+WO-35000205,Telecom Beta,Gulf Engineering,ASE Expansion,Mixed Plant,MS,2025-03-18,2025-04-23,2025-04-23,Closed,0.35,0.22,0.12
+WO-35000206,FiberLink,Central Engineering,Fiber Modernization,Mixed Plant,TX,2025-09-05,2025-09-10,,Billing Pending,0.3,0.22,0.12
+WO-35000207,Telecom Alpha,Gulf Engineering,BAU Engineering,Aerial Design,AL,2025-04-05,2025-04-27,,Billing Pending,0.32,0.22,0.12
+WO-35000208,Telecom Alpha,Central Engineering,BAU Engineering,Aerial Design,FL,2026-04-10,2026-05-06,,In Progress,0.28,0.22,0.12
+WO-35000209,MetroNet Demo,Central Engineering,Fiber Modernization,Aerial Design,AL,2025-05-15,2025-06-16,,On Hold,0.28,0.22,0.12
+WO-35000210,Telecom Alpha,Central Engineering,BAU Engineering,Aerial Design,TX,2025-01-20,2025-01-31,2025-02-03,Closed,0.3,0.22,0.12
+WO-35000211,Telecom Beta,Central Engineering,BAU Engineering,Mixed Plant,FL,2025-10-19,2025-11-27,,On Hold,0.3,0.22,0.12
+WO-35000212,FiberLink,Central Engineering,BAU Engineering,Buried Design,AL,2025-11-25,2025-12-18,,On Hold,0.32,0.22,0.12
+WO-35000213,Telecom Alpha,Central Engineering,ASE Expansion,Mixed Plant,LA,2026-04-19,2026-05-14,2026-05-17,Closed,0.28,0.22,0.12
+WO-35000214,FiberLink,Central Engineering,ASE Expansion,Aerial Design,AL,2025-06-15,2025-06-23,2025-06-30,Closed,0.28,0.22,0.12
+WO-35000215,FiberLink,Central Engineering,ASE Expansion,Buried Design,MS,2025-05-18,2025-06-15,2025-06-20,Closed,0.32,0.22,0.12
+WO-35000216,Telecom Alpha,Central Engineering,BAU Engineering,Aerial Design,MS,2025-03-03,2025-03-28,,In Progress,0.3,0.22,0.12
+WO-35000217,MetroNet Demo,Gulf Engineering,ASE Expansion,Buried Design,AL,2026-05-31,2026-06-17,,Billing Pending,0.32,0.22,0.12
+WO-35000218,FiberLink,Gulf Engineering,Fiber Modernization,Aerial Design,FL,2025-08-06,2025-08-21,2025-08-13,Closed,0.28,0.22,0.12
+WO-35000219,FiberLink,Central Engineering,Fiber Modernization,Aerial Design,TX,2025-05-27,2025-06-20,,Billing Pending,0.28,0.22,0.12
+WO-35000220,Telecom Beta,Gulf Engineering,Fiber Modernization,Aerial Design,MS,2025-08-10,2025-09-15,2025-09-18,Closed,0.3,0.22,0.12
+WO-35000221,FiberLink,Gulf Engineering,Fiber Modernization,Buried Design,TX,2025-04-13,2025-05-12,2025-05-11,Closed,0.28,0.22,0.12
+WO-35000222,Telecom Alpha,Central Engineering,BAU Engineering,Mixed Plant,FL,2026-05-24,2026-06-26,,In Progress,0.32,0.22,0.12
+WO-35000223,MetroNet Demo,Central Engineering,ASE Expansion,Mixed Plant,GA,2025-06-15,2025-07-10,2025-07-10,Closed,0.3,0.22,0.12
+WO-35000224,Telecom Beta,Southeast Engineering,ASE Expansion,Aerial Design,LA,2025-08-13,2025-08-30,2025-08-27,Closed,0.35,0.22,0.12
+WO-35000225,FiberLink,Central Engineering,BAU Engineering,Aerial Design,MS,2025-07-28,2025-08-16,,In Progress,0.28,0.22,0.12
+WO-35000226,FiberLink,Central Engineering,BAU Engineering,Aerial Design,AL,2025-05-08,2025-06-10,2025-06-13,Closed,0.35,0.22,0.12
+WO-35000227,Telecom Alpha,Gulf Engineering,ASE Expansion,Buried Design,MS,2026-04-19,2026-05-19,,Billing Pending,0.28,0.22,0.12
+WO-35000228,Telecom Beta,Southeast Engineering,BAU Engineering,Buried Design,GA,2025-11-05,2025-12-11,,In Progress,0.32,0.22,0.12
+WO-35000229,MetroNet Demo,Southeast Engineering,Fiber Modernization,Buried Design,TX,2025-10-22,2025-11-23,2025-12-09,Closed,0.3,0.22,0.12
+WO-35000230,MetroNet Demo,Southeast Engineering,Fiber Modernization,Aerial Design,GA,2026-04-24,2026-05-06,2026-05-08,Closed,0.35,0.22,0.12
+WO-35000231,FiberLink,Southeast Engineering,BAU Engineering,Buried Design,LA,2026-02-14,2026-03-07,2026-03-15,Closed,0.3,0.22,0.12
+WO-35000232,MetroNet Demo,Southeast Engineering,Fiber Modernization,Mixed Plant,TX,2025-06-09,2025-07-06,2025-07-10,Closed,0.32,0.22,0.12
+WO-35000233,FiberLink,Central Engineering,Fiber Modernization,Permit Only,LA,2026-04-25,2026-05-07,,On Hold,0.28,0.22,0.12
+WO-35000234,MetroNet Demo,Central Engineering,ASE Expansion,Mixed Plant,FL,2025-12-19,2026-01-27,,On Hold,0.3,0.22,0.12
+WO-35000235,Telecom Alpha,Gulf Engineering,ASE Expansion,Buried Design,AL,2026-02-26,2026-03-19,,In Progress,0.32,0.22,0.12
+WO-35000236,Telecom Beta,Central Engineering,BAU Engineering,Buried Design,TX,2026-04-30,2026-05-26,2026-05-18,Closed,0.3,0.22,0.12
+WO-35000237,Telecom Alpha,Central Engineering,BAU Engineering,Permit Only,AL,2026-01-03,2026-02-02,,Billing Pending,0.28,0.22,0.12
+WO-35000238,FiberLink,Southeast Engineering,ASE Expansion,Mixed Plant,AL,2025-09-03,2025-09-27,,Billing Pending,0.28,0.22,0.12
+WO-35000239,MetroNet Demo,Southeast Engineering,Fiber Modernization,Aerial Design,GA,2025-11-06,2025-12-03,2025-12-15,Closed,0.3,0.22,0.12
+WO-35000240,FiberLink,Gulf Engineering,ASE Expansion,Aerial Design,LA,2025-03-26,2025-04-15,2025-04-21,Closed,0.3,0.22,0.12
+WO-35000241,Telecom Alpha,Gulf Engineering,ASE Expansion,Aerial Design,GA,2025-11-23,2025-12-19,2025-12-15,Closed,0.28,0.22,0.12
+WO-35000242,MetroNet Demo,Gulf Engineering,BAU Engineering,Buried Design,LA,2025-09-20,2025-10-20,,On Hold,0.35,0.22,0.12
+WO-35000243,MetroNet Demo,Gulf Engineering,Fiber Modernization,Mixed Plant,GA,2025-11-09,2025-11-14,2025-11-26,Closed,0.3,0.22,0.12
+WO-35000244,Telecom Beta,Central Engineering,BAU Engineering,Aerial Design,FL,2026-02-12,2026-03-07,2026-03-18,Closed,0.28,0.22,0.12
+WO-35000245,MetroNet Demo,Gulf Engineering,BAU Engineering,Aerial Design,TX,2025-02-03,2025-02-08,2025-01-31,Closed,0.28,0.22,0.12
+WO-35000246,Telecom Beta,Southeast Engineering,Fiber Modernization,Permit Only,MS,2025-03-28,2025-05-11,2025-05-24,Closed,0.3,0.22,0.12
+WO-35000247,FiberLink,Central Engineering,ASE Expansion,Buried Design,TX,2025-08-07,2025-08-30,2025-08-29,Closed,0.28,0.22,0.12
+WO-35000248,MetroNet Demo,Central Engineering,ASE Expansion,Aerial Design,FL,2025-03-07,2025-03-30,,On Hold,0.3,0.22,0.12
+WO-35000249,MetroNet Demo,Gulf Engineering,ASE Expansion,Mixed Plant,MS,2025-10-30,2025-12-04,,On Hold,0.28,0.22,0.12
+WO-35000250,FiberLink,Gulf Engineering,Fiber Modernization,Buried Design,LA,2026-02-04,2026-02-24,,On Hold,0.32,0.22,0.12
+WO-35000251,FiberLink,Central Engineering,BAU Engineering,Buried Design,LA,2025-09-20,2025-09-26,,Billing Pending,0.3,0.22,0.12
+WO-35000252,FiberLink,Southeast Engineering,ASE Expansion,Mixed Plant,GA,2026-01-07,2026-01-22,2026-01-25,Closed,0.35,0.22,0.12
+WO-35000253,FiberLink,Gulf Engineering,Fiber Modernization,Mixed Plant,TX,2025-11-24,2025-12-21,,On Hold,0.35,0.22,0.12
+WO-35000254,MetroNet Demo,Gulf Engineering,Fiber Modernization,Permit Only,MS,2025-06-25,2025-07-20,2025-07-22,Closed,0.32,0.22,0.12
+WO-35000255,FiberLink,Central Engineering,BAU Engineering,Buried Design,MS,2025-12-13,2026-01-05,2026-01-12,Closed,0.3,0.22,0.12
+WO-35000256,MetroNet Demo,Central Engineering,ASE Expansion,Mixed Plant,FL,2025-08-07,2025-09-05,,Billing Pending,0.28,0.22,0.12
+WO-35000257,Telecom Alpha,Central Engineering,ASE Expansion,Mixed Plant,LA,2026-03-29,2026-04-03,,Billing Pending,0.35,0.22,0.12
+WO-35000258,Telecom Alpha,Gulf Engineering,Fiber Modernization,Mixed Plant,FL,2025-05-11,2025-05-16,2025-05-11,Closed,0.32,0.22,0.12
+WO-35000259,Telecom Alpha,Southeast Engineering,Fiber Modernization,Mixed Plant,AL,2025-09-17,2025-10-07,2025-10-11,Closed,0.28,0.22,0.12
+WO-35000260,Telecom Alpha,Central Engineering,Fiber Modernization,Aerial Design,LA,2025-03-25,2025-04-21,,On Hold,0.32,0.22,0.12
+WO-35000261,Telecom Alpha,Gulf Engineering,Fiber Modernization,Permit Only,GA,2025-11-21,2025-12-31,2025-12-23,Closed,0.3,0.22,0.12
+WO-35000262,Telecom Alpha,Southeast Engineering,ASE Expansion,Mixed Plant,MS,2025-09-11,2025-09-16,2025-09-14,Closed,0.3,0.22,0.12
+WO-35000263,FiberLink,Southeast Engineering,ASE Expansion,Buried Design,AL,2025-11-21,2025-12-22,2025-12-14,Closed,0.28,0.22,0.12
+WO-35000264,Telecom Alpha,Southeast Engineering,ASE Expansion,Aerial Design,MS,2025-07-08,2025-08-11,2025-08-19,Closed,0.3,0.22,0.12
+WO-35000265,Telecom Alpha,Gulf Engineering,BAU Engineering,Aerial Design,TX,2026-04-11,2026-04-24,2026-04-19,Closed,0.3,0.22,0.12
+WO-35000266,MetroNet Demo,Central Engineering,BAU Engineering,Aerial Design,FL,2026-02-11,2026-03-13,,In Progress,0.35,0.22,0.12
+WO-35000267,FiberLink,Southeast Engineering,BAU Engineering,Buried Design,LA,2025-04-18,2025-05-10,2025-05-06,Closed,0.35,0.22,0.12
+WO-35000268,Telecom Beta,Central Engineering,ASE Expansion,Buried Design,MS,2026-04-26,2026-05-09,2026-05-07,Closed,0.35,0.22,0.12
+WO-35000269,Telecom Beta,Southeast Engineering,Fiber Modernization,Aerial Design,MS,2025-02-02,2025-02-13,2025-02-17,Closed,0.32,0.22,0.12
+WO-35000270,Telecom Alpha,Southeast Engineering,Fiber Modernization,Buried Design,TX,2025-09-07,2025-10-16,,In Progress,0.28,0.22,0.12
+WO-35000271,Telecom Alpha,Central Engineering,ASE Expansion,Mixed Plant,AL,2026-03-05,2026-04-04,2026-04-11,Closed,0.32,0.22,0.12
+WO-35000272,FiberLink,Central Engineering,ASE Expansion,Mixed Plant,LA,2025-05-10,2025-06-05,,On Hold,0.3,0.22,0.12
+WO-35000273,Telecom Beta,Central Engineering,BAU Engineering,Aerial Design,AL,2026-01-26,2026-02-15,,Billing Pending,0.32,0.22,0.12
+WO-35000274,Telecom Alpha,Southeast Engineering,BAU Engineering,Buried Design,AL,2025-05-25,2025-06-26,,On Hold,0.35,0.22,0.12
+WO-35000275,MetroNet Demo,Southeast Engineering,BAU Engineering,Permit Only,TX,2026-03-08,2026-04-02,2026-04-06,Closed,0.28,0.22,0.12
+WO-35000276,MetroNet Demo,Southeast Engineering,BAU Engineering,Mixed Plant,AL,2025-11-01,2025-11-25,2025-11-29,Closed,0.28,0.22,0.12
+WO-35000277,Telecom Alpha,Southeast Engineering,Fiber Modernization,Aerial Design,MS,2025-02-16,2025-03-29,2025-03-29,Closed,0.28,0.22,0.12
+WO-35000278,FiberLink,Central Engineering,ASE Expansion,Aerial Design,LA,2026-03-08,2026-03-28,2026-03-30,Closed,0.32,0.22,0.12
+WO-35000279,Telecom Alpha,Central Engineering,Fiber Modernization,Buried Design,TX,2025-12-25,2026-01-23,2026-01-27,Closed,0.28,0.22,0.12
+WO-35000280,MetroNet Demo,Central Engineering,ASE Expansion,Aerial Design,LA,2025-07-11,2025-08-02,,Billing Pending,0.28,0.22,0.12
+WO-35000281,Telecom Beta,Southeast Engineering,ASE Expansion,Aerial Design,FL,2025-08-03,2025-09-05,2025-09-12,Closed,0.28,0.22,0.12
+WO-35000282,Telecom Alpha,Southeast Engineering,BAU Engineering,Permit Only,MS,2025-06-22,2025-07-06,2025-07-18,Closed,0.35,0.22,0.12
+WO-35000283,Telecom Alpha,Gulf Engineering,Fiber Modernization,Mixed Plant,TX,2025-10-03,2025-10-29,2025-11-01,Closed,0.28,0.22,0.12
+WO-35000284,MetroNet Demo,Gulf Engineering,Fiber Modernization,Mixed Plant,MS,2025-05-25,2025-07-04,2025-07-12,Closed,0.32,0.22,0.12
+WO-35000285,MetroNet Demo,Southeast Engineering,ASE Expansion,Aerial Design,GA,2025-01-12,2025-01-28,2025-02-01,Closed,0.28,0.22,0.12
+WO-35000286,MetroNet Demo,Southeast Engineering,Fiber Modernization,Mixed Plant,FL,2025-05-12,2025-06-09,,On Hold,0.28,0.22,0.12
+WO-35000287,Telecom Alpha,Central Engineering,BAU Engineering,Aerial Design,LA,2025-09-18,2025-09-23,2025-09-27,Closed,0.28,0.22,0.12
+WO-35000288,Telecom Beta,Southeast Engineering,Fiber Modernization,Aerial Design,LA,2025-12-19,2026-01-02,,In Progress,0.32,0.22,0.12
+WO-35000289,MetroNet Demo,Central Engineering,ASE Expansion,Aerial Design,AL,2025-02-18,2025-03-18,2025-03-24,Closed,0.32,0.22,0.12
+WO-35000290,FiberLink,Central Engineering,BAU Engineering,Mixed Plant,TX,2026-02-22,2026-03-09,2026-03-14,Closed,0.3,0.22,0.12
+WO-35000291,Telecom Beta,Southeast Engineering,Fiber Modernization,Buried Design,GA,2025-08-12,2025-08-30,2025-09-02,Closed,0.32,0.22,0.12
+WO-35000292,FiberLink,Gulf Engineering,Fiber Modernization,Mixed Plant,TX,2025-11-23,2025-12-13,,In Progress,0.3,0.22,0.12
+WO-35000293,MetroNet Demo,Gulf Engineering,BAU Engineering,Mixed Plant,GA,2025-05-17,2025-06-02,,On Hold,0.3,0.22,0.12
+WO-35000294,Telecom Beta,Central Engineering,BAU Engineering,Buried Design,MS,2026-04-11,2026-05-18,2026-05-13,Closed,0.35,0.22,0.12
+WO-35000295,FiberLink,Central Engineering,Fiber Modernization,Buried Design,LA,2025-06-21,2025-07-22,,On Hold,0.35,0.22,0.12
+WO-35000296,Telecom Beta,Gulf Engineering,ASE Expansion,Mixed Plant,GA,2025-11-30,2025-12-31,,On Hold,0.28,0.22,0.12
+WO-35000297,Telecom Beta,Central Engineering,Fiber Modernization,Aerial Design,LA,2025-08-02,2025-08-17,,Billing Pending,0.28,0.22,0.12
+WO-35000298,Telecom Beta,Central Engineering,BAU Engineering,Aerial Design,FL,2026-04-16,2026-04-30,,Billing Pending,0.35,0.22,0.12
+WO-35000299,Telecom Alpha,Central Engineering,ASE Expansion,Mixed Plant,GA,2025-07-15,2025-08-03,2025-08-12,Closed,0.32,0.22,0.12
+WO-35000300,FiberLink,Southeast Engineering,ASE Expansion,Permit Only,AL,2025-03-17,2025-03-23,2025-03-26,Closed,0.28,0.22,0.12
+WO-35000301,MetroNet Demo,Central Engineering,Fiber Modernization,Mixed Plant,AL,2026-05-17,2026-05-22,,On Hold,0.28,0.22,0.12
+WO-35000302,MetroNet Demo,Southeast Engineering,Fiber Modernization,Aerial Design,MS,2026-02-09,2026-03-16,,In Progress,0.35,0.22,0.12
+WO-35000303,Telecom Alpha,Southeast Engineering,BAU Engineering,Mixed Plant,AL,2025-10-24,2025-11-22,,On Hold,0.3,0.22,0.12
+WO-35000304,FiberLink,Central Engineering,Fiber Modernization,Mixed Plant,TX,2026-03-08,2026-04-14,2026-04-11,Closed,0.3,0.22,0.12
+WO-35000305,FiberLink,Gulf Engineering,BAU Engineering,Permit Only,TX,2025-03-16,2025-04-07,2025-04-06,Closed,0.32,0.22,0.12
+WO-35000306,MetroNet Demo,Gulf Engineering,Fiber Modernization,Mixed Plant,LA,2026-04-19,2026-05-27,,In Progress,0.28,0.22,0.12
+WO-35000307,MetroNet Demo,Gulf Engineering,ASE Expansion,Aerial Design,AL,2025-07-06,2025-07-19,2025-07-26,Closed,0.32,0.22,0.12
+WO-35000308,Telecom Alpha,Central Engineering,BAU Engineering,Mixed Plant,LA,2025-07-15,2025-08-29,,In Progress,0.35,0.22,0.12
+WO-35000309,Telecom Alpha,Southeast Engineering,ASE Expansion,Mixed Plant,LA,2025-09-11,2025-10-05,,In Progress,0.35,0.22,0.12
+WO-35000310,Telecom Beta,Southeast Engineering,BAU Engineering,Aerial Design,FL,2026-05-02,2026-05-30,2026-05-31,Closed,0.3,0.22,0.12
+WO-35000311,FiberLink,Gulf Engineering,Fiber Modernization,Mixed Plant,TX,2025-09-25,2025-11-04,2025-11-04,Closed,0.32,0.22,0.12
+WO-35000312,MetroNet Demo,Southeast Engineering,BAU Engineering,Aerial Design,AL,2025-05-07,2025-06-09,,On Hold,0.32,0.22,0.12
+WO-35000313,Telecom Beta,Central Engineering,BAU Engineering,Buried Design,LA,2026-01-12,2026-02-02,2026-02-04,Closed,0.28,0.22,0.12
+WO-35000314,Telecom Beta,Central Engineering,Fiber Modernization,Mixed Plant,LA,2025-11-11,2025-12-09,,Billing Pending,0.3,0.22,0.12
+WO-35000315,Telecom Beta,Central Engineering,ASE Expansion,Aerial Design,MS,2025-01-25,2025-03-02,2025-03-03,Closed,0.28,0.22,0.12
+WO-35000316,FiberLink,Gulf Engineering,BAU Engineering,Aerial Design,GA,2025-06-09,2025-07-01,,In Progress,0.32,0.22,0.12
+WO-35000317,Telecom Beta,Southeast Engineering,ASE Expansion,Mixed Plant,AL,2026-05-30,2026-06-21,2026-06-29,Closed,0.3,0.22,0.12
+WO-35000318,Telecom Alpha,Central Engineering,BAU Engineering,Buried Design,TX,2025-02-23,2025-03-04,,On Hold,0.35,0.22,0.12
+WO-35000319,FiberLink,Central Engineering,Fiber Modernization,Permit Only,TX,2026-04-14,2026-04-25,2026-04-23,Closed,0.35,0.22,0.12
+WO-35000320,Telecom Alpha,Central Engineering,ASE Expansion,Buried Design,TX,2025-05-01,2025-05-27,2025-05-25,Closed,0.35,0.22,0.12
+WO-35000321,MetroNet Demo,Central Engineering,Fiber Modernization,Aerial Design,MS,2025-05-26,2025-06-12,2025-06-06,Closed,0.35,0.22,0.12
+WO-35000322,FiberLink,Southeast Engineering,Fiber Modernization,Aerial Design,LA,2026-05-25,2026-06-17,2026-06-11,Closed,0.35,0.22,0.12
+WO-35000323,FiberLink,Gulf Engineering,ASE Expansion,Mixed Plant,TX,2026-01-07,2026-01-12,2026-01-17,Closed,0.35,0.22,0.12
+WO-35000324,Telecom Beta,Gulf Engineering,BAU Engineering,Buried Design,AL,2025-04-08,2025-05-04,,Billing Pending,0.28,0.22,0.12
+WO-35000325,Telecom Beta,Central Engineering,Fiber Modernization,Aerial Design,FL,2025-10-23,2025-11-06,,In Progress,0.32,0.22,0.12
+WO-35000326,FiberLink,Gulf Engineering,ASE Expansion,Aerial Design,TX,2025-09-11,2025-10-09,,On Hold,0.28,0.22,0.12
+WO-35000327,FiberLink,Central Engineering,BAU Engineering,Aerial Design,LA,2025-01-25,2025-02-20,2025-02-20,Closed,0.28,0.22,0.12
+WO-35000328,Telecom Beta,Central Engineering,BAU Engineering,Buried Design,AL,2025-09-03,2025-09-23,2025-09-28,Closed,0.35,0.22,0.12
+WO-35000329,Telecom Beta,Central Engineering,BAU Engineering,Aerial Design,FL,2025-11-06,2025-11-11,2025-11-22,Closed,0.3,0.22,0.12
+WO-35000330,MetroNet Demo,Central Engineering,BAU Engineering,Buried Design,MS,2025-07-06,2025-07-11,2025-07-27,Closed,0.28,0.22,0.12
+WO-35000331,FiberLink,Gulf Engineering,BAU Engineering,Aerial Design,FL,2025-06-05,2025-06-10,,On Hold,0.35,0.22,0.12
+WO-35000332,Telecom Alpha,Central Engineering,BAU Engineering,Aerial Design,FL,2025-07-06,2025-07-29,,In Progress,0.35,0.22,0.12
+WO-35000333,MetroNet Demo,Southeast Engineering,BAU Engineering,Aerial Design,AL,2026-03-18,2026-04-15,2026-04-27,Closed,0.35,0.22,0.12
+WO-35000334,FiberLink,Southeast Engineering,ASE Expansion,Mixed Plant,GA,2025-06-11,2025-07-04,,In Progress,0.28,0.22,0.12
+WO-35000335,Telecom Beta,Gulf Engineering,Fiber Modernization,Aerial Design,LA,2025-07-12,2025-08-13,2025-08-08,Closed,0.35,0.22,0.12
+WO-35000336,Telecom Alpha,Central Engineering,BAU Engineering,Permit Only,AL,2025-12-16,2026-01-14,,In Progress,0.32,0.22,0.12
+WO-35000337,Telecom Beta,Gulf Engineering,ASE Expansion,Aerial Design,GA,2025-12-17,2025-12-31,,Billing Pending,0.3,0.22,0.12
+WO-35000338,FiberLink,Gulf Engineering,BAU Engineering,Permit Only,MS,2025-02-14,2025-03-04,,On Hold,0.32,0.22,0.12
+WO-35000339,Telecom Alpha,Southeast Engineering,Fiber Modernization,Mixed Plant,LA,2025-12-12,2026-01-04,2026-01-11,Closed,0.3,0.22,0.12
+WO-35000340,MetroNet Demo,Central Engineering,Fiber Modernization,Mixed Plant,MS,2026-05-25,2026-06-25,,In Progress,0.3,0.22,0.12
+WO-35000341,FiberLink,Southeast Engineering,BAU Engineering,Permit Only,TX,2025-02-01,2025-03-17,,In Progress,0.3,0.22,0.12
+WO-35000342,Telecom Alpha,Central Engineering,BAU Engineering,Permit Only,MS,2025-12-06,2025-12-23,2026-01-01,Closed,0.32,0.22,0.12
+WO-35000343,MetroNet Demo,Gulf Engineering,Fiber Modernization,Buried Design,TX,2026-04-08,2026-05-02,,On Hold,0.32,0.22,0.12
+WO-35000344,Telecom Beta,Gulf Engineering,Fiber Modernization,Buried Design,TX,2025-12-22,2026-01-22,,In Progress,0.28,0.22,0.12
+WO-35000345,FiberLink,Central Engineering,BAU Engineering,Mixed Plant,GA,2026-04-27,2026-06-08,2026-06-18,Closed,0.32,0.22,0.12
+WO-35000346,Telecom Beta,Gulf Engineering,Fiber Modernization,Mixed Plant,MS,2026-05-27,2026-06-03,2026-06-09,Closed,0.32,0.22,0.12
+WO-35000347,Telecom Beta,Southeast Engineering,ASE Expansion,Aerial Design,AL,2025-06-25,2025-07-22,2025-08-01,Closed,0.3,0.22,0.12
+WO-35000348,Telecom Beta,Gulf Engineering,BAU Engineering,Buried Design,AL,2025-03-15,2025-03-27,,In Progress,0.35,0.22,0.12
+WO-35000349,Telecom Alpha,Southeast Engineering,Fiber Modernization,Mixed Plant,GA,2025-08-16,2025-09-16,2025-09-14,Closed,0.32,0.22,0.12
+WO-35000350,Telecom Beta,Gulf Engineering,Fiber Modernization,Aerial Design,GA,2025-02-18,2025-03-29,,Billing Pending,0.28,0.22,0.12
+WO-35000351,MetroNet Demo,Southeast Engineering,Fiber Modernization,Aerial Design,GA,2025-06-18,2025-07-17,,In Progress,0.3,0.22,0.12
+WO-35000352,Telecom Alpha,Central Engineering,Fiber Modernization,Buried Design,MS,2025-02-06,2025-03-27,2025-04-01,Closed,0.32,0.22,0.12
+WO-35000353,Telecom Alpha,Southeast Engineering,ASE Expansion,Buried Design,TX,2025-03-26,2025-04-13,2025-04-05,Closed,0.32,0.22,0.12
+WO-35000354,MetroNet Demo,Central Engineering,Fiber Modernization,Buried Design,MS,2026-02-03,2026-02-14,2026-02-19,Closed,0.28,0.22,0.12
+WO-35000355,Telecom Beta,Gulf Engineering,BAU Engineering,Buried Design,FL,2025-04-16,2025-05-09,,On Hold,0.32,0.22,0.12
+WO-35000356,Telecom Beta,Central Engineering,ASE Expansion,Mixed Plant,TX,2025-07-23,2025-08-08,2025-08-07,Closed,0.3,0.22,0.12
+WO-35000357,FiberLink,Southeast Engineering,ASE Expansion,Aerial Design,LA,2025-11-24,2025-12-30,,On Hold,0.28,0.22,0.12
+WO-35000358,FiberLink,Southeast Engineering,Fiber Modernization,Mixed Plant,AL,2025-06-23,2025-07-28,,Billing Pending,0.35,0.22,0.12
+WO-35000359,FiberLink,Central Engineering,ASE Expansion,Mixed Plant,TX,2026-05-09,2026-05-26,2026-05-29,Closed,0.3,0.22,0.12
+WO-35000360,FiberLink,Central Engineering,BAU Engineering,Mixed Plant,GA,2025-01-04,2025-02-07,2025-02-17,Closed,0.3,0.22,0.12
+WO-35000361,MetroNet Demo,Central Engineering,BAU Engineering,Mixed Plant,GA,2026-05-26,2026-07-01,2026-06-23,Closed,0.32,0.22,0.12
+WO-35000362,Telecom Alpha,Gulf Engineering,Fiber Modernization,Mixed Plant,FL,2025-04-28,2025-05-19,2025-06-01,Closed,0.28,0.22,0.12
+WO-35000363,Telecom Beta,Central Engineering,BAU Engineering,Aerial Design,TX,2025-04-18,2025-05-11,2025-05-24,Closed,0.35,0.22,0.12
+WO-35000364,Telecom Alpha,Central Engineering,Fiber Modernization,Buried Design,GA,2025-12-16,2025-12-21,2026-01-02,Closed,0.3,0.22,0.12
+WO-35000365,Telecom Beta,Southeast Engineering,Fiber Modernization,Aerial Design,TX,2025-01-10,2025-02-09,,On Hold,0.35,0.22,0.12
+WO-35000366,Telecom Alpha,Central Engineering,BAU Engineering,Buried Design,MS,2025-01-07,2025-01-12,2025-01-24,Closed,0.35,0.22,0.12
+WO-35000367,Telecom Beta,Gulf Engineering,BAU Engineering,Mixed Plant,GA,2025-03-19,2025-04-17,2025-04-11,Closed,0.32,0.22,0.12
+WO-35000368,Telecom Alpha,Gulf Engineering,ASE Expansion,Buried Design,MS,2025-03-12,2025-04-05,2025-04-12,Closed,0.32,0.22,0.12
+WO-35000369,MetroNet Demo,Southeast Engineering,ASE Expansion,Aerial Design,TX,2025-02-17,2025-03-08,2025-03-08,Closed,0.28,0.22,0.12
+WO-35000370,Telecom Beta,Gulf Engineering,ASE Expansion,Buried Design,GA,2025-08-16,2025-09-15,,Billing Pending,0.28,0.22,0.12
+WO-35000371,Telecom Beta,Central Engineering,Fiber Modernization,Buried Design,GA,2025-06-17,2025-07-13,,Billing Pending,0.35,0.22,0.12
+WO-35000372,Telecom Beta,Southeast Engineering,ASE Expansion,Aerial Design,TX,2025-12-18,2026-01-14,2026-01-11,Closed,0.28,0.22,0.12
+WO-35000373,Telecom Beta,Southeast Engineering,BAU Engineering,Aerial Design,GA,2025-02-13,2025-03-21,,Billing Pending,0.35,0.22,0.12
+WO-35000374,MetroNet Demo,Central Engineering,ASE Expansion,Permit Only,MS,2025-03-05,2025-04-06,2025-04-09,Closed,0.32,0.22,0.12
+WO-35000375,FiberLink,Gulf Engineering,Fiber Modernization,Buried Design,MS,2025-01-09,2025-02-04,,Billing Pending,0.28,0.22,0.12
+WO-35000376,Telecom Beta,Central Engineering,Fiber Modernization,Mixed Plant,GA,2025-08-29,2025-09-12,,In Progress,0.28,0.22,0.12
+WO-35000377,Telecom Alpha,Central Engineering,BAU Engineering,Mixed Plant,LA,2025-01-22,2025-02-27,2025-02-27,Closed,0.32,0.22,0.12
+WO-35000378,FiberLink,Gulf Engineering,BAU Engineering,Mixed Plant,MS,2026-04-15,2026-05-07,,In Progress,0.3,0.22,0.12
+WO-35000379,Telecom Alpha,Gulf Engineering,ASE Expansion,Mixed Plant,FL,2026-05-20,2026-05-25,,In Progress,0.3,0.22,0.12
+WO-35000380,MetroNet Demo,Central Engineering,Fiber Modernization,Permit Only,MS,2026-03-28,2026-05-14,2026-05-12,Closed,0.35,0.22,0.12
+WO-35000381,Telecom Alpha,Gulf Engineering,Fiber Modernization,Aerial Design,FL,2025-10-15,2025-10-24,2025-11-02,Closed,0.28,0.22,0.12
+WO-35000382,Telecom Beta,Southeast Engineering,BAU Engineering,Aerial Design,LA,2026-01-11,2026-01-30,,Billing Pending,0.35,0.22,0.12
+WO-35000383,MetroNet Demo,Southeast Engineering,ASE Expansion,Buried Design,FL,2026-02-25,2026-03-14,2026-03-16,Closed,0.35,0.22,0.12
+WO-35000384,FiberLink,Gulf Engineering,BAU Engineering,Mixed Plant,FL,2026-05-27,2026-06-19,,On Hold,0.32,0.22,0.12
+WO-35000385,FiberLink,Southeast Engineering,Fiber Modernization,Aerial Design,GA,2025-04-12,2025-05-01,,In Progress,0.28,0.22,0.12
+WO-35000386,MetroNet Demo,Central Engineering,ASE Expansion,Mixed Plant,MS,2026-04-07,2026-04-28,,On Hold,0.35,0.22,0.12
+WO-35000387,Telecom Beta,Gulf Engineering,ASE Expansion,Permit Only,MS,2026-02-02,2026-02-14,2026-02-12,Closed,0.35,0.22,0.12
+WO-35000388,Telecom Alpha,Southeast Engineering,BAU Engineering,Aerial Design,FL,2026-05-05,2026-05-10,,In Progress,0.28,0.22,0.12
+WO-35000389,MetroNet Demo,Southeast Engineering,Fiber Modernization,Mixed Plant,MS,2025-09-19,2025-10-15,2025-10-15,Closed,0.28,0.22,0.12
+WO-35000390,MetroNet Demo,Southeast Engineering,ASE Expansion,Permit Only,AL,2025-07-11,2025-08-10,2025-08-10,Closed,0.3,0.22,0.12
+WO-35000391,Telecom Alpha,Gulf Engineering,Fiber Modernization,Permit Only,FL,2025-08-17,2025-08-23,,On Hold,0.28,0.22,0.12
+WO-35000392,FiberLink,Central Engineering,ASE Expansion,Aerial Design,GA,2025-07-30,2025-09-09,2025-09-11,Closed,0.35,0.22,0.12
+WO-35000393,MetroNet Demo,Southeast Engineering,BAU Engineering,Mixed Plant,TX,2025-11-08,2025-12-15,,Billing Pending,0.3,0.22,0.12
+WO-35000394,Telecom Beta,Southeast Engineering,ASE Expansion,Aerial Design,AL,2026-05-04,2026-05-26,2026-05-18,Closed,0.32,0.22,0.12
+WO-35000395,MetroNet Demo,Central Engineering,BAU Engineering,Aerial Design,MS,2025-12-26,2026-01-25,,Billing Pending,0.32,0.22,0.12
+WO-35000396,MetroNet Demo,Gulf Engineering,ASE Expansion,Mixed Plant,TX,2025-09-17,2025-09-29,2025-10-04,Closed,0.35,0.22,0.12
+WO-35000397,MetroNet Demo,Central Engineering,Fiber Modernization,Buried Design,TX,2026-03-17,2026-04-21,2026-04-21,Closed,0.32,0.22,0.12
+WO-35000398,FiberLink,Gulf Engineering,ASE Expansion,Mixed Plant,LA,2025-09-28,2025-10-06,2025-09-28,Closed,0.28,0.22,0.12
+WO-35000399,Telecom Beta,Gulf Engineering,Fiber Modernization,Aerial Design,FL,2025-12-23,2026-01-27,2026-02-02,Closed,0.3,0.22,0.12
+WO-35000400,Telecom Beta,Central Engineering,ASE Expansion,Aerial Design,FL,2026-04-11,2026-04-22,2026-04-30,Closed,0.32,0.22,0.12
+WO-35000401,Telecom Beta,Central Engineering,Fiber Modernization,Mixed Plant,TX,2025-04-19,2025-05-13,,On Hold,0.32,0.22,0.12
+WO-35000402,Telecom Alpha,Gulf Engineering,Fiber Modernization,Mixed Plant,TX,2026-02-09,2026-02-14,,Billing Pending,0.32,0.22,0.12
+WO-35000403,Telecom Alpha,Gulf Engineering,BAU Engineering,Mixed Plant,LA,2025-09-28,2025-11-08,2025-11-06,Closed,0.35,0.22,0.12
+WO-35000404,FiberLink,Gulf Engineering,ASE Expansion,Mixed Plant,GA,2026-03-09,2026-04-01,,Billing Pending,0.3,0.22,0.12
+WO-35000405,Telecom Alpha,Gulf Engineering,ASE Expansion,Mixed Plant,MS,2025-04-03,2025-04-27,2025-04-21,Closed,0.35,0.22,0.12
+WO-35000406,Telecom Beta,Southeast Engineering,BAU Engineering,Aerial Design,TX,2025-09-16,2025-10-26,2025-10-19,Closed,0.32,0.22,0.12
+WO-35000407,FiberLink,Central Engineering,Fiber Modernization,Permit Only,AL,2026-03-14,2026-05-20,,In Progress,0.32,0.22,0.12
+WO-35000408,Telecom Beta,Southeast Engineering,Fiber Modernization,Buried Design,GA,2026-05-05,2026-05-27,,In Progress,0.32,0.22,0.12
+WO-35000409,MetroNet Demo,Southeast Engineering,BAU Engineering,Permit Only,FL,2025-05-21,2025-06-03,2025-05-31,Closed,0.32,0.22,0.12
+WO-35000410,FiberLink,Gulf Engineering,BAU Engineering,Permit Only,GA,2025-06-03,2025-07-19,,Billing Pending,0.3,0.22,0.12
+WO-35000411,Telecom Beta,Gulf Engineering,ASE Expansion,Mixed Plant,LA,2026-04-08,2026-05-09,,In Progress,0.28,0.22,0.12
+WO-35000412,Telecom Alpha,Gulf Engineering,Fiber Modernization,Buried Design,TX,2025-12-20,2026-01-11,2026-01-27,Closed,0.32,0.22,0.12
+WO-35000413,FiberLink,Southeast Engineering,ASE Expansion,Buried Design,GA,2025-02-26,2025-03-24,,In Progress,0.35,0.22,0.12
+WO-35000414,Telecom Alpha,Central Engineering,ASE Expansion,Aerial Design,AL,2025-06-01,2025-06-26,,Billing Pending,0.3,0.22,0.12
+WO-35000415,MetroNet Demo,Gulf Engineering,Fiber Modernization,Mixed Plant,MS,2025-08-30,2025-09-23,,On Hold,0.35,0.22,0.12
+WO-35000416,Telecom Beta,Central Engineering,ASE Expansion,Mixed Plant,AL,2025-09-03,2025-09-10,2025-09-02,Closed,0.3,0.22,0.12
+WO-35000417,FiberLink,Central Engineering,ASE Expansion,Buried Design,AL,2025-03-18,2025-03-29,,In Progress,0.32,0.22,0.12
+WO-35000418,FiberLink,Central Engineering,Fiber Modernization,Buried Design,FL,2025-08-25,2025-09-30,,In Progress,0.3,0.22,0.12
+WO-35000419,Telecom Beta,Gulf Engineering,ASE Expansion,Buried Design,TX,2026-03-02,2026-04-14,,On Hold,0.32,0.22,0.12
+WO-35000420,MetroNet Demo,Southeast Engineering,BAU Engineering,Permit Only,LA,2026-03-11,2026-04-16,,On Hold,0.32,0.22,0.12
+WO-35000421,Telecom Beta,Southeast Engineering,ASE Expansion,Aerial Design,GA,2025-03-25,2025-04-14,2025-04-23,Closed,0.32,0.22,0.12
+WO-35000422,MetroNet Demo,Southeast Engineering,Fiber Modernization,Buried Design,TX,2026-03-20,2026-04-15,2026-04-21,Closed,0.35,0.22,0.12
+WO-35000423,MetroNet Demo,Gulf Engineering,Fiber Modernization,Mixed Plant,FL,2025-10-03,2025-10-20,,Billing Pending,0.28,0.22,0.12
+WO-35000424,MetroNet Demo,Central Engineering,Fiber Modernization,Buried Design,LA,2025-05-27,2025-06-27,,In Progress,0.28,0.22,0.12
+WO-35000425,FiberLink,Southeast Engineering,ASE Expansion,Mixed Plant,GA,2026-05-26,2026-06-01,2026-06-13,Closed,0.28,0.22,0.12
+WO-35000426,MetroNet Demo,Central Engineering,Fiber Modernization,Mixed Plant,GA,2026-01-22,2026-02-02,2026-02-05,Closed,0.28,0.22,0.12
+WO-35000427,Telecom Alpha,Gulf Engineering,ASE Expansion,Aerial Design,FL,2026-01-30,2026-03-01,2026-03-01,Closed,0.35,0.22,0.12
+WO-35000428,MetroNet Demo,Central Engineering,ASE Expansion,Aerial Design,AL,2026-04-19,2026-05-10,2026-05-11,Closed,0.32,0.22,0.12
+WO-35000429,Telecom Alpha,Central Engineering,BAU Engineering,Mixed Plant,FL,2025-06-18,2025-07-13,,On Hold,0.35,0.22,0.12
+WO-35000430,MetroNet Demo,Southeast Engineering,BAU Engineering,Aerial Design,FL,2025-01-22,2025-02-07,2025-02-05,Closed,0.35,0.22,0.12
+WO-35000431,Telecom Beta,Gulf Engineering,ASE Expansion,Mixed Plant,TX,2025-07-04,2025-08-02,2025-08-08,Closed,0.32,0.22,0.12
+WO-35000432,Telecom Alpha,Gulf Engineering,ASE Expansion,Aerial Design,TX,2025-10-08,2025-11-05,,In Progress,0.32,0.22,0.12
+WO-35000433,Telecom Beta,Southeast Engineering,ASE Expansion,Permit Only,GA,2026-05-18,2026-06-11,2026-06-14,Closed,0.28,0.22,0.12
+WO-35000434,FiberLink,Central Engineering,ASE Expansion,Mixed Plant,TX,2026-01-15,2026-02-12,2026-02-13,Closed,0.28,0.22,0.12
+WO-35000435,Telecom Alpha,Central Engineering,Fiber Modernization,Permit Only,FL,2025-08-10,2025-08-29,,On Hold,0.32,0.22,0.12
+WO-35000436,Telecom Beta,Southeast Engineering,BAU Engineering,Mixed Plant,AL,2025-03-09,2025-04-03,2025-04-03,Closed,0.32,0.22,0.12
+WO-35000437,MetroNet Demo,Central Engineering,Fiber Modernization,Buried Design,GA,2025-09-23,2025-10-18,,In Progress,0.3,0.22,0.12
+WO-35000438,FiberLink,Central Engineering,Fiber Modernization,Mixed Plant,AL,2026-05-25,2026-06-28,,Billing Pending,0.35,0.22,0.12
+WO-35000439,Telecom Alpha,Central Engineering,Fiber Modernization,Buried Design,MS,2026-05-08,2026-05-30,,Billing Pending,0.32,0.22,0.12
+WO-35000440,Telecom Alpha,Central Engineering,ASE Expansion,Aerial Design,FL,2025-03-13,2025-04-08,2025-04-10,Closed,0.32,0.22,0.12
+WO-35000441,Telecom Alpha,Gulf Engineering,Fiber Modernization,Buried Design,FL,2025-02-15,2025-03-04,,Billing Pending,0.32,0.22,0.12
+WO-35000442,FiberLink,Gulf Engineering,BAU Engineering,Mixed Plant,TX,2025-07-05,2025-08-06,,On Hold,0.28,0.22,0.12
+WO-35000443,Telecom Beta,Gulf Engineering,Fiber Modernization,Aerial Design,GA,2026-02-15,2026-03-15,,On Hold,0.35,0.22,0.12
+WO-35000444,Telecom Alpha,Southeast Engineering,Fiber Modernization,Mixed Plant,MS,2025-02-20,2025-03-19,,In Progress,0.35,0.22,0.12
+WO-35000445,FiberLink,Central Engineering,ASE Expansion,Aerial Design,LA,2026-01-20,2026-03-02,,On Hold,0.28,0.22,0.12
+WO-35000446,MetroNet Demo,Central Engineering,ASE Expansion,Permit Only,TX,2025-09-28,2025-10-26,2025-10-24,Closed,0.32,0.22,0.12
+WO-35000447,MetroNet Demo,Gulf Engineering,Fiber Modernization,Aerial Design,MS,2026-03-21,2026-03-31,2026-04-20,Closed,0.32,0.22,0.12
+WO-35000448,FiberLink,Southeast Engineering,Fiber Modernization,Buried Design,AL,2025-08-09,2025-09-01,,In Progress,0.3,0.22,0.12
+WO-35000449,FiberLink,Southeast Engineering,Fiber Modernization,Mixed Plant,TX,2025-01-31,2025-02-12,2025-02-18,Closed,0.28,0.22,0.12
+WO-35000450,FiberLink,Southeast Engineering,BAU Engineering,Permit Only,AL,2026-02-08,2026-02-13,2026-02-21,Closed,0.28,0.22,0.12
+WO-35000451,Telecom Beta,Gulf Engineering,BAU Engineering,Buried Design,TX,2026-01-13,2026-03-05,2026-03-13,Closed,0.3,0.22,0.12
+WO-35000452,FiberLink,Southeast Engineering,Fiber Modernization,Mixed Plant,MS,2025-12-19,2026-01-07,2026-01-02,Closed,0.32,0.22,0.12
+WO-35000453,MetroNet Demo,Southeast Engineering,BAU Engineering,Permit Only,AL,2025-03-19,2025-03-27,,In Progress,0.32,0.22,0.12
+WO-35000454,FiberLink,Gulf Engineering,Fiber Modernization,Mixed Plant,TX,2026-03-07,2026-04-03,2026-04-08,Closed,0.3,0.22,0.12
+WO-35000455,FiberLink,Gulf Engineering,ASE Expansion,Mixed Plant,GA,2026-03-11,2026-04-10,,On Hold,0.32,0.22,0.12
+WO-35000456,FiberLink,Southeast Engineering,Fiber Modernization,Mixed Plant,TX,2025-01-17,2025-02-02,,In Progress,0.35,0.22,0.12
+WO-35000457,FiberLink,Southeast Engineering,Fiber Modernization,Buried Design,GA,2025-10-16,2025-11-18,,In Progress,0.28,0.22,0.12
+WO-35000458,MetroNet Demo,Central Engineering,Fiber Modernization,Aerial Design,GA,2026-05-30,2026-06-10,,On Hold,0.28,0.22,0.12
+WO-35000459,Telecom Beta,Gulf Engineering,Fiber Modernization,Mixed Plant,TX,2025-02-25,2025-03-04,,On Hold,0.3,0.22,0.12
+WO-35000460,Telecom Alpha,Central Engineering,BAU Engineering,Mixed Plant,GA,2025-07-26,2025-08-21,,Billing Pending,0.32,0.22,0.12
+WO-35000461,Telecom Beta,Gulf Engineering,Fiber Modernization,Aerial Design,LA,2026-03-13,2026-04-28,2026-05-01,Closed,0.3,0.22,0.12
+WO-35000462,MetroNet Demo,Southeast Engineering,Fiber Modernization,Mixed Plant,TX,2025-07-14,2025-09-10,2025-09-27,Closed,0.28,0.22,0.12
+WO-35000463,MetroNet Demo,Southeast Engineering,BAU Engineering,Mixed Plant,LA,2025-07-21,2025-08-05,,On Hold,0.3,0.22,0.12
+WO-35000464,FiberLink,Southeast Engineering,Fiber Modernization,Buried Design,TX,2025-06-03,2025-06-21,2025-07-10,Closed,0.35,0.22,0.12
+WO-35000465,MetroNet Demo,Southeast Engineering,ASE Expansion,Buried Design,GA,2025-04-09,2025-04-15,2025-04-16,Closed,0.28,0.22,0.12
+WO-35000466,Telecom Alpha,Gulf Engineering,Fiber Modernization,Aerial Design,AL,2025-10-29,2025-11-09,,Billing Pending,0.32,0.22,0.12
+WO-35000467,Telecom Alpha,Southeast Engineering,BAU Engineering,Aerial Design,LA,2025-06-12,2025-06-27,,Billing Pending,0.32,0.22,0.12
+WO-35000468,Telecom Beta,Central Engineering,ASE Expansion,Buried Design,TX,2025-01-03,2025-02-18,,Billing Pending,0.35,0.22,0.12
+WO-35000469,Telecom Beta,Central Engineering,BAU Engineering,Buried Design,FL,2025-12-11,2026-01-19,2026-01-25,Closed,0.3,0.22,0.12
+WO-35000470,Telecom Beta,Central Engineering,ASE Expansion,Mixed Plant,MS,2025-12-20,2026-01-23,2026-01-26,Closed,0.32,0.22,0.12
+WO-35000471,MetroNet Demo,Southeast Engineering,BAU Engineering,Aerial Design,MS,2025-08-17,2025-09-10,2025-09-02,Closed,0.3,0.22,0.12
+WO-35000472,MetroNet Demo,Southeast Engineering,ASE Expansion,Aerial Design,FL,2025-02-01,2025-02-26,,On Hold,0.32,0.22,0.12
+WO-35000473,FiberLink,Central Engineering,BAU Engineering,Mixed Plant,MS,2025-07-21,2025-07-26,2025-08-12,Closed,0.32,0.22,0.12
+WO-35000474,FiberLink,Central Engineering,BAU Engineering,Mixed Plant,MS,2025-07-05,2025-07-13,2025-07-05,Closed,0.32,0.22,0.12
+WO-35000475,Telecom Beta,Central Engineering,BAU Engineering,Aerial Design,AL,2025-08-24,2025-09-25,,Billing Pending,0.35,0.22,0.12
+WO-35000476,Telecom Beta,Central Engineering,ASE Expansion,Mixed Plant,LA,2026-05-19,2026-05-27,,On Hold,0.35,0.22,0.12
+WO-35000477,Telecom Alpha,Southeast Engineering,BAU Engineering,Mixed Plant,FL,2025-07-03,2025-08-02,2025-07-29,Closed,0.3,0.22,0.12
+WO-35000478,MetroNet Demo,Southeast Engineering,BAU Engineering,Aerial Design,TX,2025-12-10,2025-12-25,,In Progress,0.3,0.22,0.12
+WO-35000479,FiberLink,Gulf Engineering,ASE Expansion,Mixed Plant,GA,2025-12-31,2026-02-07,,Billing Pending,0.28,0.22,0.12
+WO-35000480,FiberLink,Central Engineering,Fiber Modernization,Mixed Plant,GA,2025-05-30,2025-06-27,2025-06-26,Closed,0.28,0.22,0.12
+WO-35000481,Telecom Beta,Central Engineering,BAU Engineering,Buried Design,LA,2026-05-25,2026-06-27,2026-07-10,Closed,0.28,0.22,0.12
+WO-35000482,Telecom Alpha,Gulf Engineering,ASE Expansion,Mixed Plant,FL,2026-02-02,2026-03-15,,Billing Pending,0.3,0.22,0.12
+WO-35000483,Telecom Alpha,Central Engineering,ASE Expansion,Mixed Plant,MS,2026-03-15,2026-03-20,,In Progress,0.35,0.22,0.12
+WO-35000484,MetroNet Demo,Southeast Engineering,Fiber Modernization,Buried Design,TX,2025-11-06,2025-12-05,2025-11-30,Closed,0.28,0.22,0.12
+WO-35000485,MetroNet Demo,Southeast Engineering,Fiber Modernization,Buried Design,MS,2025-06-16,2025-07-11,2025-07-03,Closed,0.3,0.22,0.12
+WO-35000486,MetroNet Demo,Southeast Engineering,BAU Engineering,Mixed Plant,TX,2025-01-03,2025-01-30,,Billing Pending,0.3,0.22,0.12
+WO-35000487,MetroNet Demo,Gulf Engineering,Fiber Modernization,Mixed Plant,TX,2026-02-10,2026-02-21,2026-02-14,Closed,0.32,0.22,0.12
+WO-35000488,FiberLink,Gulf Engineering,Fiber Modernization,Permit Only,FL,2025-02-20,2025-03-07,2025-03-02,Closed,0.35,0.22,0.12
+WO-35000489,MetroNet Demo,Southeast Engineering,Fiber Modernization,Aerial Design,AL,2026-01-10,2026-01-31,,Billing Pending,0.35,0.22,0.12
+WO-35000490,Telecom Alpha,Southeast Engineering,Fiber Modernization,Mixed Plant,GA,2025-03-19,2025-04-25,2025-04-30,Closed,0.28,0.22,0.12
+WO-35000491,Telecom Beta,Central Engineering,ASE Expansion,Aerial Design,MS,2026-01-06,2026-01-24,2026-01-24,Closed,0.3,0.22,0.12
+WO-35000492,Telecom Alpha,Gulf Engineering,BAU Engineering,Buried Design,LA,2026-05-18,2026-07-06,2026-07-19,Closed,0.32,0.22,0.12
+WO-35000493,FiberLink,Central Engineering,ASE Expansion,Mixed Plant,TX,2026-03-10,2026-04-04,2026-04-04,Closed,0.32,0.22,0.12
+WO-35000494,Telecom Alpha,Southeast Engineering,Fiber Modernization,Mixed Plant,AL,2026-01-17,2026-01-25,,In Progress,0.35,0.22,0.12
+WO-35000495,FiberLink,Central Engineering,ASE Expansion,Aerial Design,FL,2025-06-01,2025-06-29,2025-06-29,Closed,0.3,0.22,0.12
+WO-35000496,MetroNet Demo,Southeast Engineering,ASE Expansion,Buried Design,TX,2026-04-30,2026-05-05,,On Hold,0.32,0.22,0.12
+WO-35000497,MetroNet Demo,Gulf Engineering,ASE Expansion,Mixed Plant,GA,2026-04-02,2026-04-07,,In Progress,0.28,0.22,0.12
+WO-35000498,Telecom Beta,Gulf Engineering,Fiber Modernization,Permit Only,GA,2025-06-23,2025-07-14,2025-08-02,Closed,0.32,0.22,0.12
+WO-35000499,FiberLink,Central Engineering,BAU Engineering,Aerial Design,MS,2025-02-04,2025-03-05,,Billing Pending,0.3,0.22,0.12
+WO-35000500,Telecom Beta,Central Engineering,Fiber Modernization,Permit Only,LA,2025-05-16,2025-06-15,,Billing Pending,0.35,0.22,0.12
+WO-35000501,Telecom Beta,Central Engineering,BAU Engineering,Mixed Plant,MS,2025-07-03,2025-07-22,2025-07-21,Closed,0.35,0.22,0.12
+WO-35000502,Telecom Beta,Gulf Engineering,BAU Engineering,Aerial Design,TX,2026-01-21,2026-02-13,2026-02-22,Closed,0.28,0.22,0.12
+WO-35000503,FiberLink,Central Engineering,BAU Engineering,Mixed Plant,GA,2025-07-24,2025-08-04,,On Hold,0.28,0.22,0.12
+WO-35000504,MetroNet Demo,Central Engineering,Fiber Modernization,Aerial Design,TX,2026-02-19,2026-03-09,2026-03-12,Closed,0.35,0.22,0.12
+WO-35000505,Telecom Beta,Southeast Engineering,BAU Engineering,Mixed Plant,LA,2025-04-13,2025-05-28,2025-06-07,Closed,0.28,0.22,0.12
+WO-35000506,FiberLink,Southeast Engineering,BAU Engineering,Aerial Design,MS,2025-04-28,2025-05-08,2025-05-08,Closed,0.28,0.22,0.12
+WO-35000507,MetroNet Demo,Gulf Engineering,BAU Engineering,Aerial Design,MS,2026-04-01,2026-04-29,,On Hold,0.32,0.22,0.12
+WO-35000508,FiberLink,Southeast Engineering,Fiber Modernization,Buried Design,LA,2025-10-23,2025-11-04,2025-11-26,Closed,0.28,0.22,0.12
+WO-35000509,FiberLink,Central Engineering,BAU Engineering,Aerial Design,LA,2026-02-04,2026-02-09,,Billing Pending,0.35,0.22,0.12
+WO-35000510,MetroNet Demo,Southeast Engineering,ASE Expansion,Aerial Design,AL,2025-04-29,2025-05-25,,In Progress,0.32,0.22,0.12
+WO-35000511,Telecom Alpha,Southeast Engineering,BAU Engineering,Mixed Plant,GA,2025-12-01,2025-12-30,,In Progress,0.32,0.22,0.12
+WO-35000512,FiberLink,Southeast Engineering,Fiber Modernization,Permit Only,FL,2025-07-22,2025-08-14,2025-08-06,Closed,0.3,0.22,0.12
+WO-35000513,MetroNet Demo,Central Engineering,BAU Engineering,Aerial Design,GA,2025-01-23,2025-02-09,2025-02-10,Closed,0.35,0.22,0.12
+WO-35000514,Telecom Beta,Southeast Engineering,BAU Engineering,Mixed Plant,LA,2025-07-27,2025-08-25,2025-08-17,Closed,0.35,0.22,0.12
+WO-35000515,Telecom Alpha,Gulf Engineering,Fiber Modernization,Mixed Plant,TX,2026-05-09,2026-06-03,2026-06-02,Closed,0.32,0.22,0.12
+WO-35000516,MetroNet Demo,Southeast Engineering,Fiber Modernization,Mixed Plant,TX,2025-01-09,2025-02-06,2025-02-18,Closed,0.35,0.22,0.12
+WO-35000517,Telecom Beta,Gulf Engineering,ASE Expansion,Permit Only,GA,2025-12-07,2026-01-04,,Billing Pending,0.35,0.22,0.12
+WO-35000518,Telecom Beta,Central Engineering,Fiber Modernization,Buried Design,TX,2025-05-14,2025-06-03,,Billing Pending,0.32,0.22,0.12
+WO-35000519,Telecom Alpha,Gulf Engineering,BAU Engineering,Buried Design,LA,2026-03-22,2026-04-13,,In Progress,0.28,0.22,0.12
+WO-35000520,FiberLink,Southeast Engineering,BAU Engineering,Buried Design,FL,2026-05-27,2026-06-04,,Billing Pending,0.32,0.22,0.12
+WO-35000521,MetroNet Demo,Central Engineering,ASE Expansion,Buried Design,LA,2026-05-25,2026-06-23,2026-06-30,Closed,0.3,0.22,0.12
+WO-35000522,Telecom Alpha,Southeast Engineering,ASE Expansion,Aerial Design,GA,2025-08-29,2025-10-17,2025-10-24,Closed,0.3,0.22,0.12
+WO-35000523,FiberLink,Central Engineering,Fiber Modernization,Buried Design,AL,2025-05-04,2025-05-15,2025-05-25,Closed,0.3,0.22,0.12
+WO-35000524,Telecom Beta,Central Engineering,Fiber Modernization,Permit Only,MS,2025-07-30,2025-08-23,,Billing Pending,0.35,0.22,0.12
+WO-35000525,Telecom Beta,Gulf Engineering,Fiber Modernization,Permit Only,MS,2025-07-24,2025-08-21,2025-08-13,Closed,0.3,0.22,0.12
+WO-35000526,MetroNet Demo,Southeast Engineering,BAU Engineering,Mixed Plant,LA,2025-11-20,2025-12-01,,Billing Pending,0.3,0.22,0.12
+WO-35000527,FiberLink,Gulf Engineering,BAU Engineering,Aerial Design,FL,2025-11-17,2026-01-02,2026-01-03,Closed,0.3,0.22,0.12
+WO-35000528,Telecom Alpha,Southeast Engineering,ASE Expansion,Buried Design,LA,2025-09-08,2025-09-16,,On Hold,0.32,0.22,0.12
+WO-35000529,Telecom Beta,Central Engineering,ASE Expansion,Mixed Plant,MS,2025-04-29,2025-05-17,,Billing Pending,0.28,0.22,0.12
+WO-35000530,Telecom Beta,Southeast Engineering,Fiber Modernization,Permit Only,LA,2025-09-17,2025-09-30,2025-10-16,Closed,0.32,0.22,0.12
+WO-35000531,MetroNet Demo,Central Engineering,ASE Expansion,Buried Design,LA,2025-11-21,2026-01-03,2026-01-05,Closed,0.32,0.22,0.12
+WO-35000532,Telecom Alpha,Gulf Engineering,BAU Engineering,Aerial Design,TX,2025-02-12,2025-02-27,,Billing Pending,0.28,0.22,0.12
+WO-35000533,FiberLink,Gulf Engineering,ASE Expansion,Permit Only,AL,2025-01-27,2025-02-16,,Billing Pending,0.32,0.22,0.12
+WO-35000534,MetroNet Demo,Gulf Engineering,BAU Engineering,Permit Only,FL,2025-10-22,2025-11-13,,Billing Pending,0.35,0.22,0.12
+WO-35000535,Telecom Beta,Gulf Engineering,BAU Engineering,Aerial Design,MS,2026-01-14,2026-02-16,2026-02-18,Closed,0.3,0.22,0.12
+WO-35000536,MetroNet Demo,Southeast Engineering,ASE Expansion,Mixed Plant,GA,2025-03-06,2025-04-18,2025-04-18,Closed,0.3,0.22,0.12
+WO-35000537,FiberLink,Gulf Engineering,ASE Expansion,Mixed Plant,LA,2025-07-23,2025-08-18,,On Hold,0.28,0.22,0.12
+WO-35000538,FiberLink,Central Engineering,ASE Expansion,Aerial Design,MS,2025-04-24,2025-05-27,2025-06-10,Closed,0.28,0.22,0.12
+WO-35000539,FiberLink,Gulf Engineering,Fiber Modernization,Permit Only,AL,2025-01-27,2025-02-24,,Billing Pending,0.28,0.22,0.12
+WO-35000540,Telecom Alpha,Central Engineering,BAU Engineering,Permit Only,LA,2025-07-04,2025-08-02,2025-07-25,Closed,0.28,0.22,0.12
+WO-35000541,Telecom Alpha,Central Engineering,ASE Expansion,Mixed Plant,FL,2026-01-21,2026-02-05,2026-02-19,Closed,0.28,0.22,0.12
+WO-35000542,MetroNet Demo,Southeast Engineering,ASE Expansion,Mixed Plant,AL,2025-09-25,2025-10-17,,On Hold,0.3,0.22,0.12
+WO-35000543,Telecom Beta,Southeast Engineering,ASE Expansion,Aerial Design,MS,2025-04-19,2025-04-25,2025-05-01,Closed,0.28,0.22,0.12
+WO-35000544,Telecom Alpha,Central Engineering,Fiber Modernization,Aerial Design,TX,2025-04-21,2025-06-16,2025-06-08,Closed,0.28,0.22,0.12
+WO-35000545,FiberLink,Central Engineering,Fiber Modernization,Buried Design,LA,2025-03-21,2025-04-08,2025-04-10,Closed,0.28,0.22,0.12
+WO-35000546,Telecom Alpha,Gulf Engineering,BAU Engineering,Mixed Plant,AL,2025-04-28,2025-05-29,2025-06-01,Closed,0.35,0.22,0.12
+WO-35000547,Telecom Alpha,Gulf Engineering,ASE Expansion,Mixed Plant,AL,2026-04-20,2026-05-06,,Billing Pending,0.32,0.22,0.12
+WO-35000548,MetroNet Demo,Central Engineering,BAU Engineering,Aerial Design,AL,2025-01-21,2025-02-03,2025-02-08,Closed,0.3,0.22,0.12
+WO-35000549,Telecom Beta,Southeast Engineering,Fiber Modernization,Buried Design,AL,2025-03-14,2025-04-15,,In Progress,0.28,0.22,0.12
+WO-35000550,FiberLink,Central Engineering,Fiber Modernization,Mixed Plant,LA,2025-08-11,2025-09-06,,Billing Pending,0.28,0.22,0.12
+WO-35000551,MetroNet Demo,Southeast Engineering,ASE Expansion,Mixed Plant,MS,2026-05-30,2026-07-09,,In Progress,0.3,0.22,0.12
+WO-35000552,Telecom Alpha,Central Engineering,BAU Engineering,Permit Only,LA,2025-02-24,2025-03-04,,Billing Pending,0.32,0.22,0.12
+WO-35000553,Telecom Alpha,Gulf Engineering,Fiber Modernization,Buried Design,LA,2025-01-23,2025-02-23,,On Hold,0.35,0.22,0.12
+WO-35000554,Telecom Alpha,Southeast Engineering,Fiber Modernization,Mixed Plant,MS,2026-02-10,2026-03-10,2026-03-19,Closed,0.35,0.22,0.12
+WO-35000555,FiberLink,Central Engineering,BAU Engineering,Aerial Design,TX,2026-05-09,2026-06-08,2026-06-10,Closed,0.35,0.22,0.12
+WO-35000556,MetroNet Demo,Southeast Engineering,BAU Engineering,Mixed Plant,GA,2025-11-14,2025-11-27,2025-11-26,Closed,0.32,0.22,0.12
+WO-35000557,MetroNet Demo,Central Engineering,ASE Expansion,Mixed Plant,TX,2025-01-22,2025-02-02,,On Hold,0.28,0.22,0.12
+WO-35000558,MetroNet Demo,Southeast Engineering,Fiber Modernization,Buried Design,MS,2025-05-27,2025-06-22,2025-07-05,Closed,0.35,0.22,0.12
+WO-35000559,FiberLink,Southeast Engineering,ASE Expansion,Buried Design,GA,2026-02-06,2026-03-16,2026-04-02,Closed,0.35,0.22,0.12
+WO-35000560,Telecom Beta,Southeast Engineering,BAU Engineering,Aerial Design,FL,2025-12-17,2026-01-26,2026-01-30,Closed,0.28,0.22,0.12
+WO-35000561,FiberLink,Southeast Engineering,ASE Expansion,Mixed Plant,FL,2025-10-15,2025-11-03,,On Hold,0.32,0.22,0.12
+WO-35000562,Telecom Beta,Southeast Engineering,Fiber Modernization,Buried Design,FL,2026-03-22,2026-05-07,,In Progress,0.32,0.22,0.12
+WO-35000563,MetroNet Demo,Gulf Engineering,BAU Engineering,Aerial Design,TX,2026-04-27,2026-05-02,2026-04-26,Closed,0.35,0.22,0.12
+WO-35000564,FiberLink,Central Engineering,ASE Expansion,Buried Design,FL,2025-01-13,2025-02-10,,On Hold,0.32,0.22,0.12
+WO-35000565,MetroNet Demo,Central Engineering,BAU Engineering,Buried Design,FL,2025-06-02,2025-06-07,2025-05-30,Closed,0.35,0.22,0.12
+WO-35000566,Telecom Beta,Southeast Engineering,Fiber Modernization,Aerial Design,LA,2025-04-06,2025-05-15,2025-06-06,Closed,0.28,0.22,0.12
+WO-35000567,Telecom Beta,Southeast Engineering,BAU Engineering,Mixed Plant,LA,2026-05-10,2026-06-01,,Billing Pending,0.32,0.22,0.12
+WO-35000568,FiberLink,Central Engineering,Fiber Modernization,Aerial Design,TX,2026-04-13,2026-04-26,,In Progress,0.28,0.22,0.12
+WO-35000569,Telecom Beta,Gulf Engineering,BAU Engineering,Buried Design,GA,2025-03-17,2025-04-07,,Billing Pending,0.35,0.22,0.12
+WO-35000570,MetroNet Demo,Southeast Engineering,BAU Engineering,Mixed Plant,FL,2025-07-26,2025-08-24,2025-08-29,Closed,0.28,0.22,0.12
+WO-35000571,Telecom Alpha,Central Engineering,Fiber Modernization,Buried Design,LA,2025-05-23,2025-06-15,,On Hold,0.32,0.22,0.12
+WO-35000572,MetroNet Demo,Southeast Engineering,BAU Engineering,Buried Design,TX,2026-05-17,2026-06-06,2026-06-09,Closed,0.35,0.22,0.12
+WO-35000573,MetroNet Demo,Gulf Engineering,Fiber Modernization,Aerial Design,LA,2025-04-10,2025-05-26,,On Hold,0.3,0.22,0.12
+WO-35000574,MetroNet Demo,Gulf Engineering,ASE Expansion,Buried Design,GA,2026-04-16,2026-04-23,,Billing Pending,0.35,0.22,0.12
+WO-35000575,Telecom Beta,Gulf Engineering,Fiber Modernization,Buried Design,LA,2025-01-19,2025-02-25,2025-03-12,Closed,0.28,0.22,0.12
+WO-35000576,Telecom Beta,Southeast Engineering,Fiber Modernization,Mixed Plant,LA,2025-11-30,2025-12-22,2025-12-18,Closed,0.3,0.22,0.12
+WO-35000577,Telecom Beta,Gulf Engineering,BAU Engineering,Buried Design,MS,2026-01-21,2026-02-08,2026-02-08,Closed,0.32,0.22,0.12
+WO-35000578,Telecom Alpha,Central Engineering,Fiber Modernization,Mixed Plant,MS,2025-10-13,2025-10-25,,In Progress,0.3,0.22,0.12
+WO-35000579,Telecom Beta,Southeast Engineering,ASE Expansion,Mixed Plant,AL,2025-07-21,2025-08-05,2025-08-03,Closed,0.32,0.22,0.12
+WO-35000580,MetroNet Demo,Central Engineering,Fiber Modernization,Mixed Plant,FL,2025-06-19,2025-06-25,,On Hold,0.3,0.22,0.12
+WO-35000581,FiberLink,Southeast Engineering,ASE Expansion,Aerial Design,MS,2025-06-19,2025-07-12,,Billing Pending,0.35,0.22,0.12
+WO-35000582,Telecom Beta,Central Engineering,ASE Expansion,Permit Only,FL,2025-09-24,2025-11-05,2025-11-06,Closed,0.35,0.22,0.12
+WO-35000583,Telecom Beta,Central Engineering,Fiber Modernization,Mixed Plant,GA,2026-01-14,2026-01-31,,On Hold,0.32,0.22,0.12
+WO-35000584,MetroNet Demo,Southeast Engineering,Fiber Modernization,Buried Design,FL,2026-05-19,2026-06-13,2026-06-14,Closed,0.32,0.22,0.12
+WO-35000585,FiberLink,Southeast Engineering,Fiber Modernization,Permit Only,GA,2025-08-25,2025-09-20,,On Hold,0.3,0.22,0.12
+WO-35000586,Telecom Alpha,Central Engineering,Fiber Modernization,Buried Design,FL,2025-08-28,2025-09-26,,In Progress,0.28,0.22,0.12
+WO-35000587,Telecom Beta,Southeast Engineering,Fiber Modernization,Mixed Plant,MS,2026-02-04,2026-03-05,,In Progress,0.3,0.22,0.12
+WO-35000588,FiberLink,Gulf Engineering,ASE Expansion,Buried Design,TX,2025-07-28,2025-08-02,,In Progress,0.3,0.22,0.12
+WO-35000589,Telecom Alpha,Central Engineering,BAU Engineering,Mixed Plant,LA,2025-10-19,2025-11-15,,Billing Pending,0.28,0.22,0.12
+WO-35000590,Telecom Alpha,Gulf Engineering,BAU Engineering,Buried Design,FL,2025-12-07,2025-12-20,,In Progress,0.35,0.22,0.12
+WO-35000591,Telecom Alpha,Southeast Engineering,BAU Engineering,Aerial Design,TX,2026-02-11,2026-03-05,2026-03-08,Closed,0.3,0.22,0.12
+WO-35000592,FiberLink,Central Engineering,BAU Engineering,Buried Design,LA,2025-10-16,2025-12-10,2026-01-05,Closed,0.35,0.22,0.12
+WO-35000593,Telecom Alpha,Central Engineering,Fiber Modernization,Aerial Design,GA,2025-08-19,2025-09-11,,On Hold,0.28,0.22,0.12
+WO-35000594,MetroNet Demo,Southeast Engineering,ASE Expansion,Mixed Plant,AL,2025-02-16,2025-03-28,2025-04-07,Closed,0.32,0.22,0.12
+WO-35000595,Telecom Beta,Gulf Engineering,ASE Expansion,Buried Design,MS,2025-11-24,2025-12-14,2025-12-25,Closed,0.3,0.22,0.12
+WO-35000596,FiberLink,Gulf Engineering,BAU Engineering,Mixed Plant,LA,2026-02-21,2026-03-10,2026-03-15,Closed,0.35,0.22,0.12
+WO-35000597,Telecom Alpha,Gulf Engineering,ASE Expansion,Aerial Design,FL,2025-11-29,2026-01-09,2026-01-09,Closed,0.28,0.22,0.12
+WO-35000598,Telecom Alpha,Gulf Engineering,ASE Expansion,Aerial Design,LA,2026-01-17,2026-02-21,2026-02-14,Closed,0.28,0.22,0.12
+WO-35000599,Telecom Alpha,Central Engineering,BAU Engineering,Permit Only,MS,2025-09-21,2025-10-16,2025-10-18,Closed,0.3,0.22,0.12

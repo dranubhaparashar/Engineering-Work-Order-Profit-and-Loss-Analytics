@@ -1,0 +1,978 @@
+cost_id,work_order_number,cost_date,cost_type,amount,description
+COST-400000,WO-35000000,2025-11-05,Mileage/Travel,6.38,Synthetic mileage and travel expense
+COST-400001,WO-35000001,2026-04-10,Mileage/Travel,17.69,Synthetic mileage and travel expense
+COST-400002,WO-35000001,2026-04-10,Permit Fee,225.88,Synthetic permit or filing fee
+COST-400003,WO-35000002,2025-11-04,Mileage/Travel,44.65,Synthetic mileage and travel expense
+COST-400004,WO-35000003,2026-04-02,Mileage/Travel,75.01,Synthetic mileage and travel expense
+COST-400005,WO-35000004,2025-02-27,Mileage/Travel,27.94,Synthetic mileage and travel expense
+COST-400006,WO-35000005,2025-06-23,Mileage/Travel,19.86,Synthetic mileage and travel expense
+COST-400007,WO-35000005,2025-06-23,Permit Fee,229.55,Synthetic permit or filing fee
+COST-400008,WO-35000006,2025-05-30,Mileage/Travel,50.74,Synthetic mileage and travel expense
+COST-400009,WO-35000007,2025-11-13,Mileage/Travel,4.02,Synthetic mileage and travel expense
+COST-400010,WO-35000007,2025-11-13,Permit Fee,137.18,Synthetic permit or filing fee
+COST-400011,WO-35000008,2026-04-20,Mileage/Travel,33.38,Synthetic mileage and travel expense
+COST-400012,WO-35000008,2026-04-20,Permit Fee,49.02,Synthetic permit or filing fee
+COST-400013,WO-35000009,2025-01-30,Mileage/Travel,93.77,Synthetic mileage and travel expense
+COST-400014,WO-35000009,2025-01-30,Subcontractor,354.62,Synthetic subcontractor expense
+COST-400015,WO-35000010,2025-08-25,Mileage/Travel,7.27,Synthetic mileage and travel expense
+COST-400016,WO-35000010,2025-08-25,Permit Fee,253.03,Synthetic permit or filing fee
+COST-400017,WO-35000011,2025-12-30,Mileage/Travel,73.43,Synthetic mileage and travel expense
+COST-400018,WO-35000012,2025-04-10,Mileage/Travel,37.15,Synthetic mileage and travel expense
+COST-400019,WO-35000013,2025-04-28,Mileage/Travel,42.67,Synthetic mileage and travel expense
+COST-400020,WO-35000013,2025-04-28,Permit Fee,112.49,Synthetic permit or filing fee
+COST-400021,WO-35000014,2026-05-10,Mileage/Travel,75.99,Synthetic mileage and travel expense
+COST-400022,WO-35000014,2026-05-10,Permit Fee,34.97,Synthetic permit or filing fee
+COST-400023,WO-35000015,2025-05-10,Mileage/Travel,60.72,Synthetic mileage and travel expense
+COST-400024,WO-35000015,2025-05-10,Permit Fee,260.09,Synthetic permit or filing fee
+COST-400025,WO-35000016,2025-10-24,Mileage/Travel,144.03,Synthetic mileage and travel expense
+COST-400026,WO-35000016,2025-10-24,Permit Fee,240.9,Synthetic permit or filing fee
+COST-400027,WO-35000017,2026-05-15,Mileage/Travel,69.34,Synthetic mileage and travel expense
+COST-400028,WO-35000017,2026-05-15,Permit Fee,112.87,Synthetic permit or filing fee
+COST-400029,WO-35000018,2026-04-08,Mileage/Travel,28.3,Synthetic mileage and travel expense
+COST-400030,WO-35000018,2026-04-08,Permit Fee,244.72,Synthetic permit or filing fee
+COST-400031,WO-35000018,2026-04-08,Subcontractor,207.12,Synthetic subcontractor expense
+COST-400032,WO-35000019,2025-05-19,Mileage/Travel,60.48,Synthetic mileage and travel expense
+COST-400033,WO-35000020,2025-12-13,Mileage/Travel,23.94,Synthetic mileage and travel expense
+COST-400034,WO-35000021,2026-03-05,Mileage/Travel,111.61,Synthetic mileage and travel expense
+COST-400035,WO-35000022,2025-12-26,Mileage/Travel,41.43,Synthetic mileage and travel expense
+COST-400036,WO-35000022,2025-12-26,Permit Fee,124.18,Synthetic permit or filing fee
+COST-400037,WO-35000023,2025-02-21,Mileage/Travel,9.72,Synthetic mileage and travel expense
+COST-400038,WO-35000024,2025-06-11,Mileage/Travel,9.04,Synthetic mileage and travel expense
+COST-400039,WO-35000024,2025-06-11,Permit Fee,240.18,Synthetic permit or filing fee
+COST-400040,WO-35000025,2025-05-15,Mileage/Travel,71.4,Synthetic mileage and travel expense
+COST-400041,WO-35000025,2025-05-15,Permit Fee,230.12,Synthetic permit or filing fee
+COST-400042,WO-35000026,2025-12-29,Mileage/Travel,112.84,Synthetic mileage and travel expense
+COST-400043,WO-35000027,2025-03-23,Mileage/Travel,22.84,Synthetic mileage and travel expense
+COST-400044,WO-35000027,2025-03-23,Permit Fee,74.73,Synthetic permit or filing fee
+COST-400045,WO-35000028,2025-06-01,Mileage/Travel,5.16,Synthetic mileage and travel expense
+COST-400046,WO-35000029,2025-05-20,Mileage/Travel,24.38,Synthetic mileage and travel expense
+COST-400047,WO-35000030,2025-07-02,Mileage/Travel,88.53,Synthetic mileage and travel expense
+COST-400048,WO-35000030,2025-07-02,Permit Fee,191.72,Synthetic permit or filing fee
+COST-400049,WO-35000031,2026-06-14,Mileage/Travel,18.15,Synthetic mileage and travel expense
+COST-400050,WO-35000031,2026-06-14,Permit Fee,136.8,Synthetic permit or filing fee
+COST-400051,WO-35000032,2026-05-21,Mileage/Travel,17.52,Synthetic mileage and travel expense
+COST-400052,WO-35000032,2026-05-21,Permit Fee,55.5,Synthetic permit or filing fee
+COST-400053,WO-35000033,2025-04-28,Mileage/Travel,11.4,Synthetic mileage and travel expense
+COST-400054,WO-35000034,2025-02-08,Mileage/Travel,58.35,Synthetic mileage and travel expense
+COST-400055,WO-35000034,2025-02-08,Permit Fee,59.85,Synthetic permit or filing fee
+COST-400056,WO-35000035,2025-04-15,Mileage/Travel,40.6,Synthetic mileage and travel expense
+COST-400057,WO-35000036,2025-01-13,Mileage/Travel,11.58,Synthetic mileage and travel expense
+COST-400058,WO-35000037,2025-08-15,Mileage/Travel,8.56,Synthetic mileage and travel expense
+COST-400059,WO-35000037,2025-08-15,Permit Fee,141.12,Synthetic permit or filing fee
+COST-400060,WO-35000038,2025-06-13,Mileage/Travel,58.15,Synthetic mileage and travel expense
+COST-400061,WO-35000038,2025-06-13,Permit Fee,254.3,Synthetic permit or filing fee
+COST-400062,WO-35000039,2025-12-31,Mileage/Travel,16.29,Synthetic mileage and travel expense
+COST-400063,WO-35000039,2025-12-31,Permit Fee,94.03,Synthetic permit or filing fee
+COST-400064,WO-35000040,2025-11-01,Mileage/Travel,8.78,Synthetic mileage and travel expense
+COST-400065,WO-35000041,2026-03-15,Mileage/Travel,99.82,Synthetic mileage and travel expense
+COST-400066,WO-35000042,2025-07-20,Mileage/Travel,7.51,Synthetic mileage and travel expense
+COST-400067,WO-35000042,2025-07-20,Permit Fee,177.03,Synthetic permit or filing fee
+COST-400068,WO-35000042,2025-07-20,Subcontractor,610.16,Synthetic subcontractor expense
+COST-400069,WO-35000043,2025-06-28,Mileage/Travel,60.78,Synthetic mileage and travel expense
+COST-400070,WO-35000043,2025-06-28,Permit Fee,146.2,Synthetic permit or filing fee
+COST-400071,WO-35000044,2026-01-11,Mileage/Travel,6.63,Synthetic mileage and travel expense
+COST-400072,WO-35000044,2026-01-11,Permit Fee,156.07,Synthetic permit or filing fee
+COST-400073,WO-35000045,2025-11-13,Mileage/Travel,67.27,Synthetic mileage and travel expense
+COST-400074,WO-35000045,2025-11-13,Permit Fee,62.51,Synthetic permit or filing fee
+COST-400075,WO-35000046,2025-05-13,Mileage/Travel,9.78,Synthetic mileage and travel expense
+COST-400076,WO-35000047,2025-06-25,Mileage/Travel,9.09,Synthetic mileage and travel expense
+COST-400077,WO-35000048,2025-03-18,Mileage/Travel,23.75,Synthetic mileage and travel expense
+COST-400078,WO-35000048,2025-03-18,Permit Fee,89.76,Synthetic permit or filing fee
+COST-400079,WO-35000049,2025-05-16,Mileage/Travel,45.14,Synthetic mileage and travel expense
+COST-400080,WO-35000050,2025-03-15,Mileage/Travel,45.39,Synthetic mileage and travel expense
+COST-400081,WO-35000050,2025-03-15,Permit Fee,213.2,Synthetic permit or filing fee
+COST-400082,WO-35000051,2026-06-10,Mileage/Travel,24.34,Synthetic mileage and travel expense
+COST-400083,WO-35000052,2026-01-09,Mileage/Travel,5.58,Synthetic mileage and travel expense
+COST-400084,WO-35000052,2026-01-09,Permit Fee,203.35,Synthetic permit or filing fee
+COST-400085,WO-35000053,2026-04-11,Mileage/Travel,6.5,Synthetic mileage and travel expense
+COST-400086,WO-35000054,2025-12-13,Mileage/Travel,39.54,Synthetic mileage and travel expense
+COST-400087,WO-35000054,2025-12-13,Permit Fee,260.47,Synthetic permit or filing fee
+COST-400088,WO-35000055,2025-10-21,Mileage/Travel,86.05,Synthetic mileage and travel expense
+COST-400089,WO-35000055,2025-10-21,Permit Fee,142.22,Synthetic permit or filing fee
+COST-400090,WO-35000056,2025-05-13,Mileage/Travel,32.73,Synthetic mileage and travel expense
+COST-400091,WO-35000056,2025-05-13,Permit Fee,103.81,Synthetic permit or filing fee
+COST-400092,WO-35000057,2026-02-13,Mileage/Travel,6.38,Synthetic mileage and travel expense
+COST-400093,WO-35000057,2026-02-13,Permit Fee,254.24,Synthetic permit or filing fee
+COST-400094,WO-35000057,2026-02-13,Subcontractor,751.63,Synthetic subcontractor expense
+COST-400095,WO-35000058,2026-03-08,Mileage/Travel,72.92,Synthetic mileage and travel expense
+COST-400096,WO-35000059,2025-08-26,Mileage/Travel,52.72,Synthetic mileage and travel expense
+COST-400097,WO-35000060,2026-05-23,Mileage/Travel,66.71,Synthetic mileage and travel expense
+COST-400098,WO-35000060,2026-05-23,Permit Fee,130.94,Synthetic permit or filing fee
+COST-400099,WO-35000061,2025-05-10,Mileage/Travel,106.88,Synthetic mileage and travel expense
+COST-400100,WO-35000061,2025-05-10,Permit Fee,219.72,Synthetic permit or filing fee
+COST-400101,WO-35000062,2025-02-03,Mileage/Travel,18.13,Synthetic mileage and travel expense
+COST-400102,WO-35000063,2025-06-28,Mileage/Travel,48.89,Synthetic mileage and travel expense
+COST-400103,WO-35000063,2025-06-28,Permit Fee,148.79,Synthetic permit or filing fee
+COST-400104,WO-35000064,2025-11-12,Mileage/Travel,11.34,Synthetic mileage and travel expense
+COST-400105,WO-35000064,2025-11-12,Permit Fee,200.39,Synthetic permit or filing fee
+COST-400106,WO-35000065,2025-04-09,Mileage/Travel,39.32,Synthetic mileage and travel expense
+COST-400107,WO-35000065,2025-04-09,Permit Fee,213.14,Synthetic permit or filing fee
+COST-400108,WO-35000066,2025-04-12,Mileage/Travel,35.84,Synthetic mileage and travel expense
+COST-400109,WO-35000067,2025-03-24,Mileage/Travel,53.21,Synthetic mileage and travel expense
+COST-400110,WO-35000067,2025-03-24,Permit Fee,54.44,Synthetic permit or filing fee
+COST-400111,WO-35000068,2026-06-02,Mileage/Travel,44.28,Synthetic mileage and travel expense
+COST-400112,WO-35000069,2025-03-14,Mileage/Travel,10.56,Synthetic mileage and travel expense
+COST-400113,WO-35000070,2026-03-29,Mileage/Travel,17.38,Synthetic mileage and travel expense
+COST-400114,WO-35000071,2026-06-12,Mileage/Travel,13.53,Synthetic mileage and travel expense
+COST-400115,WO-35000071,2026-06-12,Permit Fee,201.15,Synthetic permit or filing fee
+COST-400116,WO-35000072,2025-02-15,Mileage/Travel,9.57,Synthetic mileage and travel expense
+COST-400117,WO-35000072,2025-02-15,Subcontractor,650.11,Synthetic subcontractor expense
+COST-400118,WO-35000073,2026-01-02,Mileage/Travel,7.41,Synthetic mileage and travel expense
+COST-400119,WO-35000074,2025-08-28,Mileage/Travel,14.5,Synthetic mileage and travel expense
+COST-400120,WO-35000074,2025-08-28,Permit Fee,156.74,Synthetic permit or filing fee
+COST-400121,WO-35000075,2025-06-01,Mileage/Travel,79.75,Synthetic mileage and travel expense
+COST-400122,WO-35000076,2025-02-06,Mileage/Travel,24.63,Synthetic mileage and travel expense
+COST-400123,WO-35000076,2025-02-06,Permit Fee,82.06,Synthetic permit or filing fee
+COST-400124,WO-35000077,2025-05-27,Mileage/Travel,36.98,Synthetic mileage and travel expense
+COST-400125,WO-35000077,2025-05-27,Permit Fee,53.84,Synthetic permit or filing fee
+COST-400126,WO-35000078,2025-04-28,Mileage/Travel,29.63,Synthetic mileage and travel expense
+COST-400127,WO-35000079,2025-07-13,Mileage/Travel,82.72,Synthetic mileage and travel expense
+COST-400128,WO-35000080,2025-08-26,Mileage/Travel,123.41,Synthetic mileage and travel expense
+COST-400129,WO-35000080,2025-08-26,Permit Fee,257.92,Synthetic permit or filing fee
+COST-400130,WO-35000081,2025-02-16,Mileage/Travel,35.35,Synthetic mileage and travel expense
+COST-400131,WO-35000081,2025-02-16,Permit Fee,220.74,Synthetic permit or filing fee
+COST-400132,WO-35000082,2025-04-26,Mileage/Travel,14.93,Synthetic mileage and travel expense
+COST-400133,WO-35000082,2025-04-26,Permit Fee,179.73,Synthetic permit or filing fee
+COST-400134,WO-35000083,2026-05-12,Mileage/Travel,102.72,Synthetic mileage and travel expense
+COST-400135,WO-35000084,2025-02-05,Mileage/Travel,34.37,Synthetic mileage and travel expense
+COST-400136,WO-35000085,2025-12-22,Mileage/Travel,7.76,Synthetic mileage and travel expense
+COST-400137,WO-35000086,2025-06-20,Mileage/Travel,107.97,Synthetic mileage and travel expense
+COST-400138,WO-35000086,2025-06-20,Permit Fee,154.02,Synthetic permit or filing fee
+COST-400139,WO-35000087,2025-06-02,Mileage/Travel,22.38,Synthetic mileage and travel expense
+COST-400140,WO-35000087,2025-06-02,Permit Fee,144.89,Synthetic permit or filing fee
+COST-400141,WO-35000088,2026-02-28,Mileage/Travel,18.19,Synthetic mileage and travel expense
+COST-400142,WO-35000088,2026-02-28,Permit Fee,119.86,Synthetic permit or filing fee
+COST-400143,WO-35000088,2026-02-28,Subcontractor,379.7,Synthetic subcontractor expense
+COST-400144,WO-35000089,2025-10-13,Mileage/Travel,55.16,Synthetic mileage and travel expense
+COST-400145,WO-35000090,2026-06-08,Mileage/Travel,58.46,Synthetic mileage and travel expense
+COST-400146,WO-35000091,2025-05-08,Mileage/Travel,6.85,Synthetic mileage and travel expense
+COST-400147,WO-35000091,2025-05-08,Permit Fee,166.88,Synthetic permit or filing fee
+COST-400148,WO-35000092,2026-01-10,Mileage/Travel,98.27,Synthetic mileage and travel expense
+COST-400149,WO-35000093,2026-01-13,Mileage/Travel,19.14,Synthetic mileage and travel expense
+COST-400150,WO-35000094,2025-06-24,Mileage/Travel,15.51,Synthetic mileage and travel expense
+COST-400151,WO-35000094,2025-06-24,Permit Fee,89.38,Synthetic permit or filing fee
+COST-400152,WO-35000095,2025-05-03,Mileage/Travel,123.68,Synthetic mileage and travel expense
+COST-400153,WO-35000095,2025-05-03,Permit Fee,193.79,Synthetic permit or filing fee
+COST-400154,WO-35000096,2025-12-07,Mileage/Travel,170.98,Synthetic mileage and travel expense
+COST-400155,WO-35000097,2025-04-11,Mileage/Travel,88.04,Synthetic mileage and travel expense
+COST-400156,WO-35000097,2025-04-11,Permit Fee,38.69,Synthetic permit or filing fee
+COST-400157,WO-35000098,2025-10-16,Mileage/Travel,9.1,Synthetic mileage and travel expense
+COST-400158,WO-35000099,2025-09-03,Mileage/Travel,21.93,Synthetic mileage and travel expense
+COST-400159,WO-35000099,2025-09-03,Permit Fee,71.54,Synthetic permit or filing fee
+COST-400160,WO-35000100,2025-02-24,Mileage/Travel,59.73,Synthetic mileage and travel expense
+COST-400161,WO-35000100,2025-02-24,Permit Fee,43.91,Synthetic permit or filing fee
+COST-400162,WO-35000101,2025-04-21,Mileage/Travel,48.29,Synthetic mileage and travel expense
+COST-400163,WO-35000102,2025-03-27,Mileage/Travel,56.42,Synthetic mileage and travel expense
+COST-400164,WO-35000103,2026-01-01,Mileage/Travel,24.83,Synthetic mileage and travel expense
+COST-400165,WO-35000103,2026-01-01,Permit Fee,265.41,Synthetic permit or filing fee
+COST-400166,WO-35000104,2026-06-03,Mileage/Travel,55.94,Synthetic mileage and travel expense
+COST-400167,WO-35000104,2026-06-03,Permit Fee,136.04,Synthetic permit or filing fee
+COST-400168,WO-35000105,2026-05-18,Mileage/Travel,17.7,Synthetic mileage and travel expense
+COST-400169,WO-35000105,2026-05-18,Permit Fee,246.36,Synthetic permit or filing fee
+COST-400170,WO-35000106,2025-10-28,Mileage/Travel,6.38,Synthetic mileage and travel expense
+COST-400171,WO-35000106,2025-10-28,Permit Fee,230.25,Synthetic permit or filing fee
+COST-400172,WO-35000107,2025-04-26,Mileage/Travel,6.83,Synthetic mileage and travel expense
+COST-400173,WO-35000107,2025-04-26,Permit Fee,184.32,Synthetic permit or filing fee
+COST-400174,WO-35000108,2026-04-14,Mileage/Travel,22.47,Synthetic mileage and travel expense
+COST-400175,WO-35000108,2026-04-14,Permit Fee,257.79,Synthetic permit or filing fee
+COST-400176,WO-35000109,2026-03-25,Mileage/Travel,4.06,Synthetic mileage and travel expense
+COST-400177,WO-35000110,2025-12-22,Mileage/Travel,46.16,Synthetic mileage and travel expense
+COST-400178,WO-35000110,2025-12-22,Permit Fee,231.13,Synthetic permit or filing fee
+COST-400179,WO-35000111,2025-02-13,Mileage/Travel,48.06,Synthetic mileage and travel expense
+COST-400180,WO-35000111,2025-02-13,Permit Fee,250.74,Synthetic permit or filing fee
+COST-400181,WO-35000112,2026-01-19,Mileage/Travel,46.62,Synthetic mileage and travel expense
+COST-400182,WO-35000112,2026-01-19,Permit Fee,149.45,Synthetic permit or filing fee
+COST-400183,WO-35000113,2026-03-04,Mileage/Travel,59.78,Synthetic mileage and travel expense
+COST-400184,WO-35000114,2025-07-24,Mileage/Travel,130.35,Synthetic mileage and travel expense
+COST-400185,WO-35000115,2025-09-21,Mileage/Travel,26.14,Synthetic mileage and travel expense
+COST-400186,WO-35000116,2025-05-07,Mileage/Travel,13.97,Synthetic mileage and travel expense
+COST-400187,WO-35000116,2025-05-07,Permit Fee,168.64,Synthetic permit or filing fee
+COST-400188,WO-35000117,2025-09-12,Mileage/Travel,11.84,Synthetic mileage and travel expense
+COST-400189,WO-35000118,2026-02-01,Mileage/Travel,16.56,Synthetic mileage and travel expense
+COST-400190,WO-35000119,2026-02-11,Mileage/Travel,194.79,Synthetic mileage and travel expense
+COST-400191,WO-35000120,2025-09-11,Mileage/Travel,41.45,Synthetic mileage and travel expense
+COST-400192,WO-35000120,2025-09-11,Permit Fee,101.53,Synthetic permit or filing fee
+COST-400193,WO-35000121,2025-03-12,Mileage/Travel,37.39,Synthetic mileage and travel expense
+COST-400194,WO-35000121,2025-03-12,Permit Fee,145.98,Synthetic permit or filing fee
+COST-400195,WO-35000122,2025-11-14,Mileage/Travel,11.3,Synthetic mileage and travel expense
+COST-400196,WO-35000122,2025-11-14,Permit Fee,167.61,Synthetic permit or filing fee
+COST-400197,WO-35000122,2025-11-14,Subcontractor,743.54,Synthetic subcontractor expense
+COST-400198,WO-35000123,2026-03-16,Mileage/Travel,55.18,Synthetic mileage and travel expense
+COST-400199,WO-35000124,2025-02-27,Mileage/Travel,33.59,Synthetic mileage and travel expense
+COST-400200,WO-35000124,2025-02-27,Permit Fee,202.22,Synthetic permit or filing fee
+COST-400201,WO-35000125,2026-02-16,Mileage/Travel,52.11,Synthetic mileage and travel expense
+COST-400202,WO-35000126,2025-08-31,Mileage/Travel,44.14,Synthetic mileage and travel expense
+COST-400203,WO-35000126,2025-08-31,Permit Fee,180.93,Synthetic permit or filing fee
+COST-400204,WO-35000127,2025-08-28,Mileage/Travel,89.18,Synthetic mileage and travel expense
+COST-400205,WO-35000128,2025-06-26,Mileage/Travel,13.28,Synthetic mileage and travel expense
+COST-400206,WO-35000129,2025-04-08,Mileage/Travel,33.45,Synthetic mileage and travel expense
+COST-400207,WO-35000130,2025-12-27,Mileage/Travel,16.75,Synthetic mileage and travel expense
+COST-400208,WO-35000130,2025-12-27,Permit Fee,122.91,Synthetic permit or filing fee
+COST-400209,WO-35000131,2025-10-28,Mileage/Travel,13.22,Synthetic mileage and travel expense
+COST-400210,WO-35000132,2025-11-24,Mileage/Travel,26.18,Synthetic mileage and travel expense
+COST-400211,WO-35000132,2025-11-24,Permit Fee,239.6,Synthetic permit or filing fee
+COST-400212,WO-35000133,2025-03-12,Mileage/Travel,49.98,Synthetic mileage and travel expense
+COST-400213,WO-35000134,2025-04-17,Mileage/Travel,32.31,Synthetic mileage and travel expense
+COST-400214,WO-35000134,2025-04-17,Permit Fee,38.03,Synthetic permit or filing fee
+COST-400215,WO-35000135,2025-07-14,Mileage/Travel,51.89,Synthetic mileage and travel expense
+COST-400216,WO-35000135,2025-07-14,Permit Fee,239.9,Synthetic permit or filing fee
+COST-400217,WO-35000136,2025-06-20,Mileage/Travel,4.33,Synthetic mileage and travel expense
+COST-400218,WO-35000137,2025-09-16,Mileage/Travel,24.07,Synthetic mileage and travel expense
+COST-400219,WO-35000138,2025-06-30,Mileage/Travel,38.73,Synthetic mileage and travel expense
+COST-400220,WO-35000138,2025-06-30,Permit Fee,33.49,Synthetic permit or filing fee
+COST-400221,WO-35000139,2026-05-03,Mileage/Travel,24.44,Synthetic mileage and travel expense
+COST-400222,WO-35000140,2026-01-06,Mileage/Travel,32.54,Synthetic mileage and travel expense
+COST-400223,WO-35000141,2025-06-22,Mileage/Travel,20.74,Synthetic mileage and travel expense
+COST-400224,WO-35000141,2025-06-22,Permit Fee,84.29,Synthetic permit or filing fee
+COST-400225,WO-35000141,2025-06-22,Subcontractor,199.85,Synthetic subcontractor expense
+COST-400226,WO-35000142,2025-03-05,Mileage/Travel,21.74,Synthetic mileage and travel expense
+COST-400227,WO-35000143,2026-06-09,Mileage/Travel,35.32,Synthetic mileage and travel expense
+COST-400228,WO-35000143,2026-06-09,Permit Fee,70.34,Synthetic permit or filing fee
+COST-400229,WO-35000144,2025-04-19,Mileage/Travel,21.72,Synthetic mileage and travel expense
+COST-400230,WO-35000145,2026-03-06,Mileage/Travel,48.89,Synthetic mileage and travel expense
+COST-400231,WO-35000145,2026-03-06,Permit Fee,26.74,Synthetic permit or filing fee
+COST-400232,WO-35000146,2026-06-12,Mileage/Travel,38.93,Synthetic mileage and travel expense
+COST-400233,WO-35000146,2026-06-12,Permit Fee,235.93,Synthetic permit or filing fee
+COST-400234,WO-35000147,2025-07-06,Mileage/Travel,14.37,Synthetic mileage and travel expense
+COST-400235,WO-35000147,2025-07-06,Subcontractor,794.25,Synthetic subcontractor expense
+COST-400236,WO-35000148,2025-02-23,Mileage/Travel,15.24,Synthetic mileage and travel expense
+COST-400237,WO-35000149,2025-01-22,Mileage/Travel,85.96,Synthetic mileage and travel expense
+COST-400238,WO-35000149,2025-01-22,Permit Fee,144.31,Synthetic permit or filing fee
+COST-400239,WO-35000150,2025-09-21,Mileage/Travel,45.14,Synthetic mileage and travel expense
+COST-400240,WO-35000150,2025-09-21,Permit Fee,77.56,Synthetic permit or filing fee
+COST-400241,WO-35000151,2025-08-11,Mileage/Travel,17.03,Synthetic mileage and travel expense
+COST-400242,WO-35000151,2025-08-11,Permit Fee,236.95,Synthetic permit or filing fee
+COST-400243,WO-35000152,2025-05-05,Mileage/Travel,26.51,Synthetic mileage and travel expense
+COST-400244,WO-35000153,2025-04-22,Mileage/Travel,36.56,Synthetic mileage and travel expense
+COST-400245,WO-35000154,2025-12-14,Mileage/Travel,27.03,Synthetic mileage and travel expense
+COST-400246,WO-35000154,2025-12-14,Permit Fee,38.64,Synthetic permit or filing fee
+COST-400247,WO-35000155,2026-05-02,Mileage/Travel,176.78,Synthetic mileage and travel expense
+COST-400248,WO-35000155,2026-05-02,Permit Fee,134.02,Synthetic permit or filing fee
+COST-400249,WO-35000156,2025-08-20,Mileage/Travel,111.9,Synthetic mileage and travel expense
+COST-400250,WO-35000156,2025-08-20,Permit Fee,247.38,Synthetic permit or filing fee
+COST-400251,WO-35000157,2026-04-04,Mileage/Travel,24.21,Synthetic mileage and travel expense
+COST-400252,WO-35000157,2026-04-04,Permit Fee,179.68,Synthetic permit or filing fee
+COST-400253,WO-35000158,2026-03-16,Mileage/Travel,11.12,Synthetic mileage and travel expense
+COST-400254,WO-35000158,2026-03-16,Permit Fee,208.15,Synthetic permit or filing fee
+COST-400255,WO-35000159,2026-04-19,Mileage/Travel,23.13,Synthetic mileage and travel expense
+COST-400256,WO-35000160,2025-07-01,Mileage/Travel,24.56,Synthetic mileage and travel expense
+COST-400257,WO-35000161,2025-06-11,Mileage/Travel,24.18,Synthetic mileage and travel expense
+COST-400258,WO-35000161,2025-06-11,Permit Fee,62.27,Synthetic permit or filing fee
+COST-400259,WO-35000162,2026-04-23,Mileage/Travel,65.99,Synthetic mileage and travel expense
+COST-400260,WO-35000162,2026-04-23,Permit Fee,117.41,Synthetic permit or filing fee
+COST-400261,WO-35000163,2025-10-13,Mileage/Travel,54.04,Synthetic mileage and travel expense
+COST-400262,WO-35000164,2026-02-18,Mileage/Travel,73.66,Synthetic mileage and travel expense
+COST-400263,WO-35000164,2026-02-18,Permit Fee,193.79,Synthetic permit or filing fee
+COST-400264,WO-35000165,2026-01-10,Mileage/Travel,15.9,Synthetic mileage and travel expense
+COST-400265,WO-35000166,2026-03-23,Mileage/Travel,32.27,Synthetic mileage and travel expense
+COST-400266,WO-35000166,2026-03-23,Permit Fee,97.9,Synthetic permit or filing fee
+COST-400267,WO-35000166,2026-03-23,Subcontractor,766.92,Synthetic subcontractor expense
+COST-400268,WO-35000167,2026-03-13,Mileage/Travel,45.04,Synthetic mileage and travel expense
+COST-400269,WO-35000167,2026-03-13,Permit Fee,108.67,Synthetic permit or filing fee
+COST-400270,WO-35000168,2025-11-01,Mileage/Travel,72.96,Synthetic mileage and travel expense
+COST-400271,WO-35000169,2025-08-02,Mileage/Travel,43.81,Synthetic mileage and travel expense
+COST-400272,WO-35000169,2025-08-02,Permit Fee,174.77,Synthetic permit or filing fee
+COST-400273,WO-35000169,2025-08-02,Subcontractor,716.35,Synthetic subcontractor expense
+COST-400274,WO-35000170,2025-03-28,Mileage/Travel,25.14,Synthetic mileage and travel expense
+COST-400275,WO-35000171,2025-09-16,Mileage/Travel,22.23,Synthetic mileage and travel expense
+COST-400276,WO-35000171,2025-09-16,Permit Fee,77.27,Synthetic permit or filing fee
+COST-400277,WO-35000172,2026-03-13,Mileage/Travel,7.55,Synthetic mileage and travel expense
+COST-400278,WO-35000173,2025-09-22,Mileage/Travel,7.18,Synthetic mileage and travel expense
+COST-400279,WO-35000173,2025-09-22,Permit Fee,58.16,Synthetic permit or filing fee
+COST-400280,WO-35000174,2025-04-26,Mileage/Travel,24.24,Synthetic mileage and travel expense
+COST-400281,WO-35000174,2025-04-26,Permit Fee,64.17,Synthetic permit or filing fee
+COST-400282,WO-35000175,2025-04-14,Mileage/Travel,74.48,Synthetic mileage and travel expense
+COST-400283,WO-35000175,2025-04-14,Permit Fee,253.76,Synthetic permit or filing fee
+COST-400284,WO-35000176,2026-03-24,Mileage/Travel,58.05,Synthetic mileage and travel expense
+COST-400285,WO-35000177,2025-11-08,Mileage/Travel,94.54,Synthetic mileage and travel expense
+COST-400286,WO-35000177,2025-11-08,Permit Fee,154.27,Synthetic permit or filing fee
+COST-400287,WO-35000178,2025-12-15,Mileage/Travel,49.93,Synthetic mileage and travel expense
+COST-400288,WO-35000179,2025-08-31,Mileage/Travel,29.77,Synthetic mileage and travel expense
+COST-400289,WO-35000180,2025-06-27,Mileage/Travel,18.29,Synthetic mileage and travel expense
+COST-400290,WO-35000180,2025-06-27,Permit Fee,155.48,Synthetic permit or filing fee
+COST-400291,WO-35000181,2025-12-15,Mileage/Travel,84.78,Synthetic mileage and travel expense
+COST-400292,WO-35000181,2025-12-15,Permit Fee,78.48,Synthetic permit or filing fee
+COST-400293,WO-35000181,2025-12-15,Subcontractor,483.78,Synthetic subcontractor expense
+COST-400294,WO-35000182,2025-03-02,Mileage/Travel,39.22,Synthetic mileage and travel expense
+COST-400295,WO-35000182,2025-03-02,Permit Fee,223.2,Synthetic permit or filing fee
+COST-400296,WO-35000183,2026-03-31,Mileage/Travel,103.93,Synthetic mileage and travel expense
+COST-400297,WO-35000184,2026-01-09,Mileage/Travel,38.32,Synthetic mileage and travel expense
+COST-400298,WO-35000185,2025-06-08,Mileage/Travel,22.89,Synthetic mileage and travel expense
+COST-400299,WO-35000185,2025-06-08,Permit Fee,142.42,Synthetic permit or filing fee
+COST-400300,WO-35000186,2026-01-31,Mileage/Travel,38.52,Synthetic mileage and travel expense
+COST-400301,WO-35000186,2026-01-31,Permit Fee,95.56,Synthetic permit or filing fee
+COST-400302,WO-35000187,2026-02-02,Mileage/Travel,52.42,Synthetic mileage and travel expense
+COST-400303,WO-35000187,2026-02-02,Permit Fee,214.36,Synthetic permit or filing fee
+COST-400304,WO-35000188,2025-10-24,Mileage/Travel,66.27,Synthetic mileage and travel expense
+COST-400305,WO-35000189,2025-10-21,Mileage/Travel,68.44,Synthetic mileage and travel expense
+COST-400306,WO-35000190,2025-08-02,Mileage/Travel,29.34,Synthetic mileage and travel expense
+COST-400307,WO-35000191,2026-04-02,Mileage/Travel,53.79,Synthetic mileage and travel expense
+COST-400308,WO-35000192,2025-11-05,Mileage/Travel,7.81,Synthetic mileage and travel expense
+COST-400309,WO-35000192,2025-11-05,Permit Fee,227.41,Synthetic permit or filing fee
+COST-400310,WO-35000193,2025-04-06,Mileage/Travel,57.81,Synthetic mileage and travel expense
+COST-400311,WO-35000193,2025-04-06,Permit Fee,209.25,Synthetic permit or filing fee
+COST-400312,WO-35000194,2025-11-21,Mileage/Travel,94.28,Synthetic mileage and travel expense
+COST-400313,WO-35000194,2025-11-21,Permit Fee,227.88,Synthetic permit or filing fee
+COST-400314,WO-35000195,2025-09-29,Mileage/Travel,3.51,Synthetic mileage and travel expense
+COST-400315,WO-35000195,2025-09-29,Permit Fee,114.72,Synthetic permit or filing fee
+COST-400316,WO-35000196,2025-09-20,Mileage/Travel,55.73,Synthetic mileage and travel expense
+COST-400317,WO-35000197,2026-05-27,Mileage/Travel,47.12,Synthetic mileage and travel expense
+COST-400318,WO-35000198,2025-02-01,Mileage/Travel,9.49,Synthetic mileage and travel expense
+COST-400319,WO-35000199,2025-11-28,Mileage/Travel,57.73,Synthetic mileage and travel expense
+COST-400320,WO-35000199,2025-11-28,Permit Fee,182.39,Synthetic permit or filing fee
+COST-400321,WO-35000200,2025-02-14,Mileage/Travel,16.46,Synthetic mileage and travel expense
+COST-400322,WO-35000200,2025-02-14,Permit Fee,253.89,Synthetic permit or filing fee
+COST-400323,WO-35000201,2025-08-28,Mileage/Travel,24.53,Synthetic mileage and travel expense
+COST-400324,WO-35000201,2025-08-28,Permit Fee,193.55,Synthetic permit or filing fee
+COST-400325,WO-35000202,2025-05-06,Mileage/Travel,22.75,Synthetic mileage and travel expense
+COST-400326,WO-35000203,2026-02-04,Mileage/Travel,14.38,Synthetic mileage and travel expense
+COST-400327,WO-35000203,2026-02-04,Permit Fee,123.99,Synthetic permit or filing fee
+COST-400328,WO-35000203,2026-02-04,Subcontractor,600.58,Synthetic subcontractor expense
+COST-400329,WO-35000204,2025-03-07,Mileage/Travel,74.15,Synthetic mileage and travel expense
+COST-400330,WO-35000204,2025-03-07,Permit Fee,91.28,Synthetic permit or filing fee
+COST-400331,WO-35000205,2025-04-01,Mileage/Travel,73.48,Synthetic mileage and travel expense
+COST-400332,WO-35000206,2025-09-18,Mileage/Travel,45.55,Synthetic mileage and travel expense
+COST-400333,WO-35000206,2025-09-18,Permit Fee,72.52,Synthetic permit or filing fee
+COST-400334,WO-35000207,2025-04-20,Mileage/Travel,8.38,Synthetic mileage and travel expense
+COST-400335,WO-35000208,2026-04-21,Mileage/Travel,143.37,Synthetic mileage and travel expense
+COST-400336,WO-35000209,2025-06-01,Mileage/Travel,16.59,Synthetic mileage and travel expense
+COST-400337,WO-35000210,2025-02-12,Mileage/Travel,35.89,Synthetic mileage and travel expense
+COST-400338,WO-35000210,2025-02-12,Permit Fee,259.23,Synthetic permit or filing fee
+COST-400339,WO-35000211,2025-10-27,Mileage/Travel,84.79,Synthetic mileage and travel expense
+COST-400340,WO-35000211,2025-10-27,Permit Fee,39.23,Synthetic permit or filing fee
+COST-400341,WO-35000212,2025-12-07,Mileage/Travel,22.6,Synthetic mileage and travel expense
+COST-400342,WO-35000212,2025-12-07,Permit Fee,227.56,Synthetic permit or filing fee
+COST-400343,WO-35000213,2026-05-08,Mileage/Travel,89.46,Synthetic mileage and travel expense
+COST-400344,WO-35000214,2025-07-02,Mileage/Travel,28.88,Synthetic mileage and travel expense
+COST-400345,WO-35000214,2025-07-02,Permit Fee,66.61,Synthetic permit or filing fee
+COST-400346,WO-35000215,2025-06-01,Mileage/Travel,171.81,Synthetic mileage and travel expense
+COST-400347,WO-35000216,2025-03-16,Mileage/Travel,11.46,Synthetic mileage and travel expense
+COST-400348,WO-35000216,2025-03-16,Permit Fee,138.87,Synthetic permit or filing fee
+COST-400349,WO-35000216,2025-03-16,Subcontractor,822.03,Synthetic subcontractor expense
+COST-400350,WO-35000217,2026-06-13,Mileage/Travel,30.72,Synthetic mileage and travel expense
+COST-400351,WO-35000217,2026-06-13,Permit Fee,47.9,Synthetic permit or filing fee
+COST-400352,WO-35000218,2025-08-19,Mileage/Travel,21.49,Synthetic mileage and travel expense
+COST-400353,WO-35000219,2025-06-10,Mileage/Travel,31.67,Synthetic mileage and travel expense
+COST-400354,WO-35000220,2025-08-21,Mileage/Travel,10.44,Synthetic mileage and travel expense
+COST-400355,WO-35000221,2025-04-24,Mileage/Travel,31.57,Synthetic mileage and travel expense
+COST-400356,WO-35000221,2025-04-24,Permit Fee,103.06,Synthetic permit or filing fee
+COST-400357,WO-35000222,2026-06-16,Mileage/Travel,49.36,Synthetic mileage and travel expense
+COST-400358,WO-35000222,2026-06-16,Subcontractor,331.08,Synthetic subcontractor expense
+COST-400359,WO-35000223,2025-06-28,Mileage/Travel,38.41,Synthetic mileage and travel expense
+COST-400360,WO-35000224,2025-09-04,Mileage/Travel,14.82,Synthetic mileage and travel expense
+COST-400361,WO-35000225,2025-08-16,Mileage/Travel,38.92,Synthetic mileage and travel expense
+COST-400362,WO-35000226,2025-05-19,Mileage/Travel,84.0,Synthetic mileage and travel expense
+COST-400363,WO-35000227,2026-05-04,Mileage/Travel,45.03,Synthetic mileage and travel expense
+COST-400364,WO-35000227,2026-05-04,Permit Fee,201.28,Synthetic permit or filing fee
+COST-400365,WO-35000228,2025-11-20,Mileage/Travel,21.71,Synthetic mileage and travel expense
+COST-400366,WO-35000229,2025-11-10,Mileage/Travel,15.01,Synthetic mileage and travel expense
+COST-400367,WO-35000229,2025-11-10,Permit Fee,256.78,Synthetic permit or filing fee
+COST-400368,WO-35000230,2026-05-09,Mileage/Travel,26.65,Synthetic mileage and travel expense
+COST-400369,WO-35000230,2026-05-09,Permit Fee,266.41,Synthetic permit or filing fee
+COST-400370,WO-35000231,2026-03-03,Mileage/Travel,78.02,Synthetic mileage and travel expense
+COST-400371,WO-35000232,2025-06-22,Mileage/Travel,10.59,Synthetic mileage and travel expense
+COST-400372,WO-35000232,2025-06-22,Subcontractor,340.22,Synthetic subcontractor expense
+COST-400373,WO-35000233,2026-05-09,Mileage/Travel,40.58,Synthetic mileage and travel expense
+COST-400374,WO-35000233,2026-05-09,Permit Fee,266.66,Synthetic permit or filing fee
+COST-400375,WO-35000234,2026-01-08,Mileage/Travel,16.62,Synthetic mileage and travel expense
+COST-400376,WO-35000234,2026-01-08,Permit Fee,186.25,Synthetic permit or filing fee
+COST-400377,WO-35000235,2026-03-11,Mileage/Travel,18.18,Synthetic mileage and travel expense
+COST-400378,WO-35000236,2026-05-12,Mileage/Travel,80.11,Synthetic mileage and travel expense
+COST-400379,WO-35000236,2026-05-12,Permit Fee,54.41,Synthetic permit or filing fee
+COST-400380,WO-35000237,2026-01-22,Mileage/Travel,88.35,Synthetic mileage and travel expense
+COST-400381,WO-35000237,2026-01-22,Permit Fee,197.6,Synthetic permit or filing fee
+COST-400382,WO-35000238,2025-09-22,Mileage/Travel,33.83,Synthetic mileage and travel expense
+COST-400383,WO-35000239,2025-11-23,Mileage/Travel,6.23,Synthetic mileage and travel expense
+COST-400384,WO-35000239,2025-11-23,Permit Fee,223.24,Synthetic permit or filing fee
+COST-400385,WO-35000240,2025-04-03,Mileage/Travel,15.81,Synthetic mileage and travel expense
+COST-400386,WO-35000241,2025-12-12,Mileage/Travel,10.77,Synthetic mileage and travel expense
+COST-400387,WO-35000241,2025-12-12,Permit Fee,233.8,Synthetic permit or filing fee
+COST-400388,WO-35000242,2025-10-06,Mileage/Travel,22.04,Synthetic mileage and travel expense
+COST-400389,WO-35000243,2025-12-01,Mileage/Travel,32.53,Synthetic mileage and travel expense
+COST-400390,WO-35000243,2025-12-01,Permit Fee,237.79,Synthetic permit or filing fee
+COST-400391,WO-35000244,2026-03-02,Mileage/Travel,6.22,Synthetic mileage and travel expense
+COST-400392,WO-35000244,2026-03-02,Permit Fee,34.1,Synthetic permit or filing fee
+COST-400393,WO-35000245,2025-02-22,Mileage/Travel,30.68,Synthetic mileage and travel expense
+COST-400394,WO-35000245,2025-02-22,Permit Fee,249.58,Synthetic permit or filing fee
+COST-400395,WO-35000246,2025-04-19,Mileage/Travel,38.6,Synthetic mileage and travel expense
+COST-400396,WO-35000246,2025-04-19,Permit Fee,113.34,Synthetic permit or filing fee
+COST-400397,WO-35000247,2025-08-17,Mileage/Travel,7.56,Synthetic mileage and travel expense
+COST-400398,WO-35000248,2025-03-21,Mileage/Travel,36.94,Synthetic mileage and travel expense
+COST-400399,WO-35000248,2025-03-21,Permit Fee,40.42,Synthetic permit or filing fee
+COST-400400,WO-35000249,2025-11-16,Mileage/Travel,32.76,Synthetic mileage and travel expense
+COST-400401,WO-35000249,2025-11-16,Permit Fee,161.87,Synthetic permit or filing fee
+COST-400402,WO-35000250,2026-02-19,Mileage/Travel,5.35,Synthetic mileage and travel expense
+COST-400403,WO-35000251,2025-10-08,Mileage/Travel,42.75,Synthetic mileage and travel expense
+COST-400404,WO-35000251,2025-10-08,Permit Fee,143.43,Synthetic permit or filing fee
+COST-400405,WO-35000252,2026-01-27,Mileage/Travel,108.51,Synthetic mileage and travel expense
+COST-400406,WO-35000253,2025-12-08,Mileage/Travel,29.79,Synthetic mileage and travel expense
+COST-400407,WO-35000253,2025-12-08,Permit Fee,214.55,Synthetic permit or filing fee
+COST-400408,WO-35000254,2025-07-10,Mileage/Travel,65.68,Synthetic mileage and travel expense
+COST-400409,WO-35000254,2025-07-10,Permit Fee,110.35,Synthetic permit or filing fee
+COST-400410,WO-35000255,2025-12-28,Mileage/Travel,10.39,Synthetic mileage and travel expense
+COST-400411,WO-35000255,2025-12-28,Permit Fee,61.7,Synthetic permit or filing fee
+COST-400412,WO-35000256,2025-08-22,Mileage/Travel,10.34,Synthetic mileage and travel expense
+COST-400413,WO-35000256,2025-08-22,Permit Fee,187.26,Synthetic permit or filing fee
+COST-400414,WO-35000257,2026-04-09,Mileage/Travel,28.76,Synthetic mileage and travel expense
+COST-400415,WO-35000258,2025-05-26,Mileage/Travel,121.84,Synthetic mileage and travel expense
+COST-400416,WO-35000259,2025-10-02,Mileage/Travel,8.36,Synthetic mileage and travel expense
+COST-400417,WO-35000259,2025-10-02,Permit Fee,276.23,Synthetic permit or filing fee
+COST-400418,WO-35000260,2025-04-05,Mileage/Travel,68.7,Synthetic mileage and travel expense
+COST-400419,WO-35000261,2025-12-02,Mileage/Travel,14.23,Synthetic mileage and travel expense
+COST-400420,WO-35000261,2025-12-02,Permit Fee,30.68,Synthetic permit or filing fee
+COST-400421,WO-35000262,2025-09-23,Mileage/Travel,27.44,Synthetic mileage and travel expense
+COST-400422,WO-35000263,2025-12-03,Mileage/Travel,60.56,Synthetic mileage and travel expense
+COST-400423,WO-35000263,2025-12-03,Permit Fee,133.74,Synthetic permit or filing fee
+COST-400424,WO-35000264,2025-07-28,Mileage/Travel,11.52,Synthetic mileage and travel expense
+COST-400425,WO-35000264,2025-07-28,Permit Fee,194.7,Synthetic permit or filing fee
+COST-400426,WO-35000265,2026-05-02,Mileage/Travel,131.41,Synthetic mileage and travel expense
+COST-400427,WO-35000265,2026-05-02,Permit Fee,46.35,Synthetic permit or filing fee
+COST-400428,WO-35000266,2026-02-27,Mileage/Travel,28.77,Synthetic mileage and travel expense
+COST-400429,WO-35000267,2025-05-09,Mileage/Travel,4.24,Synthetic mileage and travel expense
+COST-400430,WO-35000267,2025-05-09,Permit Fee,88.24,Synthetic permit or filing fee
+COST-400431,WO-35000268,2026-05-09,Mileage/Travel,38.27,Synthetic mileage and travel expense
+COST-400432,WO-35000268,2026-05-09,Permit Fee,109.16,Synthetic permit or filing fee
+COST-400433,WO-35000269,2025-02-16,Mileage/Travel,107.81,Synthetic mileage and travel expense
+COST-400434,WO-35000269,2025-02-16,Permit Fee,247.56,Synthetic permit or filing fee
+COST-400435,WO-35000270,2025-09-23,Mileage/Travel,27.31,Synthetic mileage and travel expense
+COST-400436,WO-35000271,2026-03-23,Mileage/Travel,90.39,Synthetic mileage and travel expense
+COST-400437,WO-35000272,2025-05-25,Mileage/Travel,22.53,Synthetic mileage and travel expense
+COST-400438,WO-35000272,2025-05-25,Permit Fee,233.84,Synthetic permit or filing fee
+COST-400439,WO-35000273,2026-02-13,Mileage/Travel,18.47,Synthetic mileage and travel expense
+COST-400440,WO-35000273,2026-02-13,Permit Fee,215.77,Synthetic permit or filing fee
+COST-400441,WO-35000274,2025-06-11,Mileage/Travel,59.47,Synthetic mileage and travel expense
+COST-400442,WO-35000274,2025-06-11,Permit Fee,252.32,Synthetic permit or filing fee
+COST-400443,WO-35000275,2026-03-29,Mileage/Travel,53.4,Synthetic mileage and travel expense
+COST-400444,WO-35000275,2026-03-29,Permit Fee,95.26,Synthetic permit or filing fee
+COST-400445,WO-35000276,2025-11-09,Mileage/Travel,73.93,Synthetic mileage and travel expense
+COST-400446,WO-35000277,2025-03-05,Mileage/Travel,43.89,Synthetic mileage and travel expense
+COST-400447,WO-35000277,2025-03-05,Permit Fee,43.94,Synthetic permit or filing fee
+COST-400448,WO-35000278,2026-03-22,Mileage/Travel,70.02,Synthetic mileage and travel expense
+COST-400449,WO-35000278,2026-03-22,Permit Fee,159.25,Synthetic permit or filing fee
+COST-400450,WO-35000279,2026-01-11,Mileage/Travel,16.06,Synthetic mileage and travel expense
+COST-400451,WO-35000280,2025-07-26,Mileage/Travel,19.79,Synthetic mileage and travel expense
+COST-400452,WO-35000280,2025-07-26,Permit Fee,178.95,Synthetic permit or filing fee
+COST-400453,WO-35000281,2025-08-16,Mileage/Travel,52.62,Synthetic mileage and travel expense
+COST-400454,WO-35000281,2025-08-16,Permit Fee,201.44,Synthetic permit or filing fee
+COST-400455,WO-35000281,2025-08-16,Subcontractor,594.43,Synthetic subcontractor expense
+COST-400456,WO-35000282,2025-07-07,Mileage/Travel,27.72,Synthetic mileage and travel expense
+COST-400457,WO-35000282,2025-07-07,Permit Fee,147.65,Synthetic permit or filing fee
+COST-400458,WO-35000283,2025-10-19,Mileage/Travel,5.52,Synthetic mileage and travel expense
+COST-400459,WO-35000283,2025-10-19,Subcontractor,339.16,Synthetic subcontractor expense
+COST-400460,WO-35000284,2025-06-09,Mileage/Travel,28.08,Synthetic mileage and travel expense
+COST-400461,WO-35000285,2025-01-30,Mileage/Travel,75.28,Synthetic mileage and travel expense
+COST-400462,WO-35000286,2025-05-29,Mileage/Travel,42.46,Synthetic mileage and travel expense
+COST-400463,WO-35000287,2025-10-06,Mileage/Travel,123.22,Synthetic mileage and travel expense
+COST-400464,WO-35000288,2026-01-06,Mileage/Travel,34.32,Synthetic mileage and travel expense
+COST-400465,WO-35000289,2025-03-07,Mileage/Travel,22.28,Synthetic mileage and travel expense
+COST-400466,WO-35000290,2026-03-08,Mileage/Travel,6.88,Synthetic mileage and travel expense
+COST-400467,WO-35000290,2026-03-08,Permit Fee,112.15,Synthetic permit or filing fee
+COST-400468,WO-35000291,2025-08-21,Mileage/Travel,45.72,Synthetic mileage and travel expense
+COST-400469,WO-35000291,2025-08-21,Permit Fee,161.27,Synthetic permit or filing fee
+COST-400470,WO-35000292,2025-12-02,Mileage/Travel,75.67,Synthetic mileage and travel expense
+COST-400471,WO-35000293,2025-06-03,Mileage/Travel,59.47,Synthetic mileage and travel expense
+COST-400472,WO-35000293,2025-06-03,Permit Fee,56.37,Synthetic permit or filing fee
+COST-400473,WO-35000294,2026-04-27,Mileage/Travel,47.48,Synthetic mileage and travel expense
+COST-400474,WO-35000295,2025-07-08,Mileage/Travel,23.23,Synthetic mileage and travel expense
+COST-400475,WO-35000295,2025-07-08,Permit Fee,122.18,Synthetic permit or filing fee
+COST-400476,WO-35000296,2025-12-15,Mileage/Travel,56.99,Synthetic mileage and travel expense
+COST-400477,WO-35000297,2025-08-15,Mileage/Travel,57.61,Synthetic mileage and travel expense
+COST-400478,WO-35000297,2025-08-15,Permit Fee,181.26,Synthetic permit or filing fee
+COST-400479,WO-35000298,2026-05-01,Mileage/Travel,46.83,Synthetic mileage and travel expense
+COST-400480,WO-35000298,2026-05-01,Permit Fee,200.55,Synthetic permit or filing fee
+COST-400481,WO-35000299,2025-07-31,Mileage/Travel,41.86,Synthetic mileage and travel expense
+COST-400482,WO-35000299,2025-07-31,Permit Fee,190.78,Synthetic permit or filing fee
+COST-400483,WO-35000300,2025-03-31,Mileage/Travel,34.5,Synthetic mileage and travel expense
+COST-400484,WO-35000300,2025-03-31,Permit Fee,200.81,Synthetic permit or filing fee
+COST-400485,WO-35000301,2026-06-05,Mileage/Travel,60.38,Synthetic mileage and travel expense
+COST-400486,WO-35000301,2026-06-05,Subcontractor,466.82,Synthetic subcontractor expense
+COST-400487,WO-35000302,2026-02-28,Mileage/Travel,5.8,Synthetic mileage and travel expense
+COST-400488,WO-35000303,2025-11-07,Mileage/Travel,31.96,Synthetic mileage and travel expense
+COST-400489,WO-35000303,2025-11-07,Permit Fee,149.93,Synthetic permit or filing fee
+COST-400490,WO-35000304,2026-03-18,Mileage/Travel,24.67,Synthetic mileage and travel expense
+COST-400491,WO-35000304,2026-03-18,Permit Fee,256.82,Synthetic permit or filing fee
+COST-400492,WO-35000305,2025-04-03,Mileage/Travel,66.72,Synthetic mileage and travel expense
+COST-400493,WO-35000305,2025-04-03,Permit Fee,106.3,Synthetic permit or filing fee
+COST-400494,WO-35000306,2026-05-02,Mileage/Travel,14.23,Synthetic mileage and travel expense
+COST-400495,WO-35000307,2025-07-21,Mileage/Travel,41.03,Synthetic mileage and travel expense
+COST-400496,WO-35000308,2025-07-24,Mileage/Travel,29.65,Synthetic mileage and travel expense
+COST-400497,WO-35000308,2025-07-24,Permit Fee,273.99,Synthetic permit or filing fee
+COST-400498,WO-35000309,2025-09-22,Mileage/Travel,124.95,Synthetic mileage and travel expense
+COST-400499,WO-35000309,2025-09-22,Permit Fee,230.3,Synthetic permit or filing fee
+COST-400500,WO-35000310,2026-05-12,Mileage/Travel,47.34,Synthetic mileage and travel expense
+COST-400501,WO-35000310,2026-05-12,Permit Fee,216.97,Synthetic permit or filing fee
+COST-400502,WO-35000311,2025-10-15,Mileage/Travel,35.9,Synthetic mileage and travel expense
+COST-400503,WO-35000311,2025-10-15,Permit Fee,202.99,Synthetic permit or filing fee
+COST-400504,WO-35000311,2025-10-15,Subcontractor,760.79,Synthetic subcontractor expense
+COST-400505,WO-35000312,2025-05-18,Mileage/Travel,23.01,Synthetic mileage and travel expense
+COST-400506,WO-35000312,2025-05-18,Subcontractor,622.6,Synthetic subcontractor expense
+COST-400507,WO-35000313,2026-01-22,Mileage/Travel,129.82,Synthetic mileage and travel expense
+COST-400508,WO-35000314,2025-12-02,Mileage/Travel,6.18,Synthetic mileage and travel expense
+COST-400509,WO-35000315,2025-02-09,Mileage/Travel,30.28,Synthetic mileage and travel expense
+COST-400510,WO-35000316,2025-06-21,Mileage/Travel,21.94,Synthetic mileage and travel expense
+COST-400511,WO-35000317,2026-06-13,Mileage/Travel,17.51,Synthetic mileage and travel expense
+COST-400512,WO-35000318,2025-03-12,Mileage/Travel,19.64,Synthetic mileage and travel expense
+COST-400513,WO-35000318,2025-03-12,Permit Fee,224.45,Synthetic permit or filing fee
+COST-400514,WO-35000319,2026-04-27,Mileage/Travel,6.3,Synthetic mileage and travel expense
+COST-400515,WO-35000319,2026-04-27,Permit Fee,151.94,Synthetic permit or filing fee
+COST-400516,WO-35000320,2025-05-13,Mileage/Travel,33.67,Synthetic mileage and travel expense
+COST-400517,WO-35000320,2025-05-13,Permit Fee,234.85,Synthetic permit or filing fee
+COST-400518,WO-35000321,2025-06-09,Mileage/Travel,38.15,Synthetic mileage and travel expense
+COST-400519,WO-35000321,2025-06-09,Permit Fee,264.05,Synthetic permit or filing fee
+COST-400520,WO-35000322,2026-06-10,Mileage/Travel,37.4,Synthetic mileage and travel expense
+COST-400521,WO-35000323,2026-01-22,Mileage/Travel,7.75,Synthetic mileage and travel expense
+COST-400522,WO-35000323,2026-01-22,Permit Fee,264.4,Synthetic permit or filing fee
+COST-400523,WO-35000324,2025-04-24,Mileage/Travel,5.98,Synthetic mileage and travel expense
+COST-400524,WO-35000325,2025-11-12,Mileage/Travel,93.03,Synthetic mileage and travel expense
+COST-400525,WO-35000326,2025-09-25,Mileage/Travel,6.48,Synthetic mileage and travel expense
+COST-400526,WO-35000327,2025-02-06,Mileage/Travel,46.36,Synthetic mileage and travel expense
+COST-400527,WO-35000328,2025-09-28,Mileage/Travel,37.68,Synthetic mileage and travel expense
+COST-400528,WO-35000328,2025-09-28,Permit Fee,129.84,Synthetic permit or filing fee
+COST-400529,WO-35000329,2025-11-23,Mileage/Travel,19.52,Synthetic mileage and travel expense
+COST-400530,WO-35000329,2025-11-23,Permit Fee,171.82,Synthetic permit or filing fee
+COST-400531,WO-35000330,2025-07-18,Mileage/Travel,45.68,Synthetic mileage and travel expense
+COST-400532,WO-35000331,2025-06-18,Mileage/Travel,33.84,Synthetic mileage and travel expense
+COST-400533,WO-35000332,2025-07-28,Mileage/Travel,27.27,Synthetic mileage and travel expense
+COST-400534,WO-35000333,2026-03-31,Mileage/Travel,45.31,Synthetic mileage and travel expense
+COST-400535,WO-35000333,2026-03-31,Permit Fee,221.92,Synthetic permit or filing fee
+COST-400536,WO-35000334,2025-06-27,Mileage/Travel,30.87,Synthetic mileage and travel expense
+COST-400537,WO-35000334,2025-06-27,Permit Fee,273.57,Synthetic permit or filing fee
+COST-400538,WO-35000335,2025-08-01,Mileage/Travel,18.66,Synthetic mileage and travel expense
+COST-400539,WO-35000336,2026-01-12,Mileage/Travel,27.49,Synthetic mileage and travel expense
+COST-400540,WO-35000336,2026-01-12,Permit Fee,74.38,Synthetic permit or filing fee
+COST-400541,WO-35000337,2025-12-27,Mileage/Travel,41.35,Synthetic mileage and travel expense
+COST-400542,WO-35000338,2025-02-26,Mileage/Travel,35.27,Synthetic mileage and travel expense
+COST-400543,WO-35000338,2025-02-26,Permit Fee,101.47,Synthetic permit or filing fee
+COST-400544,WO-35000339,2025-12-28,Mileage/Travel,21.48,Synthetic mileage and travel expense
+COST-400545,WO-35000339,2025-12-28,Permit Fee,227.43,Synthetic permit or filing fee
+COST-400546,WO-35000340,2026-06-12,Mileage/Travel,5.38,Synthetic mileage and travel expense
+COST-400547,WO-35000341,2025-02-11,Mileage/Travel,15.25,Synthetic mileage and travel expense
+COST-400548,WO-35000341,2025-02-11,Permit Fee,43.33,Synthetic permit or filing fee
+COST-400549,WO-35000342,2025-12-17,Mileage/Travel,28.52,Synthetic mileage and travel expense
+COST-400550,WO-35000342,2025-12-17,Permit Fee,100.63,Synthetic permit or filing fee
+COST-400551,WO-35000343,2026-04-26,Mileage/Travel,52.63,Synthetic mileage and travel expense
+COST-400552,WO-35000343,2026-04-26,Permit Fee,220.98,Synthetic permit or filing fee
+COST-400553,WO-35000343,2026-04-26,Subcontractor,152.73,Synthetic subcontractor expense
+COST-400554,WO-35000344,2026-01-10,Mileage/Travel,15.89,Synthetic mileage and travel expense
+COST-400555,WO-35000344,2026-01-10,Permit Fee,32.14,Synthetic permit or filing fee
+COST-400556,WO-35000345,2026-05-11,Mileage/Travel,38.03,Synthetic mileage and travel expense
+COST-400557,WO-35000346,2026-06-07,Mileage/Travel,88.75,Synthetic mileage and travel expense
+COST-400558,WO-35000347,2025-07-12,Mileage/Travel,25.16,Synthetic mileage and travel expense
+COST-400559,WO-35000348,2025-03-30,Mileage/Travel,105.03,Synthetic mileage and travel expense
+COST-400560,WO-35000349,2025-08-30,Mileage/Travel,81.51,Synthetic mileage and travel expense
+COST-400561,WO-35000349,2025-08-30,Permit Fee,175.71,Synthetic permit or filing fee
+COST-400562,WO-35000350,2025-03-06,Mileage/Travel,85.37,Synthetic mileage and travel expense
+COST-400563,WO-35000350,2025-03-06,Permit Fee,104.74,Synthetic permit or filing fee
+COST-400564,WO-35000351,2025-07-03,Mileage/Travel,39.02,Synthetic mileage and travel expense
+COST-400565,WO-35000351,2025-07-03,Permit Fee,175.61,Synthetic permit or filing fee
+COST-400566,WO-35000352,2025-02-23,Mileage/Travel,34.16,Synthetic mileage and travel expense
+COST-400567,WO-35000353,2025-04-07,Mileage/Travel,64.63,Synthetic mileage and travel expense
+COST-400568,WO-35000353,2025-04-07,Permit Fee,276.85,Synthetic permit or filing fee
+COST-400569,WO-35000353,2025-04-07,Subcontractor,284.09,Synthetic subcontractor expense
+COST-400570,WO-35000354,2026-02-23,Mileage/Travel,94.97,Synthetic mileage and travel expense
+COST-400571,WO-35000354,2026-02-23,Permit Fee,62.31,Synthetic permit or filing fee
+COST-400572,WO-35000355,2025-05-04,Mileage/Travel,55.43,Synthetic mileage and travel expense
+COST-400573,WO-35000356,2025-08-05,Mileage/Travel,33.46,Synthetic mileage and travel expense
+COST-400574,WO-35000357,2025-12-10,Mileage/Travel,35.05,Synthetic mileage and travel expense
+COST-400575,WO-35000357,2025-12-10,Permit Fee,185.15,Synthetic permit or filing fee
+COST-400576,WO-35000358,2025-07-13,Mileage/Travel,120.91,Synthetic mileage and travel expense
+COST-400577,WO-35000358,2025-07-13,Permit Fee,149.32,Synthetic permit or filing fee
+COST-400578,WO-35000359,2026-05-25,Mileage/Travel,57.27,Synthetic mileage and travel expense
+COST-400579,WO-35000360,2025-01-14,Mileage/Travel,34.58,Synthetic mileage and travel expense
+COST-400580,WO-35000360,2025-01-14,Permit Fee,167.73,Synthetic permit or filing fee
+COST-400581,WO-35000361,2026-06-12,Mileage/Travel,15.36,Synthetic mileage and travel expense
+COST-400582,WO-35000361,2026-06-12,Permit Fee,123.02,Synthetic permit or filing fee
+COST-400583,WO-35000362,2025-05-06,Mileage/Travel,58.68,Synthetic mileage and travel expense
+COST-400584,WO-35000363,2025-05-12,Mileage/Travel,44.04,Synthetic mileage and travel expense
+COST-400585,WO-35000363,2025-05-12,Permit Fee,232.25,Synthetic permit or filing fee
+COST-400586,WO-35000364,2025-12-31,Mileage/Travel,17.06,Synthetic mileage and travel expense
+COST-400587,WO-35000364,2025-12-31,Permit Fee,35.23,Synthetic permit or filing fee
+COST-400588,WO-35000365,2025-01-19,Mileage/Travel,47.4,Synthetic mileage and travel expense
+COST-400589,WO-35000365,2025-01-19,Permit Fee,101.02,Synthetic permit or filing fee
+COST-400590,WO-35000365,2025-01-19,Subcontractor,552.67,Synthetic subcontractor expense
+COST-400591,WO-35000366,2025-01-28,Mileage/Travel,61.47,Synthetic mileage and travel expense
+COST-400592,WO-35000366,2025-01-28,Permit Fee,120.37,Synthetic permit or filing fee
+COST-400593,WO-35000367,2025-04-05,Mileage/Travel,94.62,Synthetic mileage and travel expense
+COST-400594,WO-35000368,2025-03-30,Mileage/Travel,17.12,Synthetic mileage and travel expense
+COST-400595,WO-35000368,2025-03-30,Permit Fee,69.37,Synthetic permit or filing fee
+COST-400596,WO-35000369,2025-03-04,Mileage/Travel,49.85,Synthetic mileage and travel expense
+COST-400597,WO-35000369,2025-03-04,Permit Fee,256.29,Synthetic permit or filing fee
+COST-400598,WO-35000370,2025-08-30,Mileage/Travel,21.67,Synthetic mileage and travel expense
+COST-400599,WO-35000371,2025-07-08,Mileage/Travel,42.79,Synthetic mileage and travel expense
+COST-400600,WO-35000371,2025-07-08,Permit Fee,79.57,Synthetic permit or filing fee
+COST-400601,WO-35000372,2026-01-01,Mileage/Travel,64.31,Synthetic mileage and travel expense
+COST-400602,WO-35000372,2026-01-01,Permit Fee,159.64,Synthetic permit or filing fee
+COST-400603,WO-35000373,2025-02-28,Mileage/Travel,42.12,Synthetic mileage and travel expense
+COST-400604,WO-35000373,2025-02-28,Permit Fee,122.25,Synthetic permit or filing fee
+COST-400605,WO-35000374,2025-03-23,Mileage/Travel,59.56,Synthetic mileage and travel expense
+COST-400606,WO-35000374,2025-03-23,Permit Fee,231.4,Synthetic permit or filing fee
+COST-400607,WO-35000375,2025-01-16,Mileage/Travel,86.88,Synthetic mileage and travel expense
+COST-400608,WO-35000375,2025-01-16,Permit Fee,130.3,Synthetic permit or filing fee
+COST-400609,WO-35000376,2025-09-14,Mileage/Travel,34.27,Synthetic mileage and travel expense
+COST-400610,WO-35000376,2025-09-14,Permit Fee,95.57,Synthetic permit or filing fee
+COST-400611,WO-35000376,2025-09-14,Subcontractor,836.49,Synthetic subcontractor expense
+COST-400612,WO-35000377,2025-02-11,Mileage/Travel,52.44,Synthetic mileage and travel expense
+COST-400613,WO-35000378,2026-04-26,Mileage/Travel,18.27,Synthetic mileage and travel expense
+COST-400614,WO-35000379,2026-06-06,Mileage/Travel,52.8,Synthetic mileage and travel expense
+COST-400615,WO-35000379,2026-06-06,Permit Fee,258.96,Synthetic permit or filing fee
+COST-400616,WO-35000380,2026-04-16,Mileage/Travel,47.26,Synthetic mileage and travel expense
+COST-400617,WO-35000380,2026-04-16,Permit Fee,133.92,Synthetic permit or filing fee
+COST-400618,WO-35000381,2025-10-29,Mileage/Travel,13.67,Synthetic mileage and travel expense
+COST-400619,WO-35000382,2026-01-24,Mileage/Travel,81.81,Synthetic mileage and travel expense
+COST-400620,WO-35000382,2026-01-24,Permit Fee,148.82,Synthetic permit or filing fee
+COST-400621,WO-35000383,2026-03-07,Mileage/Travel,8.61,Synthetic mileage and travel expense
+COST-400622,WO-35000383,2026-03-07,Permit Fee,108.79,Synthetic permit or filing fee
+COST-400623,WO-35000384,2026-06-14,Mileage/Travel,16.23,Synthetic mileage and travel expense
+COST-400624,WO-35000384,2026-06-14,Permit Fee,197.06,Synthetic permit or filing fee
+COST-400625,WO-35000385,2025-04-27,Mileage/Travel,7.68,Synthetic mileage and travel expense
+COST-400626,WO-35000385,2025-04-27,Permit Fee,48.08,Synthetic permit or filing fee
+COST-400627,WO-35000386,2026-04-21,Mileage/Travel,63.29,Synthetic mileage and travel expense
+COST-400628,WO-35000386,2026-04-21,Permit Fee,239.11,Synthetic permit or filing fee
+COST-400629,WO-35000387,2026-02-18,Mileage/Travel,90.12,Synthetic mileage and travel expense
+COST-400630,WO-35000387,2026-02-18,Permit Fee,175.33,Synthetic permit or filing fee
+COST-400631,WO-35000387,2026-02-18,Subcontractor,688.3,Synthetic subcontractor expense
+COST-400632,WO-35000388,2026-05-22,Mileage/Travel,113.65,Synthetic mileage and travel expense
+COST-400633,WO-35000389,2025-10-06,Mileage/Travel,65.46,Synthetic mileage and travel expense
+COST-400634,WO-35000389,2025-10-06,Permit Fee,150.95,Synthetic permit or filing fee
+COST-400635,WO-35000389,2025-10-06,Subcontractor,612.55,Synthetic subcontractor expense
+COST-400636,WO-35000390,2025-07-21,Mileage/Travel,10.26,Synthetic mileage and travel expense
+COST-400637,WO-35000390,2025-07-21,Permit Fee,58.22,Synthetic permit or filing fee
+COST-400638,WO-35000391,2025-08-31,Mileage/Travel,33.24,Synthetic mileage and travel expense
+COST-400639,WO-35000391,2025-08-31,Permit Fee,208.25,Synthetic permit or filing fee
+COST-400640,WO-35000392,2025-08-16,Mileage/Travel,18.46,Synthetic mileage and travel expense
+COST-400641,WO-35000393,2025-11-23,Mileage/Travel,68.97,Synthetic mileage and travel expense
+COST-400642,WO-35000394,2026-05-21,Mileage/Travel,17.3,Synthetic mileage and travel expense
+COST-400643,WO-35000395,2026-01-17,Mileage/Travel,15.04,Synthetic mileage and travel expense
+COST-400644,WO-35000395,2026-01-17,Permit Fee,133.88,Synthetic permit or filing fee
+COST-400645,WO-35000396,2025-10-08,Mileage/Travel,23.84,Synthetic mileage and travel expense
+COST-400646,WO-35000396,2025-10-08,Permit Fee,50.97,Synthetic permit or filing fee
+COST-400647,WO-35000397,2026-04-04,Mileage/Travel,29.91,Synthetic mileage and travel expense
+COST-400648,WO-35000397,2026-04-04,Permit Fee,207.56,Synthetic permit or filing fee
+COST-400649,WO-35000398,2025-10-13,Mileage/Travel,6.72,Synthetic mileage and travel expense
+COST-400650,WO-35000398,2025-10-13,Permit Fee,235.74,Synthetic permit or filing fee
+COST-400651,WO-35000399,2026-01-11,Mileage/Travel,25.64,Synthetic mileage and travel expense
+COST-400652,WO-35000399,2026-01-11,Permit Fee,68.47,Synthetic permit or filing fee
+COST-400653,WO-35000400,2026-04-27,Mileage/Travel,192.83,Synthetic mileage and travel expense
+COST-400654,WO-35000401,2025-05-02,Mileage/Travel,30.42,Synthetic mileage and travel expense
+COST-400655,WO-35000402,2026-02-24,Mileage/Travel,131.18,Synthetic mileage and travel expense
+COST-400656,WO-35000402,2026-02-24,Permit Fee,269.18,Synthetic permit or filing fee
+COST-400657,WO-35000403,2025-10-15,Mileage/Travel,76.45,Synthetic mileage and travel expense
+COST-400658,WO-35000403,2025-10-15,Permit Fee,162.78,Synthetic permit or filing fee
+COST-400659,WO-35000404,2026-03-25,Mileage/Travel,27.64,Synthetic mileage and travel expense
+COST-400660,WO-35000404,2026-03-25,Permit Fee,111.38,Synthetic permit or filing fee
+COST-400661,WO-35000405,2025-04-25,Mileage/Travel,13.03,Synthetic mileage and travel expense
+COST-400662,WO-35000406,2025-09-26,Mileage/Travel,35.75,Synthetic mileage and travel expense
+COST-400663,WO-35000407,2026-04-01,Mileage/Travel,110.44,Synthetic mileage and travel expense
+COST-400664,WO-35000407,2026-04-01,Permit Fee,155.24,Synthetic permit or filing fee
+COST-400665,WO-35000408,2026-05-18,Mileage/Travel,170.77,Synthetic mileage and travel expense
+COST-400666,WO-35000409,2025-06-08,Mileage/Travel,6.53,Synthetic mileage and travel expense
+COST-400667,WO-35000409,2025-06-08,Permit Fee,163.71,Synthetic permit or filing fee
+COST-400668,WO-35000410,2025-06-13,Mileage/Travel,12.87,Synthetic mileage and travel expense
+COST-400669,WO-35000410,2025-06-13,Permit Fee,242.59,Synthetic permit or filing fee
+COST-400670,WO-35000410,2025-06-13,Subcontractor,267.24,Synthetic subcontractor expense
+COST-400671,WO-35000411,2026-04-26,Mileage/Travel,108.68,Synthetic mileage and travel expense
+COST-400672,WO-35000411,2026-04-26,Permit Fee,132.0,Synthetic permit or filing fee
+COST-400673,WO-35000412,2026-01-06,Mileage/Travel,49.97,Synthetic mileage and travel expense
+COST-400674,WO-35000412,2026-01-06,Permit Fee,254.36,Synthetic permit or filing fee
+COST-400675,WO-35000413,2025-03-13,Mileage/Travel,59.83,Synthetic mileage and travel expense
+COST-400676,WO-35000414,2025-06-15,Mileage/Travel,12.48,Synthetic mileage and travel expense
+COST-400677,WO-35000415,2025-09-17,Mileage/Travel,69.0,Synthetic mileage and travel expense
+COST-400678,WO-35000416,2025-09-17,Mileage/Travel,114.77,Synthetic mileage and travel expense
+COST-400679,WO-35000416,2025-09-17,Permit Fee,231.98,Synthetic permit or filing fee
+COST-400680,WO-35000417,2025-04-02,Mileage/Travel,100.79,Synthetic mileage and travel expense
+COST-400681,WO-35000417,2025-04-02,Permit Fee,199.68,Synthetic permit or filing fee
+COST-400682,WO-35000418,2025-09-05,Mileage/Travel,40.5,Synthetic mileage and travel expense
+COST-400683,WO-35000418,2025-09-05,Permit Fee,65.95,Synthetic permit or filing fee
+COST-400684,WO-35000419,2026-03-18,Mileage/Travel,61.7,Synthetic mileage and travel expense
+COST-400685,WO-35000420,2026-03-28,Mileage/Travel,39.93,Synthetic mileage and travel expense
+COST-400686,WO-35000420,2026-03-28,Permit Fee,184.46,Synthetic permit or filing fee
+COST-400687,WO-35000421,2025-04-10,Mileage/Travel,51.06,Synthetic mileage and travel expense
+COST-400688,WO-35000422,2026-04-08,Mileage/Travel,3.76,Synthetic mileage and travel expense
+COST-400689,WO-35000422,2026-04-08,Permit Fee,31.27,Synthetic permit or filing fee
+COST-400690,WO-35000423,2025-10-18,Mileage/Travel,45.7,Synthetic mileage and travel expense
+COST-400691,WO-35000423,2025-10-18,Permit Fee,205.83,Synthetic permit or filing fee
+COST-400692,WO-35000424,2025-06-12,Mileage/Travel,37.35,Synthetic mileage and travel expense
+COST-400693,WO-35000425,2026-06-04,Mileage/Travel,60.05,Synthetic mileage and travel expense
+COST-400694,WO-35000426,2026-02-08,Mileage/Travel,21.55,Synthetic mileage and travel expense
+COST-400695,WO-35000426,2026-02-08,Permit Fee,172.5,Synthetic permit or filing fee
+COST-400696,WO-35000427,2026-02-17,Mileage/Travel,67.4,Synthetic mileage and travel expense
+COST-400697,WO-35000428,2026-05-01,Mileage/Travel,41.69,Synthetic mileage and travel expense
+COST-400698,WO-35000428,2026-05-01,Permit Fee,220.34,Synthetic permit or filing fee
+COST-400699,WO-35000429,2025-07-08,Mileage/Travel,40.8,Synthetic mileage and travel expense
+COST-400700,WO-35000429,2025-07-08,Permit Fee,92.89,Synthetic permit or filing fee
+COST-400701,WO-35000430,2025-02-03,Mileage/Travel,76.01,Synthetic mileage and travel expense
+COST-400702,WO-35000431,2025-07-21,Mileage/Travel,31.56,Synthetic mileage and travel expense
+COST-400703,WO-35000431,2025-07-21,Permit Fee,251.71,Synthetic permit or filing fee
+COST-400704,WO-35000432,2025-10-17,Mileage/Travel,4.16,Synthetic mileage and travel expense
+COST-400705,WO-35000433,2026-05-31,Mileage/Travel,43.57,Synthetic mileage and travel expense
+COST-400706,WO-35000433,2026-05-31,Permit Fee,178.82,Synthetic permit or filing fee
+COST-400707,WO-35000434,2026-02-03,Mileage/Travel,27.73,Synthetic mileage and travel expense
+COST-400708,WO-35000435,2025-08-27,Mileage/Travel,35.91,Synthetic mileage and travel expense
+COST-400709,WO-35000435,2025-08-27,Permit Fee,80.89,Synthetic permit or filing fee
+COST-400710,WO-35000436,2025-03-27,Mileage/Travel,29.9,Synthetic mileage and travel expense
+COST-400711,WO-35000437,2025-10-04,Mileage/Travel,23.08,Synthetic mileage and travel expense
+COST-400712,WO-35000438,2026-06-09,Mileage/Travel,50.11,Synthetic mileage and travel expense
+COST-400713,WO-35000439,2026-05-22,Mileage/Travel,36.08,Synthetic mileage and travel expense
+COST-400714,WO-35000440,2025-03-27,Mileage/Travel,10.95,Synthetic mileage and travel expense
+COST-400715,WO-35000440,2025-03-27,Permit Fee,125.87,Synthetic permit or filing fee
+COST-400716,WO-35000441,2025-03-07,Mileage/Travel,25.92,Synthetic mileage and travel expense
+COST-400717,WO-35000441,2025-03-07,Permit Fee,126.05,Synthetic permit or filing fee
+COST-400718,WO-35000442,2025-07-14,Mileage/Travel,73.8,Synthetic mileage and travel expense
+COST-400719,WO-35000442,2025-07-14,Permit Fee,211.79,Synthetic permit or filing fee
+COST-400720,WO-35000443,2026-02-27,Mileage/Travel,24.95,Synthetic mileage and travel expense
+COST-400721,WO-35000443,2026-02-27,Permit Fee,132.82,Synthetic permit or filing fee
+COST-400722,WO-35000444,2025-03-13,Mileage/Travel,56.57,Synthetic mileage and travel expense
+COST-400723,WO-35000444,2025-03-13,Permit Fee,111.62,Synthetic permit or filing fee
+COST-400724,WO-35000445,2026-02-05,Mileage/Travel,33.21,Synthetic mileage and travel expense
+COST-400725,WO-35000445,2026-02-05,Permit Fee,114.19,Synthetic permit or filing fee
+COST-400726,WO-35000446,2025-10-08,Mileage/Travel,152.49,Synthetic mileage and travel expense
+COST-400727,WO-35000446,2025-10-08,Permit Fee,205.42,Synthetic permit or filing fee
+COST-400728,WO-35000447,2026-04-08,Mileage/Travel,21.43,Synthetic mileage and travel expense
+COST-400729,WO-35000447,2026-04-08,Permit Fee,204.21,Synthetic permit or filing fee
+COST-400730,WO-35000448,2025-08-28,Mileage/Travel,6.4,Synthetic mileage and travel expense
+COST-400731,WO-35000449,2025-02-16,Mileage/Travel,72.28,Synthetic mileage and travel expense
+COST-400732,WO-35000450,2026-03-03,Mileage/Travel,57.42,Synthetic mileage and travel expense
+COST-400733,WO-35000450,2026-03-03,Permit Fee,41.94,Synthetic permit or filing fee
+COST-400734,WO-35000451,2026-01-23,Mileage/Travel,47.79,Synthetic mileage and travel expense
+COST-400735,WO-35000452,2025-12-31,Mileage/Travel,29.8,Synthetic mileage and travel expense
+COST-400736,WO-35000453,2025-04-05,Mileage/Travel,33.45,Synthetic mileage and travel expense
+COST-400737,WO-35000453,2025-04-05,Permit Fee,273.57,Synthetic permit or filing fee
+COST-400738,WO-35000454,2026-03-25,Mileage/Travel,36.14,Synthetic mileage and travel expense
+COST-400739,WO-35000454,2026-03-25,Permit Fee,145.14,Synthetic permit or filing fee
+COST-400740,WO-35000455,2026-03-30,Mileage/Travel,16.94,Synthetic mileage and travel expense
+COST-400741,WO-35000456,2025-02-04,Mileage/Travel,19.4,Synthetic mileage and travel expense
+COST-400742,WO-35000457,2025-10-29,Mileage/Travel,24.82,Synthetic mileage and travel expense
+COST-400743,WO-35000458,2026-06-13,Mileage/Travel,43.06,Synthetic mileage and travel expense
+COST-400744,WO-35000458,2026-06-13,Permit Fee,221.85,Synthetic permit or filing fee
+COST-400745,WO-35000459,2025-03-05,Mileage/Travel,26.37,Synthetic mileage and travel expense
+COST-400746,WO-35000459,2025-03-05,Permit Fee,88.79,Synthetic permit or filing fee
+COST-400747,WO-35000460,2025-08-07,Mileage/Travel,82.18,Synthetic mileage and travel expense
+COST-400748,WO-35000461,2026-03-29,Mileage/Travel,3.96,Synthetic mileage and travel expense
+COST-400749,WO-35000461,2026-03-29,Permit Fee,244.04,Synthetic permit or filing fee
+COST-400750,WO-35000462,2025-07-31,Mileage/Travel,51.6,Synthetic mileage and travel expense
+COST-400751,WO-35000463,2025-08-07,Mileage/Travel,104.96,Synthetic mileage and travel expense
+COST-400752,WO-35000463,2025-08-07,Permit Fee,123.97,Synthetic permit or filing fee
+COST-400753,WO-35000464,2025-06-22,Mileage/Travel,31.75,Synthetic mileage and travel expense
+COST-400754,WO-35000465,2025-04-22,Mileage/Travel,36.2,Synthetic mileage and travel expense
+COST-400755,WO-35000465,2025-04-22,Permit Fee,189.41,Synthetic permit or filing fee
+COST-400756,WO-35000466,2025-11-14,Mileage/Travel,120.9,Synthetic mileage and travel expense
+COST-400757,WO-35000467,2025-06-30,Mileage/Travel,12.82,Synthetic mileage and travel expense
+COST-400758,WO-35000467,2025-06-30,Permit Fee,48.68,Synthetic permit or filing fee
+COST-400759,WO-35000468,2025-01-19,Mileage/Travel,50.1,Synthetic mileage and travel expense
+COST-400760,WO-35000468,2025-01-19,Permit Fee,136.3,Synthetic permit or filing fee
+COST-400761,WO-35000469,2025-12-21,Mileage/Travel,78.38,Synthetic mileage and travel expense
+COST-400762,WO-35000470,2026-01-01,Mileage/Travel,29.53,Synthetic mileage and travel expense
+COST-400763,WO-35000471,2025-08-31,Mileage/Travel,125.5,Synthetic mileage and travel expense
+COST-400764,WO-35000471,2025-08-31,Permit Fee,233.9,Synthetic permit or filing fee
+COST-400765,WO-35000472,2025-02-13,Mileage/Travel,286.11,Synthetic mileage and travel expense
+COST-400766,WO-35000473,2025-08-05,Mileage/Travel,90.16,Synthetic mileage and travel expense
+COST-400767,WO-35000473,2025-08-05,Permit Fee,183.97,Synthetic permit or filing fee
+COST-400768,WO-35000474,2025-07-23,Mileage/Travel,5.55,Synthetic mileage and travel expense
+COST-400769,WO-35000474,2025-07-23,Permit Fee,66.95,Synthetic permit or filing fee
+COST-400770,WO-35000475,2025-09-05,Mileage/Travel,61.81,Synthetic mileage and travel expense
+COST-400771,WO-35000475,2025-09-05,Permit Fee,279.96,Synthetic permit or filing fee
+COST-400772,WO-35000476,2026-05-31,Mileage/Travel,5.97,Synthetic mileage and travel expense
+COST-400773,WO-35000477,2025-07-15,Mileage/Travel,10.24,Synthetic mileage and travel expense
+COST-400774,WO-35000477,2025-07-15,Permit Fee,168.69,Synthetic permit or filing fee
+COST-400775,WO-35000478,2025-12-26,Mileage/Travel,10.31,Synthetic mileage and travel expense
+COST-400776,WO-35000478,2025-12-26,Permit Fee,218.45,Synthetic permit or filing fee
+COST-400777,WO-35000479,2026-01-16,Mileage/Travel,4.92,Synthetic mileage and travel expense
+COST-400778,WO-35000479,2026-01-16,Permit Fee,175.15,Synthetic permit or filing fee
+COST-400779,WO-35000480,2025-06-10,Mileage/Travel,98.35,Synthetic mileage and travel expense
+COST-400780,WO-35000481,2026-06-12,Mileage/Travel,93.11,Synthetic mileage and travel expense
+COST-400781,WO-35000481,2026-06-12,Permit Fee,196.34,Synthetic permit or filing fee
+COST-400782,WO-35000482,2026-02-14,Mileage/Travel,81.16,Synthetic mileage and travel expense
+COST-400783,WO-35000482,2026-02-14,Permit Fee,245.54,Synthetic permit or filing fee
+COST-400784,WO-35000483,2026-04-06,Mileage/Travel,59.43,Synthetic mileage and travel expense
+COST-400785,WO-35000484,2025-11-17,Mileage/Travel,32.08,Synthetic mileage and travel expense
+COST-400786,WO-35000485,2025-07-04,Mileage/Travel,8.55,Synthetic mileage and travel expense
+COST-400787,WO-35000486,2025-01-19,Mileage/Travel,55.25,Synthetic mileage and travel expense
+COST-400788,WO-35000487,2026-02-23,Mileage/Travel,9.59,Synthetic mileage and travel expense
+COST-400789,WO-35000487,2026-02-23,Permit Fee,66.0,Synthetic permit or filing fee
+COST-400790,WO-35000488,2025-03-02,Mileage/Travel,143.39,Synthetic mileage and travel expense
+COST-400791,WO-35000488,2025-03-02,Permit Fee,115.62,Synthetic permit or filing fee
+COST-400792,WO-35000489,2026-01-27,Mileage/Travel,48.24,Synthetic mileage and travel expense
+COST-400793,WO-35000490,2025-04-08,Mileage/Travel,50.68,Synthetic mileage and travel expense
+COST-400794,WO-35000491,2026-01-25,Mileage/Travel,43.31,Synthetic mileage and travel expense
+COST-400795,WO-35000491,2026-01-25,Permit Fee,165.67,Synthetic permit or filing fee
+COST-400796,WO-35000492,2026-05-27,Mileage/Travel,36.95,Synthetic mileage and travel expense
+COST-400797,WO-35000492,2026-05-27,Permit Fee,218.69,Synthetic permit or filing fee
+COST-400798,WO-35000493,2026-03-30,Mileage/Travel,51.46,Synthetic mileage and travel expense
+COST-400799,WO-35000494,2026-02-01,Mileage/Travel,24.04,Synthetic mileage and travel expense
+COST-400800,WO-35000494,2026-02-01,Permit Fee,163.96,Synthetic permit or filing fee
+COST-400801,WO-35000495,2025-06-21,Mileage/Travel,57.69,Synthetic mileage and travel expense
+COST-400802,WO-35000496,2026-05-10,Mileage/Travel,10.83,Synthetic mileage and travel expense
+COST-400803,WO-35000496,2026-05-10,Permit Fee,102.94,Synthetic permit or filing fee
+COST-400804,WO-35000497,2026-04-15,Mileage/Travel,105.42,Synthetic mileage and travel expense
+COST-400805,WO-35000498,2025-07-13,Mileage/Travel,19.07,Synthetic mileage and travel expense
+COST-400806,WO-35000498,2025-07-13,Permit Fee,237.27,Synthetic permit or filing fee
+COST-400807,WO-35000499,2025-02-23,Mileage/Travel,32.06,Synthetic mileage and travel expense
+COST-400808,WO-35000500,2025-06-12,Mileage/Travel,57.09,Synthetic mileage and travel expense
+COST-400809,WO-35000500,2025-06-12,Permit Fee,221.58,Synthetic permit or filing fee
+COST-400810,WO-35000500,2025-06-12,Subcontractor,599.42,Synthetic subcontractor expense
+COST-400811,WO-35000501,2025-07-18,Mileage/Travel,22.37,Synthetic mileage and travel expense
+COST-400812,WO-35000501,2025-07-18,Permit Fee,128.49,Synthetic permit or filing fee
+COST-400813,WO-35000502,2026-02-08,Mileage/Travel,47.12,Synthetic mileage and travel expense
+COST-400814,WO-35000502,2026-02-08,Permit Fee,224.28,Synthetic permit or filing fee
+COST-400815,WO-35000503,2025-08-06,Mileage/Travel,22.09,Synthetic mileage and travel expense
+COST-400816,WO-35000503,2025-08-06,Permit Fee,149.03,Synthetic permit or filing fee
+COST-400817,WO-35000504,2026-03-06,Mileage/Travel,12.66,Synthetic mileage and travel expense
+COST-400818,WO-35000505,2025-05-05,Mileage/Travel,13.46,Synthetic mileage and travel expense
+COST-400819,WO-35000505,2025-05-05,Permit Fee,197.62,Synthetic permit or filing fee
+COST-400820,WO-35000506,2025-05-21,Mileage/Travel,17.35,Synthetic mileage and travel expense
+COST-400821,WO-35000506,2025-05-21,Permit Fee,145.0,Synthetic permit or filing fee
+COST-400822,WO-35000507,2026-04-20,Mileage/Travel,39.35,Synthetic mileage and travel expense
+COST-400823,WO-35000507,2026-04-20,Permit Fee,182.64,Synthetic permit or filing fee
+COST-400824,WO-35000508,2025-11-10,Mileage/Travel,7.78,Synthetic mileage and travel expense
+COST-400825,WO-35000509,2026-02-12,Mileage/Travel,18.14,Synthetic mileage and travel expense
+COST-400826,WO-35000509,2026-02-12,Permit Fee,55.84,Synthetic permit or filing fee
+COST-400827,WO-35000510,2025-05-14,Mileage/Travel,28.14,Synthetic mileage and travel expense
+COST-400828,WO-35000510,2025-05-14,Permit Fee,240.49,Synthetic permit or filing fee
+COST-400829,WO-35000511,2025-12-14,Mileage/Travel,15.45,Synthetic mileage and travel expense
+COST-400830,WO-35000512,2025-08-08,Mileage/Travel,87.04,Synthetic mileage and travel expense
+COST-400831,WO-35000512,2025-08-08,Permit Fee,161.96,Synthetic permit or filing fee
+COST-400832,WO-35000513,2025-02-08,Mileage/Travel,32.76,Synthetic mileage and travel expense
+COST-400833,WO-35000513,2025-02-08,Permit Fee,36.62,Synthetic permit or filing fee
+COST-400834,WO-35000514,2025-08-11,Mileage/Travel,26.99,Synthetic mileage and travel expense
+COST-400835,WO-35000514,2025-08-11,Permit Fee,27.86,Synthetic permit or filing fee
+COST-400836,WO-35000515,2026-06-01,Mileage/Travel,4.46,Synthetic mileage and travel expense
+COST-400837,WO-35000515,2026-06-01,Permit Fee,257.35,Synthetic permit or filing fee
+COST-400838,WO-35000516,2025-01-30,Mileage/Travel,23.67,Synthetic mileage and travel expense
+COST-400839,WO-35000516,2025-01-30,Permit Fee,49.61,Synthetic permit or filing fee
+COST-400840,WO-35000517,2025-12-25,Mileage/Travel,62.57,Synthetic mileage and travel expense
+COST-400841,WO-35000517,2025-12-25,Permit Fee,41.14,Synthetic permit or filing fee
+COST-400842,WO-35000518,2025-06-07,Mileage/Travel,9.85,Synthetic mileage and travel expense
+COST-400843,WO-35000518,2025-06-07,Permit Fee,209.72,Synthetic permit or filing fee
+COST-400844,WO-35000519,2026-04-09,Mileage/Travel,28.3,Synthetic mileage and travel expense
+COST-400845,WO-35000519,2026-04-09,Permit Fee,75.18,Synthetic permit or filing fee
+COST-400846,WO-35000520,2026-06-11,Mileage/Travel,44.04,Synthetic mileage and travel expense
+COST-400847,WO-35000520,2026-06-11,Permit Fee,250.77,Synthetic permit or filing fee
+COST-400848,WO-35000521,2026-06-16,Mileage/Travel,63.85,Synthetic mileage and travel expense
+COST-400849,WO-35000522,2025-09-12,Mileage/Travel,31.59,Synthetic mileage and travel expense
+COST-400850,WO-35000523,2025-05-20,Mileage/Travel,13.33,Synthetic mileage and travel expense
+COST-400851,WO-35000524,2025-08-09,Mileage/Travel,128.24,Synthetic mileage and travel expense
+COST-400852,WO-35000524,2025-08-09,Permit Fee,238.08,Synthetic permit or filing fee
+COST-400853,WO-35000525,2025-08-14,Mileage/Travel,21.95,Synthetic mileage and travel expense
+COST-400854,WO-35000525,2025-08-14,Permit Fee,82.06,Synthetic permit or filing fee
+COST-400855,WO-35000526,2025-12-07,Mileage/Travel,18.42,Synthetic mileage and travel expense
+COST-400856,WO-35000526,2025-12-07,Permit Fee,143.51,Synthetic permit or filing fee
+COST-400857,WO-35000527,2025-12-07,Mileage/Travel,221.84,Synthetic mileage and travel expense
+COST-400858,WO-35000528,2025-09-27,Mileage/Travel,16.73,Synthetic mileage and travel expense
+COST-400859,WO-35000528,2025-09-27,Permit Fee,246.94,Synthetic permit or filing fee
+COST-400860,WO-35000529,2025-05-15,Mileage/Travel,14.38,Synthetic mileage and travel expense
+COST-400861,WO-35000530,2025-10-04,Mileage/Travel,84.68,Synthetic mileage and travel expense
+COST-400862,WO-35000530,2025-10-04,Permit Fee,27.03,Synthetic permit or filing fee
+COST-400863,WO-35000531,2025-12-04,Mileage/Travel,16.98,Synthetic mileage and travel expense
+COST-400864,WO-35000531,2025-12-04,Permit Fee,115.76,Synthetic permit or filing fee
+COST-400865,WO-35000532,2025-02-24,Mileage/Travel,25.11,Synthetic mileage and travel expense
+COST-400866,WO-35000532,2025-02-24,Permit Fee,200.17,Synthetic permit or filing fee
+COST-400867,WO-35000533,2025-02-15,Mileage/Travel,13.73,Synthetic mileage and travel expense
+COST-400868,WO-35000533,2025-02-15,Permit Fee,49.3,Synthetic permit or filing fee
+COST-400869,WO-35000534,2025-11-14,Mileage/Travel,52.53,Synthetic mileage and travel expense
+COST-400870,WO-35000534,2025-11-14,Permit Fee,245.98,Synthetic permit or filing fee
+COST-400871,WO-35000535,2026-01-27,Mileage/Travel,5.22,Synthetic mileage and travel expense
+COST-400872,WO-35000536,2025-03-17,Mileage/Travel,88.87,Synthetic mileage and travel expense
+COST-400873,WO-35000536,2025-03-17,Permit Fee,76.55,Synthetic permit or filing fee
+COST-400874,WO-35000537,2025-08-07,Mileage/Travel,37.67,Synthetic mileage and travel expense
+COST-400875,WO-35000537,2025-08-07,Permit Fee,56.26,Synthetic permit or filing fee
+COST-400876,WO-35000538,2025-05-12,Mileage/Travel,53.91,Synthetic mileage and travel expense
+COST-400877,WO-35000538,2025-05-12,Permit Fee,143.34,Synthetic permit or filing fee
+COST-400878,WO-35000539,2025-02-11,Mileage/Travel,16.68,Synthetic mileage and travel expense
+COST-400879,WO-35000539,2025-02-11,Permit Fee,59.42,Synthetic permit or filing fee
+COST-400880,WO-35000540,2025-07-22,Mileage/Travel,30.75,Synthetic mileage and travel expense
+COST-400881,WO-35000540,2025-07-22,Permit Fee,93.5,Synthetic permit or filing fee
+COST-400882,WO-35000541,2026-02-09,Mileage/Travel,62.57,Synthetic mileage and travel expense
+COST-400883,WO-35000542,2025-10-14,Mileage/Travel,70.23,Synthetic mileage and travel expense
+COST-400884,WO-35000542,2025-10-14,Permit Fee,251.91,Synthetic permit or filing fee
+COST-400885,WO-35000543,2025-05-06,Mileage/Travel,49.14,Synthetic mileage and travel expense
+COST-400886,WO-35000543,2025-05-06,Permit Fee,223.26,Synthetic permit or filing fee
+COST-400887,WO-35000544,2025-05-02,Mileage/Travel,26.64,Synthetic mileage and travel expense
+COST-400888,WO-35000544,2025-05-02,Permit Fee,209.02,Synthetic permit or filing fee
+COST-400889,WO-35000544,2025-05-02,Subcontractor,410.97,Synthetic subcontractor expense
+COST-400890,WO-35000545,2025-04-02,Mileage/Travel,75.5,Synthetic mileage and travel expense
+COST-400891,WO-35000545,2025-04-02,Permit Fee,132.26,Synthetic permit or filing fee
+COST-400892,WO-35000546,2025-05-11,Mileage/Travel,54.94,Synthetic mileage and travel expense
+COST-400893,WO-35000546,2025-05-11,Permit Fee,263.78,Synthetic permit or filing fee
+COST-400894,WO-35000547,2026-05-06,Mileage/Travel,24.73,Synthetic mileage and travel expense
+COST-400895,WO-35000547,2026-05-06,Permit Fee,85.47,Synthetic permit or filing fee
+COST-400896,WO-35000548,2025-02-08,Mileage/Travel,50.81,Synthetic mileage and travel expense
+COST-400897,WO-35000548,2025-02-08,Permit Fee,27.12,Synthetic permit or filing fee
+COST-400898,WO-35000549,2025-04-02,Mileage/Travel,20.82,Synthetic mileage and travel expense
+COST-400899,WO-35000550,2025-08-21,Mileage/Travel,79.22,Synthetic mileage and travel expense
+COST-400900,WO-35000551,2026-06-10,Mileage/Travel,40.94,Synthetic mileage and travel expense
+COST-400901,WO-35000551,2026-06-10,Permit Fee,123.29,Synthetic permit or filing fee
+COST-400902,WO-35000552,2025-03-10,Mileage/Travel,12.97,Synthetic mileage and travel expense
+COST-400903,WO-35000552,2025-03-10,Permit Fee,234.81,Synthetic permit or filing fee
+COST-400904,WO-35000553,2025-02-14,Mileage/Travel,42.46,Synthetic mileage and travel expense
+COST-400905,WO-35000553,2025-02-14,Permit Fee,136.3,Synthetic permit or filing fee
+COST-400906,WO-35000554,2026-03-02,Mileage/Travel,5.55,Synthetic mileage and travel expense
+COST-400907,WO-35000555,2026-05-25,Mileage/Travel,104.05,Synthetic mileage and travel expense
+COST-400908,WO-35000555,2026-05-25,Permit Fee,44.99,Synthetic permit or filing fee
+COST-400909,WO-35000556,2025-11-29,Mileage/Travel,136.72,Synthetic mileage and travel expense
+COST-400910,WO-35000557,2025-01-31,Mileage/Travel,10.71,Synthetic mileage and travel expense
+COST-400911,WO-35000558,2025-06-16,Mileage/Travel,14.19,Synthetic mileage and travel expense
+COST-400912,WO-35000558,2025-06-16,Permit Fee,100.04,Synthetic permit or filing fee
+COST-400913,WO-35000559,2026-02-22,Mileage/Travel,71.9,Synthetic mileage and travel expense
+COST-400914,WO-35000560,2025-12-29,Mileage/Travel,25.46,Synthetic mileage and travel expense
+COST-400915,WO-35000561,2025-11-01,Mileage/Travel,72.52,Synthetic mileage and travel expense
+COST-400916,WO-35000562,2026-04-05,Mileage/Travel,54.47,Synthetic mileage and travel expense
+COST-400917,WO-35000562,2026-04-05,Permit Fee,72.04,Synthetic permit or filing fee
+COST-400918,WO-35000563,2026-05-15,Mileage/Travel,30.33,Synthetic mileage and travel expense
+COST-400919,WO-35000564,2025-01-24,Mileage/Travel,4.5,Synthetic mileage and travel expense
+COST-400920,WO-35000564,2025-01-24,Permit Fee,44.96,Synthetic permit or filing fee
+COST-400921,WO-35000565,2025-06-22,Mileage/Travel,12.4,Synthetic mileage and travel expense
+COST-400922,WO-35000565,2025-06-22,Permit Fee,27.14,Synthetic permit or filing fee
+COST-400923,WO-35000566,2025-04-20,Mileage/Travel,29.28,Synthetic mileage and travel expense
+COST-400924,WO-35000567,2026-05-24,Mileage/Travel,41.44,Synthetic mileage and travel expense
+COST-400925,WO-35000568,2026-05-01,Mileage/Travel,18.43,Synthetic mileage and travel expense
+COST-400926,WO-35000568,2026-05-01,Permit Fee,225.97,Synthetic permit or filing fee
+COST-400927,WO-35000569,2025-04-03,Mileage/Travel,18.44,Synthetic mileage and travel expense
+COST-400928,WO-35000570,2025-08-17,Mileage/Travel,8.32,Synthetic mileage and travel expense
+COST-400929,WO-35000571,2025-06-06,Mileage/Travel,20.24,Synthetic mileage and travel expense
+COST-400930,WO-35000572,2026-06-08,Mileage/Travel,56.08,Synthetic mileage and travel expense
+COST-400931,WO-35000572,2026-06-08,Permit Fee,90.3,Synthetic permit or filing fee
+COST-400932,WO-35000573,2025-04-25,Mileage/Travel,25.05,Synthetic mileage and travel expense
+COST-400933,WO-35000574,2026-05-07,Mileage/Travel,43.89,Synthetic mileage and travel expense
+COST-400934,WO-35000575,2025-02-05,Mileage/Travel,21.35,Synthetic mileage and travel expense
+COST-400935,WO-35000576,2025-12-15,Mileage/Travel,48.26,Synthetic mileage and travel expense
+COST-400936,WO-35000577,2026-02-12,Mileage/Travel,157.91,Synthetic mileage and travel expense
+COST-400937,WO-35000577,2026-02-12,Permit Fee,226.23,Synthetic permit or filing fee
+COST-400938,WO-35000578,2025-10-30,Mileage/Travel,64.01,Synthetic mileage and travel expense
+COST-400939,WO-35000578,2025-10-30,Permit Fee,103.68,Synthetic permit or filing fee
+COST-400940,WO-35000579,2025-08-02,Mileage/Travel,8.18,Synthetic mileage and travel expense
+COST-400941,WO-35000579,2025-08-02,Permit Fee,218.53,Synthetic permit or filing fee
+COST-400942,WO-35000580,2025-07-02,Mileage/Travel,73.81,Synthetic mileage and travel expense
+COST-400943,WO-35000580,2025-07-02,Permit Fee,62.49,Synthetic permit or filing fee
+COST-400944,WO-35000581,2025-07-02,Mileage/Travel,46.95,Synthetic mileage and travel expense
+COST-400945,WO-35000581,2025-07-02,Permit Fee,26.41,Synthetic permit or filing fee
+COST-400946,WO-35000582,2025-10-17,Mileage/Travel,123.22,Synthetic mileage and travel expense
+COST-400947,WO-35000582,2025-10-17,Permit Fee,52.9,Synthetic permit or filing fee
+COST-400948,WO-35000583,2026-01-24,Mileage/Travel,47.1,Synthetic mileage and travel expense
+COST-400949,WO-35000583,2026-01-24,Permit Fee,137.19,Synthetic permit or filing fee
+COST-400950,WO-35000584,2026-06-01,Mileage/Travel,30.53,Synthetic mileage and travel expense
+COST-400951,WO-35000584,2026-06-01,Permit Fee,43.53,Synthetic permit or filing fee
+COST-400952,WO-35000585,2025-09-07,Mileage/Travel,11.57,Synthetic mileage and travel expense
+COST-400953,WO-35000585,2025-09-07,Permit Fee,27.85,Synthetic permit or filing fee
+COST-400954,WO-35000586,2025-09-16,Mileage/Travel,61.5,Synthetic mileage and travel expense
+COST-400955,WO-35000587,2026-02-18,Mileage/Travel,3.83,Synthetic mileage and travel expense
+COST-400956,WO-35000587,2026-02-18,Permit Fee,131.94,Synthetic permit or filing fee
+COST-400957,WO-35000588,2025-08-08,Mileage/Travel,39.2,Synthetic mileage and travel expense
+COST-400958,WO-35000589,2025-11-03,Mileage/Travel,24.88,Synthetic mileage and travel expense
+COST-400959,WO-35000589,2025-11-03,Permit Fee,141.18,Synthetic permit or filing fee
+COST-400960,WO-35000590,2025-12-25,Mileage/Travel,90.94,Synthetic mileage and travel expense
+COST-400961,WO-35000591,2026-02-28,Mileage/Travel,7.68,Synthetic mileage and travel expense
+COST-400962,WO-35000591,2026-02-28,Permit Fee,69.48,Synthetic permit or filing fee
+COST-400963,WO-35000592,2025-11-04,Mileage/Travel,22.83,Synthetic mileage and travel expense
+COST-400964,WO-35000592,2025-11-04,Subcontractor,695.79,Synthetic subcontractor expense
+COST-400965,WO-35000593,2025-09-01,Mileage/Travel,42.03,Synthetic mileage and travel expense
+COST-400966,WO-35000593,2025-09-01,Permit Fee,240.83,Synthetic permit or filing fee
+COST-400967,WO-35000593,2025-09-01,Subcontractor,484.19,Synthetic subcontractor expense
+COST-400968,WO-35000594,2025-02-27,Mileage/Travel,44.09,Synthetic mileage and travel expense
+COST-400969,WO-35000595,2025-12-16,Mileage/Travel,79.18,Synthetic mileage and travel expense
+COST-400970,WO-35000595,2025-12-16,Permit Fee,71.26,Synthetic permit or filing fee
+COST-400971,WO-35000596,2026-03-09,Mileage/Travel,27.09,Synthetic mileage and travel expense
+COST-400972,WO-35000596,2026-03-09,Permit Fee,162.57,Synthetic permit or filing fee
+COST-400973,WO-35000597,2025-12-12,Mileage/Travel,23.91,Synthetic mileage and travel expense
+COST-400974,WO-35000598,2026-02-05,Mileage/Travel,30.25,Synthetic mileage and travel expense
+COST-400975,WO-35000599,2025-10-10,Mileage/Travel,123.78,Synthetic mileage and travel expense
+COST-400976,WO-35000599,2025-10-10,Permit Fee,42.3,Synthetic permit or filing fee
