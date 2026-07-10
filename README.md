@@ -202,7 +202,7 @@ The `sql/` directory contains:
 - `profit_loss_views.sql` — reusable revenue, labor, and profit-and-loss views
 - `quality_checks.sql` — SQL checks for duplicates, orphan records, invalid values, and missing rates
 
-A production implementation should map enterprise source fields to the documented logical model rather than uploading confidential data to this public repository. See [docs/snowflake-integration.md](snowflake-integration.md).
+A production implementation should map enterprise source fields to the documented logical model rather than uploading confidential data to this public repository. See [snowflake-integration.md](snowflake-integration.md).
 
 ## Documentation and Wiki
 
