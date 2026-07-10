@@ -218,7 +218,7 @@ Start with:
 - [Developer Guide](developer-guide.md)
 - [GitHub Wiki Home](wiki/Home.md)
 
-To publish the included Wiki pages to an enabled GitHub Wiki, see [docs/wiki-publishing.md](docs/wiki-publishing.md).
+To publish the included Wiki pages to an enabled GitHub Wiki, see [wiki-publishing.md](wiki-publishing.md).
 
 ## Limitations
 
